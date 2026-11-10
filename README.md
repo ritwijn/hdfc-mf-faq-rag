@@ -50,8 +50,8 @@ See [`Docs/sample_qa.md`](Docs/sample_qa.md) for 10 sample questions with the as
 Requirements: Python 3.11+ (developed on 3.14), macOS/Linux, a [Groq](https://console.groq.com) API key.
 
 ```bash
-git clone git@github.com:ritwijn/BuildHoursNov1.git
-cd BuildHoursNov1
+git clone git@github.com:ritwijn/hdfc-mf-faq-rag.git
+cd hdfc-mf-faq-rag
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements-dev.txt      # ingest + local server + tests (includes PyTorch, large)
