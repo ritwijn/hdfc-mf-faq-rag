@@ -4,7 +4,7 @@ Scheme name: HDFC Flexi Cap Direct Plan Growth
 Fund house: HDFC Mutual Fund
 Category: Equity
 Sub-category: Flexi Cap
-Expense ratio: 0.75%
+Expense ratio: 0.74%
 Exit load: Exit load of 1% if redeemed within 1 year
 
 Minimum SIP: ₹100
