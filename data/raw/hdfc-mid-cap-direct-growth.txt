@@ -11,7 +11,7 @@ Minimum lumpsum: ₹100
 Lock-in: None (no lock-in stated)
 Riskometer: Very High
 Benchmark: NIFTY Midcap 150 Total Return Index
-AUM: ₹101,856.06 Cr
+AUM: ₹100,687.07 Cr
 Launch date: 01-Jan-2013
 Fund manager: Chirag Setalvad
 SIP allowed: True

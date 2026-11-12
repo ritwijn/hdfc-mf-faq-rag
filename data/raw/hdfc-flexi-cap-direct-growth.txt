@@ -12,7 +12,7 @@ Minimum lumpsum: ₹100
 Lock-in: None (no lock-in stated)
 Riskometer: Very High
 Benchmark: NIFTY 500 Total Return Index
-AUM: ₹108,546.98 Cr
+AUM: ₹110,441.27 Cr
 Launch date: 01-Jan-2013
 Fund manager: Prashant Jain
 SIP allowed: True
