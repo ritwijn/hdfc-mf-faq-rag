@@ -56,7 +56,7 @@ Fund house: HDFC Mutual Fund
 Asset management company: HDFC Mutual Fund
 Sponsor: HDFC Ltd., Abrdn Investment Management Limited (AIML) erstwhile (Standard Life Investments)
 Trustee: HDFC Trustee Company Ltd
-Total AUM: 934075.65943461
+Total AUM: 933671.13933074
 Address: "HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020
 CEO: Navneet Munot(Chief Executive Officer)
 CIO: Head – Equities: Chirag Setalvad, Head – Fixed Income: Shobhit Mehrotra
@@ -105,5 +105,5 @@ MD: Mr. Navneet Munot
 CEO: Navneet Munot(Chief Executive Officer)
 Compliance Officer: Ms. Supriya Sapre
 Investor Service Officer: Mr. Sameer Sakseria
-Total AUM (as of end of last quarter): ₹9,34,075.66Cr
+Total AUM (as of end of last quarter): ₹9,33,671.14Cr
 Address: "HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020

@@ -4,14 +4,14 @@ Scheme name: HDFC ELSS Tax Saver Fund Direct Plan Growth
 Fund house: HDFC Mutual Fund
 Category: Equity
 Sub-category: ELSS
-Expense ratio: 1.19%
+Expense ratio: 1.18%
 Exit load: Nil
 Minimum SIP: ₹500
 Minimum lumpsum: ₹500
 Lock-in: 3 year(s)
 Riskometer: Very High
 Benchmark: NIFTY 500 Total Return Index
-AUM: ₹14,948.74 Cr
+AUM: ₹15,108.43 Cr
 Launch date: 01-Jan-2013
 Fund manager: Vinay Kulkarni
 SIP allowed: True
