@@ -7,7 +7,7 @@ An open ended dynamic equity scheme investing across large cap, mid cap & small 
 simple and performing scheme which is eligible for distribution by new cadre of distributors)
 CATEGORY OF SCHEME
 FLEXI CAP FUND
-INVESTMENT OBJECTIVE: To generate capital appreciation / income from a portfolio, predominantly invested in equity & equity related instruments. Th ere is no assurance
+INVESTMENT OBJECTIVE: To generate capital appreciation / income from a portfolio, predominantly invested in equity & equity related instruments. There is no assurance
 that the investment objective of the Scheme will be achieved.
 FUND MANAGER ¥
 Name Since Total Exp
@@ -319,7 +319,7 @@ An open ended equity scheme predominantly investing in large cap stocks(This is 
 performing scheme which is eligible for distribution by new cadre of distributors)
 CATEGORY OF SCHEME
 LARGE-CAP FUND
-INVESTMENT OBJECTIVE: To provide long-term capital appreciation/income by investing predominantly in Large -Cap companies. There is no assurance that the investment
+INVESTMENT OBJECTIVE: To provide long-term capital appreciation/income by investing predominantly in Large-Cap companies. There is no assurance that the investment
 objective of the Scheme will be achieved.
 FUND MANAGER ¥
 Name Since Total Exp
@@ -559,7 +559,7 @@ Oct 11, 96 Since Inception 17.96 NA 13.03 1,357,910 NA 381,780
 Returns greater than 1 year period are compounded annualized (CAGR). N.A. Not Available. $$ All Distributions declared prior to
 the splitting of the Scheme into IDCW & Growth Options are assumed to be reinvested in the units of the Scheme at the then
 prevailing NAV (ex-distribution NAV). For performance of other schemes managed by Rahul Baijal, please refer page 107.
-Different plans viz. Regular Plan and Direct Plan have a different expense structure. The expenses of the Direct Plan under t he
+Different plans viz. Regular Plan and Direct Plan have a different expense structure. The expenses of the Direct Plan under the
 Scheme will be lower to the extent of the distribution expenses / commission charged in the Regular Plan. For Performance of
 Direct Plan, refer page 112 to 119.
 ^Past performance may or may not be sustained in future and is not a guarantee of any future returns. Load is not taken
@@ -573,7 +573,7 @@ HDFC Mid Cap Fund
 An open ended equity scheme predominantly investing in mid cap stocks
 CATEGORY OF SCHEME
 MID CAP FUND
-INVESTMENT OBJECTIVE: To provide long-term capital appreciation/income by investing predominantly in Mid -Cap companies. There is no assurance that the investment
+INVESTMENT OBJECTIVE: To provide long-term capital appreciation/income by investing predominantly in Mid-Cap companies. There is no assurance that the investment
 objective of the Scheme will be achieved.
 FUND MANAGER ¥
 Name Since Total Exp

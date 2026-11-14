@@ -2,11 +2,11 @@
   "source_id": "hdfc-elss-kim",
   "title": "KIM - HDFC ELSS Tax Saver (21 Nov 2025)",
   "url": "https://files.hdfcfund.com/s3fs-public/KIM/2025-11/KIM%20-%20HDFC%20ELSS%20Tax%20Saver%20dated%20November%2021,%202025.pdf",
-  "fetched_at": "2026-11-13T02:00:31Z",
+  "fetched_at": "2026-11-14T01:33:18Z",
   "http_status": 200,
   "content_type": "application/pdf",
   "fetch_method": "http",
-  "text_chars": 61425,
+  "text_chars": 61311,
   "section_count": 22,
   "error": null
 }

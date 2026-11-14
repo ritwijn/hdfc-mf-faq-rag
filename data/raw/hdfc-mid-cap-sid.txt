@@ -120,7 +120,7 @@ II. Category of the Scheme Mid Cap Fund
 III. Scheme Type An open ended equity scheme predominantly investing in mid
 cap stocks.
 IV. SEBI Scheme Code HDFC/O/E/MIF/07/04/0015
-V. Investment Objective To provide long -term capital appreciation/income by investing
+V. Investment Objective To provide long-term capital appreciation/income by investing
 predominantly in Mid-Cap companies.
 There is no assurance that the investment objective of the
 Scheme will be achieved.
@@ -129,7 +129,7 @@ Business day at NAV based prices.
 VII. Benchmark (Total Return
 Index)
 The benchmark of the scheme is NIFTY MIDCAP 150 (TRI). The
-same is in line with AMFI prescribed guidelines. Hence , the
+same is in line with AMFI prescribed guidelines. Hence, the
 performance will be compared with this Index.
 NIFTY Midcap 150 Index is designed to capture the movement
 of the midcap segment of the market. The performance will be
@@ -158,7 +158,7 @@ HDFC Mid Cap Fund-SID
 Under this Option, it is proposed to declare income / capital
 Distribution (IDCW) subject to availability of distributable surplus,
 as computed in accordance with SEBI (MF) Regulations.
-Investors should note that distrib utions can be made out of
+Investors should note that distributions can be made out of
 Equalization Reserves (representing accumulated realized
 gains), which is part of sale price paid by them.
 ➢ This Option offers following facilities:
@@ -171,7 +171,7 @@ SAI.
 XI. Load Structure
 Exit Load:
 • In respect of each purchase / switch-in of Units, an Exit Load
-of 1.00% is payable if Units are redeemed/ switched -out
+of 1.00% is payable if Units are redeemed/ switched-out
 within 1 year from the date of allotment.
 • No Exit Load is payable if Units are redeemed / switched-out
 after 1 year from the date of allotment.
@@ -188,7 +188,7 @@ XIV. Minimum Redemption
 Amount/ Switch Out
 Amount
 Rs. 100 and multiples of Re. 1/- thereafter
-For further details, refer Section II, Part II , Clause D - Other
+For further details, refer Section II, Part II, Clause D - Other
 Scheme Specific Disclosures - Minimum amount for purchase/
 redemption/switches.
 XV. Segregated
@@ -229,7 +229,7 @@ up with the AMC
 6. MF Central
 * Note: Business Centres i.e. Sales offices of HDFC AMC are not
 Official Points of Acceptance of transactions.
-The above list is indicative. For further details, including cut -off
+The above list is indicative. For further details, including cut-off
 timing and applicability of NAV, refer Section II.
 XVIII. Investor Services Contact details for general service requests:
 • call at 1800 3010 6767/1800 419 7676 (toll free), or
@@ -243,7 +243,7 @@ Contact details for complaints resolution:
 • call at 1800 3010 6767/1800 419 7676 (toll free)
 • e-mail: hello@hdfcfund.com
 For any grievances with respect to transactions through
-NSE/BSE, the investors/Unit Holders should approac h the
+NSE/BSE, the investors/Unit Holders should approach the
 investor grievance cell of the respective stock exchange.
 XIX. Special Product
 available on Ongoing
@@ -288,11 +288,11 @@ on completion of the SIP tenure. The investor has the option to
 register the SIP and SWAP in the same scheme or different
 schemes.
 • OTM - ONE TIME MANDATE ('FACILITY')
-OTM is a simple and conv enient facility that enables the Unit
+OTM is a simple and convenient facility that enables the Unit
 holders to transact in the Schemes of the Fund by submitting
 OTM - One Time Mandate registration form to the Fund. Through
 OTM, investor authorizes the bank to debit their account upto a
-certain specified limit per tra nsaction, on request received from
+certain specified limit per transaction, on request received from
 the Fund, as and when the transaction is to be undertaken by the
 Unit holder, without the need of submitting cheque or fund
 transfer letter with every transaction thereafter.
@@ -314,14 +314,14 @@ Scheme.
 • HDFC SWING SYSTEMATIC TRANSFER PLAN
 HDFC Swing Systematic Transfer Plan (Swing STP) is a facility
 wherein unit holder(s) holding units in non-demat form can opt to
-transfer an amount at regular intervals from designated open -
+transfer an amount at regular intervals from designated open-
 
 ## Page 8
 
 8
 HDFC Mid Cap Fund-SID
 ended Scheme(s) of HDFC Mutual Fund i.e. Transferor
-Scheme to the Growth Optio n of designated open -ended
+Scheme to the Growth Option of designated open-ended
 Scheme(s) of HDFC Mutual Fund i.e. Transferee Scheme
 including a feature of Reverse Transfer from Transferee Scheme
 into the Transferor Scheme, in order to achieve the Target
@@ -338,10 +338,10 @@ Source and / or Target Schemes. However, Schemes which do
 not offer IDCW Option, can act as only Target Schemes.
 • SYSTEMATIC WITHDRAWAL ADVANTAGE PLAN (SWAP)
 This facility, available to the Unit holders of the Scheme holding
-units in non -demat form, enables them to withdraw (subject to
+units in non-demat form, enables them to withdraw (subject to
 deduction of tax at source, if any) fixed sum (Fixed Plan) or a
 variable amount (Variable Plan) from their Unit balance at
-periodic intervals (subject to completion of lock -in period, if
+periodic intervals (subject to completion of lock-in period, if
 any). Fixed Plan is available for Growth as well as IDCW Option
 and Variable Plan is available for Growth Option only for eligible
 Scheme(s)/Plan(s) under SWAP facility.
@@ -372,12 +372,12 @@ the allocation of their investment among the Scheme(s) / Plan(s)
 
 9
 HDFC Mid Cap Fund-SID
-/ Option(s) of the Mutual Fund in order to meet their c hanged
+/ Option(s) of the Mutual Fund in order to meet their changed
 investment needs.
 The Switch will be effected by way of a Redemption of Units [On
 a First In First Out (FIFO) basis] from the Scheme / Plan and a
 reinvestment of the Redemption proceeds in the other Scheme /
-Plan and accordingly, to be effective, th e Switch must comply
+Plan and accordingly, to be effective, the Switch must comply
 with the Redemption rules of the Scheme and the issue rules of
 the other scheme (e.g. as to the minimum number of Units that
 may be redeemed or issued, Exit / Entry Load etc).
@@ -395,7 +395,7 @@ Regulations, 1996 and the guidelines and directives issued by SEBI from time to 
 (ii) All legal requirements connected with the launching of the Scheme as also the guidelines, instructions,
 etc., issued by the Government and any other competent authority in this behalf, have been duly complied
 with.
-(iii) The disclosures made in the Scheme Infor mation Document are true, fair and adequate to enable the
+(iii) The disclosures made in the Scheme Information Document are true, fair and adequate to enable the
 investors to make a well informed decision regarding investment in the Scheme.
 (iv) The intermediaries named in the Scheme Information Document and Statement of Additional Information
 are registered with SEBI and their registration is valid, as on date.
@@ -431,7 +431,7 @@ Units issued by REITs and InvITs 0 10
 Non-convertible preference shares 0 10
 ** Investment universe of “Mid Cap”:
 • The investment universe of “Mid Cap” shall comprise companies as defined by SEBI from time to time.
-• In terms of clause 2.7.1 of Master Circular, the universe of “Mid Cap” shall consist of 101st to 250 th
+• In terms of clause 2.7.1 of Master Circular, the universe of “Mid Cap” shall consist of 101st to 250th
 company in terms of full market capitalization and that the Scheme will be required to adhere the following:
 - The list of stocks of Mid Cap companies prepared by AMFI in this regard will be adopted.
 - The said list would be uploaded on the AMFI website and would be updated every six months based on
@@ -463,13 +463,13 @@ HDFC Mid Cap Fund-SID
 5. Repo/ Reverse Repo / Tri- Party repos
 (TREPS) on
 Government Securities
-and Treasury Bills (G -
+and Treasury Bills (G-
 Secs and T-Bills)
 To meet liquidity requirements or
 pending deployment as per
 regulatory limits
 Clause 1 of Seventh Schedule
-of SEBI Mutual Fund s
+of SEBI Mutual Funds
 Regulations
 6. Credit Default Swaps Upto 10% of AUM of the Scheme and shall be within the overall
 limit of derivatives
@@ -491,25 +491,25 @@ instruments.
 Clause 12.2 of Master Circular
 8. REITs and InvITs a) Upto 10% of its NAV in the units of REITs and InvITs
 b) Upto 5% of its NAV in the units
-of REIT s and In vITs at single
+of REITs and InvITs at single
 issuer level.
 Clause 13 of Seventh Schedule
-of SEBI Mutual Fund s
+of SEBI Mutual Funds
 Regulations and Clause 12.21
 of Master Circular
-9. Overseas Securities Upto 35% of the total assets Clause 12.19 of Master Circular read with SEBI/HO/IMD/IMD -
+9. Overseas Securities Upto 35% of the total assets Clause 12.19 of Master Circular read with SEBI/HO/IMD/IMD-
 PoD-1/P/CIR/149 dated
 November 04, 2024
 10. Repo/ Reverse Repo in permitted corporate
 debt securities
 Upto 10% of the net assets Clause 12.18 of Master Circular
-11. Short Term deposits As per regulatory limits Clause 8 of Seventh Schedule of SEBI Mutual Fund s
+11. Short Term deposits As per regulatory limits Clause 8 of Seventh Schedule of SEBI Mutual Funds
 Regulations and Clause 12.16
 of Master Circular
 12. Mutual Fund Units Upto 5% of the net assets of the Mutual Fund (i.e. across all the
 schemes of the Fund)
 Clause 4 of Seventh Schedule
-of SEBI Mutual Fund s
+of SEBI Mutual Funds
 Regulations
 In addition to the instruments stated in the table above the Scheme may undertake Short Selling and such
 other transactions in accordance with guidelines issued by SEBI and the scheme may also hold cash from
@@ -539,7 +539,7 @@ In case the portfolio is not rebalanced within the period of 30 Business days, j
 details of efforts taken to rebalance the portfolio shall be placed before the Investment Committee. The
 Investment Committee, if it so desires, can extend the timeline for rebalancing up to sixty (60) Business days
 from the date of completion of mandated rebalancing period. In case the portfolio of the scheme is not
-rebalanced within the aforementioned mandated plus extended timelines, the AMC shall foll ow the
+rebalanced within the aforementioned mandated plus extended timelines, the AMC shall follow the
 requirements specified under the aforesaid circular including reporting the deviation to Trustees at each
 stage.
 B. WHERE WILL THE SCHEME INVEST?
@@ -558,9 +558,9 @@ Any other instruments as may be permitted by RBI / SEBI from time to time, subje
 regulatory approvals.
 For detailed disclosures, kindly refer Section II.
 C. WHAT ARE THE INVESTMENT STRATEGIES?
-The investment objective of the Scheme is to provide long -term capital appreciation/income by investing
+The investment objective of the Scheme is to provide long-term capital appreciation/income by investing
 predominantly in Mid-Cap companies.
-The Scheme shall follow a predominantly Mid cap strategy with a minimum exposure of 65% to Mid -Cap
+The Scheme shall follow a predominantly Mid cap strategy with a minimum exposure of 65% to Mid-Cap
 stocks. The Scheme may also seek participation in other equity and equity related securities to achieve
 optimal portfolio construction.
 The aim of equity strategy will be to predominantly build a portfolio of mid-cap companies which have:
@@ -602,8 +602,8 @@ with an attempt to protect the value of the portfolio and enhance Unitholders' i
 are expected to mitigate the above risks to a large extent, there can be no assurance that these risks would
 be completely eliminated.
 PORTFOLIO TURNOVER
-The Scheme is an open -ended Scheme. The portfolio is managed from a long term perspective with an
-endeavour to ke ep portfolio turnover ratio low. However, it is expected that there would be a number of
+The Scheme is an open-ended Scheme. The portfolio is managed from a long term perspective with an
+endeavour to keep portfolio turnover ratio low. However, it is expected that there would be a number of
 subscriptions and redemptions on a daily basis. Consequently, it is difficult to estimate with any reasonable
 measure of accuracy, the likely turnover in the portfolio. A higher portfolio turnover results in higher brokerage
 and transaction cost.
@@ -998,7 +998,7 @@ HDFC Mid Cap Fund-SID
 = 899.038 units (rounded to three decimals)
 Charges and other expenses, if any, borne by the investors have not been considered in the above
 illustration.
-• Ongoing Price for redemption (sale)/ switch -outs (to other schemes/plans of the mutual fund) by
+• Ongoing Price for redemption (sale)/ switch-outs (to other schemes/plans of the mutual fund) by
 investors. (This is the price you will receive for redemptions/ switch-outs):
 The Repurchase Price for a valid repurchase will be the applicable NAV reduced by any exit load (say 1%).
 i.e. applicable NAV - (applicable NAV X applicable exit load).
@@ -1013,7 +1013,7 @@ Charges and other expenses, if any, borne by the investors have not been conside
 illustration.
 While determining the price of the units, the mutual fund shall ensure that the repurchase price of an open
 ended scheme is not lower than 97 per cent of the Net Asset Value.
-For other details such as policies w ith respect to computation of NAV, rounding off, investment in foreign
+For other details such as policies with respect to computation of NAV, rounding off, investment in foreign
 securities, procedure in case of delay in disclosure of NAV etc. refer to SAI.
 B. ANNUAL SCHEME RECURRING EXPENSES
 These are the fees and expenses for operating the scheme. These expenses include Investment
@@ -1078,7 +1078,7 @@ year, namely, within 7 working days from June 30, September 30, December 31 and 
 The Trustee may charge expenses as permitted from time to time under the Trust Deed and SEBI (MF)
 Regulations.
 2Investor Education and Awareness initiatives
-As per clause 10.1.16 of Master Circular , the AMC shall annually set apart at least 2 basis points p.a. (i.e.
+As per clause 10.1.16 of Master Circular, the AMC shall annually set apart at least 2 basis points p.a. (i.e.
 0.02% p.a.) on daily net assets of the Scheme within the limits of total expenses prescribed under Regulation
 52 of SEBI (MF) Regulations for investor education and awareness initiatives undertaken.
 
@@ -1097,22 +1097,22 @@ shall be credited to the Scheme.
 4. GST on brokerage and transaction cost paid for execution of trade, if any, shall be within the limit
 prescribed under Regulation 52 of the SEBI (MF) Regulations.
 4There shall be no internal sub-limits within the expense ratio for expense heads mentioned under Regulation
-52 (2) and (4) viz. Investment Management and Advisory Fees and various sub -heads of recurring
+52 (2) and (4) viz. Investment Management and Advisory Fees and various sub-heads of recurring
 expenses, respectively.
 All scheme related expenses including commission paid to distributors, by whatever name it may be called
 and in whatever manner it may be paid, shall necessarily paid from the scheme only within the regulatory
 limits and not from the books of AMC, its associate, sponsor, trustees or any other entity through any route
 in terms of SEBI circulars, subject to the clarifications provided by SEBI to AMFI vide letter dated February
-21, 2019 on implementation of clause 10.1.12 of Mast er Circular on Total Expense Ratio (TER) and
+21, 2019 on implementation of clause 10.1.12 of Master Circular on Total Expense Ratio (TER) and
 performance disclosure for Mutual Fund.
 5 Additional Expenses under Regulation 52 (6A):
 (i) Brokerage and transaction cost incurred for the purpose of execution of trade shall be charged to the
 schemes as provided under Regulation 52 (6A) (a) upto 12 bps and 5 bps for cash market transactions
-and derivatives transactions (if permitted under the s cheme) respectively. Any payment towards
+and derivatives transactions (if permitted under the scheme) respectively. Any payment towards
 brokerage and transaction costs, over and above the said 12 bps and 5 bps may be charged to the
 scheme within the maximum limit of Total Expense Ratio (TER) as prescribed under Regulation 52.
 (ii)Expenses not exceeding 0.05% p.a. of daily net assets towards Investment Management and Advisory
-Fees and the various sub -heads of recurring expenses mentioned under Regulation 52 (2) and (4)
+Fees and the various sub-heads of recurring expenses mentioned under Regulation 52 (2) and (4)
 respectively of SEBI (MF) Regulations. Provided that such additional expenses shall not be charged
 to the schemes where the exit load is not levied or applicable.
 The total expenses charged to the Scheme shall not exceed the limits stated in Regulation 52 of the SEBI
@@ -1144,7 +1144,7 @@ Note(s):
 under the Scheme and should not be construed as providing any kind of investment advice or guarantee
 of returns on investments.
 ● It is assumed that the expenses charged are evenly distributed throughout the year.
-● The expenses of the Direct Plan of the S cheme will be lower to the extent of the distribution expenses/
+● The expenses of the Direct Plan of the Scheme will be lower to the extent of the distribution expenses/
 commission
 ● Any tax impact has not been considered in the above example, in view of the individual nature of the tax
 implications. Each investor is advised to seek appropriate advice.
@@ -1154,8 +1154,8 @@ variable and are subject to change from time to time. For the current applicable
 website of the AMC (www.hdfcfund.com) or you may call at 1800 3010 6767/1800 419 7676 or your
 distributor.
 Type of Load Load chargeable (as %age of NAV)
-Exit Load • In respect of each purchase / switch -in of Units, an Exit Load of 1.00% is
-payable if Units are redeemed/ switc hed-out within 1 year from the date of
+Exit Load • In respect of each purchase / switch-in of Units, an Exit Load of 1.00% is
+payable if Units are redeemed/ switched-out within 1 year from the date of
 allotment.
 • No Exit Load is payable if Units are redeemed / switched-out after 1 year from
 the date of allotment.
@@ -1167,7 +1167,7 @@ from the initial date of purchase.
 cum Capital Withdrawal.
 (iii) No Exit load will be levied on Units allotted in the Target Scheme under the Transfer of Income Distribution
 cum Capital Withdrawal (IDCW) Plan Facility (TIP Facility).
-(iv) In case of S ystematic Transactions such as Systematic Investment Plan (SIP), Flex Systematic
+(iv) In case of Systematic Transactions such as Systematic Investment Plan (SIP), Flex Systematic
 Investment Plan (Flex SIP), Systematic Transfer Plan (STP), HDFC Flex Systematic Transfer Plan
 (Flex STP), HDFC Swing Systematic Transfer Plan (Swing STP), HDFC Flexindex Plan (Flexindex)
 etc., Exit Load, if any, prevailing on the date of registration / enrolment shall be levied.
@@ -1196,7 +1196,7 @@ B. RISK FACTORS
 Some of the specific risk factors related to the Scheme include, but are not limited to the following:
 Scheme Specific Risk Factors:
 While Small & Mid-cap stocks gives one an opportunity to go beyond the usual large blue chip stocks and
-present possible higher capital appreciation, it is important to note that Small & Mid -cap stocks can be
+present possible higher capital appreciation, it is important to note that Small & Mid-cap stocks can be
 riskier and more volatile on a relative basis. Therefore, the risk levels of investing in Small & Midcap
 stocks are more than investing in stocks of large well established companies. It should be noted that over
 a period of time, small-cap, mid-cap and large-cap stocks have demonstrated different levels of volatility
@@ -1204,7 +1204,7 @@ and investment returns. And it is important to note that generally, no one class
 the others.
 (i) Risk factors associated with investing in equities and equity related instruments
 • Equity shares and equity related instruments are volatile and prone to price fluctuations on a daily
-basis. Investments in equity shares and equity related i nstruments involve a degree of risk and
+basis. Investments in equity shares and equity related instruments involve a degree of risk and
 investors should not invest in the Scheme unless they can afford to take the risks.
 • Securities, which are not quoted on the stock exchanges, are inherently illiquid in nature and carry a
 larger amount of liquidity risk, in comparison to securities that are listed on the exchanges. Investment
@@ -1219,7 +1219,7 @@ the debt segment, as per the investment pattern indicated under normal circumsta
 instruments, will be affected by changes in the general level of interest rates. The NAV of the Scheme
 is expected to increase from a fall in interest rates while it would be adversely affected by an increase
 in the level of interest rates.
-• Money market in struments, while fairly liquid, lack a well developed secondary market, which may
+• Money market instruments, while fairly liquid, lack a well developed secondary market, which may
 restrict the selling ability of the Scheme and may lead to the Scheme incurring losses till the security
 is finally sold.
 • Investments in money market instruments involve credit risk commensurate with short term rating of
@@ -1233,7 +1233,7 @@ an issuer's inability to meet interest or principal payments on its obligations)
 HDFC Mid Cap Fund-SID
 may have their credit ratings downgraded. Changes in financial conditions of an issuer, changes in
 economic and political conditions in general, or changes in economic or and political conditions
-specific to an issuer, all of which are fac tors that may have an adverse impact on an issuer's credit
+specific to an issuer, all of which are factors that may have an adverse impact on an issuer's credit
 quality and security values. This may increase the risk of the portfolio. The Investment Manager will
 endeavour to manage credit risk through in-house credit analysis.
 • Prepayment Risk: Certain fixed income securities give an issuer the right to call back its securities
@@ -1253,7 +1253,7 @@ opportunities. Similarly, the inability to sell securities held in the Scheme's 
 absence of a well developed and liquid secondary market for debt securities, may result at times in
 potential losses to the Scheme in the event of a subsequent decline in the value of securities held in
 the Scheme's portfolio.
-• Government securities where a fixed return is offere d run price -risk like any other fixed income
+• Government securities where a fixed return is offered run price-risk like any other fixed income
 security. Generally, when interest rates rise, prices of fixed income securities fall and when interest
 rates drop, the prices increase. The extent of fall or rise in the prices is a function of the existing
 coupon, days to maturity and the increase or decrease in the level of interest rates. The new level of
@@ -1293,7 +1293,7 @@ fluctuations, less liquidity and greater risk than those which are traded in the
 debt securities may lack a liquid secondary market and there can be no assurance that the Scheme
 will realise their investments in unlisted securities at a fair value.
 • Investment in unrated instruments may involve a risk of default or decline in market value higher than
-rated instruments due to adverse economic and issuer -specific developments. Such investments
+rated instruments due to adverse economic and issuer-specific developments. Such investments
 display increased price sensitivity to changing interest rates and to a deteriorating economic
 environment. The market values for unrated investments tends to be more volatile and such securities
 tend to be less liquid than rated debt securities.
@@ -1303,17 +1303,17 @@ The risks factors stated below for the Structured Obligations & Credit Enhanceme
 risk factors associated with debt instruments.
 • Credit rating agencies assign CE rating to an instrument based on any identifiable credit enhancement
 for the debt instrument issued by an issuer. The credit enhancement could be in various forms and
-could include guarantee, shortfall un dertaking, letter of comfort, etc. from another entity. This entity
-could be either related or non -related to the issuer like a bank, financial institution, etc. Credit
+could include guarantee, shortfall undertaking, letter of comfort, etc. from another entity. This entity
+could be either related or non-related to the issuer like a bank, financial institution, etc. Credit
 enhancement could include additional security in form of pledge of shares listed on stock exchanges,
 etc. SO transactions are asset backed/ mortgage backed securities, securitized paper backed by
 hypothecation of car loan receivables, securities backed by trade receivables, credit card receivables
-etc. Hence, for CE rated instruments evaluat ion of the credit enhancement provider, as well as the
+etc. Hence, for CE rated instruments evaluation of the credit enhancement provider, as well as the
 issuer is undertaken to determine the issuer rating. In case of SO rated issuer, the underlying loan
 pools or securitization, etc. is assessed to arrive at rating for the issuer.
-• Liquidity Risk: SO ra ted securities are often complex structures, with a variety of credit
+• Liquidity Risk: SO rated securities are often complex structures, with a variety of credit
 enhancements. Debt securities lack a well-developed secondary market in India, and due to the credit
-enhanced nature of CE securities as well as structured nature of SO securities, the l iquidity in the
+enhanced nature of CE securities as well as structured nature of SO securities, the liquidity in the
 market for these instruments is adversely affected compared to similar rated debt instruments. Hence,
 lower liquidity of such instruments, could lead to inability of the scheme to sell such debt instruments
 and generate liquidity for the scheme or higher impact cost when such instruments are sold.
@@ -1321,7 +1321,7 @@ and generate liquidity for the scheme or higher impact cost when such instrument
 of the issuer as well as the structure. Hence, any weakness in either the issuer or the structure could
 have an adverse credit impact on the debt instrument. The weakness in structure could arise due to
 inability of the investors to enforce the structure due to issues such as legal risk, inability to sell the
-underlying collateral or enforce guaran tee, etc. In case of SO transactions, comingling risk and risk
+underlying collateral or enforce guarantee, etc. In case of SO transactions, comingling risk and risk
 of servicer increases the overall risk for the securitized debt or assets backed transactions. Therefore,
 apart from issuer level credit risk such debt instruments are also susceptible to structure related credit
 risk.
@@ -1340,9 +1340,9 @@ case of default by any member in settling transactions routed through CCIL).
 HDFC Mid Cap Fund-SID
 As per the waterfall mechanism, after the defaulter's margins and the defaulter's contribution to the default
 fund have been appropriated, CCIL's contribution is used to meet the losses. Post utilization of CCIL's
-contribution if there is a residual loss, it is appropriated from the default fund contributions of the non -
+contribution if there is a residual loss, it is appropriated from the default fund contributions of the non-
 defaulting members. Thus, the scheme is subject to risk of the initial margin and default fund contribution
-being invoked in the event of failure of any settlement obligati ons. In addition, the fund contribution is
+being invoked in the event of failure of any settlement obligations. In addition, the fund contribution is
 allowed to be used to meet the residual loss in case of default by the other clearing member (the defaulting
 member).
 CCIL shall maintain two separate Default Funds in respect of its Securities Segment, one with a view to
@@ -1362,24 +1362,24 @@ The pace and movement of interest rate cycles of various countries, though loose
 significantly. Hence by investing in securities of countries other than India, the Scheme stand exposed to
 their interest rate cycles.
 ● Credit Risk:
-Investment in Foreign Debt Sec urities are subject to the risk of an issuer's inability to meet interest and
+Investment in Foreign Debt Securities are subject to the risk of an issuer's inability to meet interest and
 principal payments on its obligations and market perception of the creditworthiness of the issuer. This is
 substantially reduced since the SEBI (MF) Regulations stipulate investments only in debt instruments with
 rating not below investment grade by accredited/registered credit rating agency.
 ● Taxation Risk:
 In addition to the disclosure related to taxation mentioned in Statement of Additional Information (SAI)
-under section “ Special Consideration”, Investment in Foreign Securities poses additional challenges
+under section “Special Consideration”, Investment in Foreign Securities poses additional challenges
 based on the tax laws of each respective country or jurisdiction. The scheme may be subject to a higher
 level of taxes than originally anticipated and or dual taxation.
 The Scheme may be subject to withholding or other taxes on income and/or gains arising from its
 investment portfolio. Further, such investments are exposed to risks associated with the changing /
-evolving tax / regulatory regimes of all the countries where th e Scheme invests. All these may entail a
+evolving tax / regulatory regimes of all the countries where the Scheme invests. All these may entail a
 higher outgo to the Scheme by way of taxes, transaction costs, fees etc. thus adversely impacting its
 NAV; resulting in lower returns to an Investor.
 ● Legal and Regulatory Risk:
 Legal and regulatory changes could occur during the term of the Scheme which may adversely affect it.
 If any of the laws and regulations currently in effect should change or any new laws or regulations should
-be enacted, the legal requirements to which the Scheme and the investors may be su bject could differ
+be enacted, the legal requirements to which the Scheme and the investors may be subject could differ
 materially from current requirements and may materially and adversely affect the Scheme and the
 investors. Legislation/ Regulatory guidelines could also be imposed retrospectively.
 
@@ -1392,7 +1392,7 @@ The Country risk arises from the inability of a country, to meet its financial o
 encompassing economic, social and political conditions in a foreign country, which might adversely affect
 foreign investors' financial interests. In addition, country risks would include events such as introduction
 of extraordinary exchange controls, economic deterioration, bi-lateral conflict leading to immobilisation of
-the overseas financial assets and the prevalent tax laws of the respective jurisd iction for execution of
+the overseas financial assets and the prevalent tax laws of the respective jurisdiction for execution of
 trades or otherwise.
 ● To manage risks associated with foreign currency and interest rate exposure, the Mutual Fund may use
 derivatives for efficient portfolio management including hedging and in accordance with conditions as may
@@ -1423,19 +1423,19 @@ Market movements may adversely affect the pricing and settlement of derivatives.
 • Illiquidity risk:
 This is the risk that a derivative cannot be sold or purchased quickly enough at a fair price, due to lack of
 liquidity in the market.
-Additional Risk viz. Basis Risk associated with imperfect hedging using Int erest Rate Futures
+Additional Risk viz. Basis Risk associated with imperfect hedging using Interest Rate Futures
 (IRF): The imperfect correlation between the prices of securities in the portfolio and the IRF contract used
 to hedge part of the portfolio leads to basis risk. Thus, the loss on the portfolio may not exactly match the
 gain from the hedge position entered using the IRF.
 (viii) Risk factors associated with investing in Non- Convertible Preference Shares
 • Credit Risk - Credit risk is the risk that an issuer will be unable to meet its obligation of payment of
-Dividend and/ or redemption of principal amount on the due date. Further, for non -cumulative
+Dividend and/ or redemption of principal amount on the due date. Further, for non-cumulative
 
 ## Page 31
 
 31
 HDFC Mid Cap Fund-SID
-preference shares, issuer also has an option to not pay Dividends on pr eference shares in case of
+preference shares, issuer also has an option to not pay Dividends on preference shares in case of
 inadequate profits in any year.
 • Liquidity Risk - The preference shares generally have limited secondary market liquidity and thus
 we may be forced to hold the instrument till maturity.
@@ -1483,7 +1483,7 @@ experience losses or delays in the payments.
 HDFC Mid Cap Fund-SID
 With respect to the Certificates, the Servicer will deposit all payments received from the Obligors into
 the Collection Account. However, there could be a time gap between collection by a Servicer and
-depositing the same into the Collection account especi ally considering that some of the collections
+depositing the same into the Collection account especially considering that some of the collections
 may be in the form of cash. In this interim period, collections from the Loan Agreements may not be
 segregated from other funds of originator. If originator in its capacity as Servicer fails to remit such
 funds due to Investors, the Investors may be exposed to a potential loss.
@@ -1491,7 +1491,7 @@ funds due to Investors, the Investors may be exposed to a potential loss.
 Perpetual Debt instruments are issued by Banks, NBFCs and corporates to improve their capital profile.
 Some of the PDIs issued by Banks which are governed by the RBI guidelines for Basel III Capital
 Regulations are referred to as Additional Tier I (AT1 bonds). While there are no regulatory guidelines for
-issuance of PDIs by corporate bodies, NBFCs issue the se bonds as per guidelines issued by RBI. The
+issuance of PDIs by corporate bodies, NBFCs issue these bonds as per guidelines issued by RBI. The
 instruments are treated as perpetual in nature as there is no fixed maturity date. The key risks associated
 with these instruments are highlighted below:
 Key Risk Factors:
@@ -1511,7 +1511,7 @@ cumulative and any deferred coupon shall accrue interest at the original coupon 
 Banks
 As per the regulatory requirements, Banks have to maintain a minimum Common Equity Tier-1 (CET-
 1) ratio of Risk Weighted Assets (RWAs), failing which the AT-1 bonds can get written down. Further,
-AT-1 Bonds are liable to be written down or converte d to common equity, at the discretion of RBI, in
+AT-1 Bonds are liable to be written down or converted to common equity, at the discretion of RBI, in
 the event of Point of Non Viability Trigger (PONV). PONV is a point, determined by RBI, when a bank
 is deemed to have become non-viable unless there is a write off/ conversion to equity of AT-1 Bonds
 or a public sector capital injection happens. The write off/conversion has to occur prior to public sector
@@ -1520,7 +1520,7 @@ injection of capital. This risk is not applicable in case of NBFCs and Corporate
 Banks
 The issuing banks have an option to call back the instrument after minimum specified period from the
 date of issuance, subject to meeting the RBI guidelines. However, if the bank does not exercise the
-call on first call date, the Scheme may have to hold the in struments for a period beyond the first call
+call on first call date, the Scheme may have to hold the instruments for a period beyond the first call
 exercise date.
 
 ## Page 33
@@ -1541,13 +1541,13 @@ borrows it from someone who already owns it. Later, the short seller buys back t
 returns the stock to close out the loan. If the price of the stock corrects, Short seller can buy the stock
 back for less than he received for selling it and earn profit (the difference between higher short sale price
 and the lower purchase price).If the price of stock appreciates, short selling results in loss. Thus, Short
-positions carry the risk of losing money and these losses may grow th eoretically unlimited if the price
+positions carry the risk of losing money and these losses may grow theoretically unlimited if the price
 increases without limit and shall result into major losses in the portfolio.
 (xiii) Risk factors associated with REITs and InvITs:
 ● Price Risk:
 Securities/Instruments of REITs and InvITs are volatile and prone to price fluctuations on a daily basis
 owing to market movements. The extent of fall or rise in the prices is a fluctuation in general market
-conditions, factors and forces affecting capital market, Real Estate and Infrastructure se ctors, level of
+conditions, factors and forces affecting capital market, Real Estate and Infrastructure sectors, level of
 interest rates, trading volumes, settlement periods and transfer procedures.
 ● Interest Rate Risk:
 Securities/Instruments of REITs and InvITs run interest rate risk. Generally, when interest rates rise,
@@ -1560,11 +1560,11 @@ likely to have volatile cash flows as the repayment dates would not necessarily 
 This refers to the ease with which securities/instruments of REITs/InvITs can be sold. There is no
 assurance that an active secondary market will develop or be maintained. Hence there would be time
 when trading in the units could be infrequent. The subsequent valuation of illiquid units may reflect a
-discount from the market price of comparable securities/instruments for which a liquid m arket exists. As
+discount from the market price of comparable securities/instruments for which a liquid market exists. As
 these products are new to the market they are likely to be exposed to liquidity risk.
 ● Reinvestment Risk:
 Investments in securities/instruments of REITs and InvITs may carry reinvestment risk as there could be
-repatriation of funds by th e Trusts in form of buyback of units or Dividend pay -outs, etc. Consequently,
+repatriation of funds by the Trusts in form of buyback of units or Dividend pay-outs, etc. Consequently,
 the proceeds may get invested in assets providing lower returns.
 ● Legal and Regulatory Risk
 The regulatory framework governing investments in securities/instruments of REITs and InvITs comprises
@@ -1575,7 +1575,7 @@ and courts involves uncertainties. Presently, it is difficult to forecast as to 
 
 34
 HDFC Mid Cap Fund-SID
-or standards or fut ure amendments will affect the issuers of REITs/InvITs and the sector as a whole.
+or standards or future amendments will affect the issuers of REITs/InvITs and the sector as a whole.
 Furthermore, no assurance can be given that the regulatory system will not change in a way that will
 impair the ability of the Issuers to comply with the regulations, conduct the business, compete effectively
 or make distributions.
@@ -1597,12 +1597,12 @@ Collateral Risk: Collateral risk arises when the market value of the securities 
 obligations. This risk can be partly mitigated by restricting participation in repo transactions only in corporate
 debt securities which are approved by credit risk team. Additionally, to address the risk related to reduction
 in market value of corporate debt security held as collateral due to credit rating downgrade, the repo contract
-can incorporate either an earl y termination of the repo agreement or call for fresh margin to meet the
+can incorporate either an early termination of the repo agreement or call for fresh margin to meet the
 minimum haircut requirement or call for replacement of security with eligible security. Moreover, the
-investment manager may apply a higher haircut on the underlying security than req uired as per RBI/SEBI
+investment manager may apply a higher haircut on the underlying security than required as per RBI/SEBI
 regulation to adjust for the illiquidity and interest rate risk on the underlying instrument. To mitigate the risk
 of price reduction due to interest rate changes, the adequacy of the collateral can be monitored on a daily
-basis by co nsidering the daily market value & applying the prescribed haircut. The fund manager or the
+basis by considering the daily market value & applying the prescribed haircut. The fund manager or the
 exchange can then arrange for additional collateral from the counterparty, within a prespecified period. If the
 counterparty is not able to top-up either in form of cash / collateral, it would tantamount to early termination
 of the repo agreement, and the outstanding amount can be recovered by sale of collateral.
@@ -1615,10 +1615,10 @@ performance of the Scheme to the extent of investment in such schemes.
 • Trading volumes, settlement periods and transfer procedures may restrict the liquidity of the investments
 made by the Scheme. Different segments of the Indian financial markets have different settlement periods
 and such periods may be extended significantly by unforeseen circumstances leading to delays in receipt
-of proceeds from sale of securities. The NAV of the Units of the Scheme can go up or down bec ause of
+of proceeds from sale of securities. The NAV of the Units of the Scheme can go up or down because of
 various factors that affect the capital markets in general.
 • As the liquidity of the investments made by the Scheme could, at times, be restricted by trading volumes
-and settlement periods, the time taken by the Mutual Fund for redemption of Units m ay be significant in
+and settlement periods, the time taken by the Mutual Fund for redemption of Units may be significant in
 
 ## Page 35
 
@@ -1629,7 +1629,7 @@ of the above, the Trustee has the right, in its sole discretion, to limit redemp
 redemptions) under certain circumstances, as described under section Right to Restrict Redemption
 and / or Suspend Redemption of the units.
 • At times, due to the forces and factors affecting the capital market, the Scheme may not be able to invest
-in securities falling within it s investment objective resulting in holding the monies collected by it in cash
+in securities falling within its investment objective resulting in holding the monies collected by it in cash
 or cash equivalent or invest the same in other permissible securities / investments amounting to
 substantial reduction in the earning capability of the Scheme. The Scheme may retain certain investments
 in cash or cash equivalents for its day-to-day liquidity requirements.
@@ -1637,7 +1637,7 @@ in cash or cash equivalents for its day-to-day liquidity requirements.
 portfolio allocation of the Scheme and the Benchmark particularly over a short to medium term period.
 • Performance of the Scheme may be affected by political, social, and economic developments, which may
 include changes in government policies, diplomatic conditions, and taxation policies.
-• The Scheme at times m ay receive large number of redemption requests, leading to an asset -liability
+• The Scheme at times may receive large number of redemption requests, leading to an asset-liability
 mismatch and therefore, requiring the investment manager to make a distress sale of the securities
 leading to realignment of the portfolio and consequently resulting in investment in lower yield instruments.
 C. RISK MITIGATION STRATEGIES
@@ -1652,8 +1652,8 @@ specific risks.
 rate risk and liquidity risk.
 Credit Evaluation Policy
 The credit evaluation policy of the AMC entails evaluation of credit fundamentals of each investment
-opportunity. Some of the factors that are evaluated inter -alia may include outlook on the sector, parentage,
-quality of management, and overall financial s trength of the credit. The AMC utilises ratings of recognized
+opportunity. Some of the factors that are evaluated inter-alia may include outlook on the sector, parentage,
+quality of management, and overall financial strength of the credit. The AMC utilises ratings of recognized
 rating agencies as an input in the credit evaluation process. Investments in bonds and debenture are usually
 in instruments that have been assigned high investment grade ratings by a recognized rating agency.
 In line with clause 12.12 of Master Circular, the AMC may constitute committee(s) to approve proposals for
@@ -1663,7 +1663,7 @@ their periodical reports. It would also be clearly mentioned in the reports, how
 complied with. However, in case any security does not fall under the parameters, the prior approval of Board
 of AMC and Trustee shall be sought.
 Liquidity Risk: Liquidity risk is the risk of not being able to sell / liquidate a security at short notice at
-prevailing market prices or without incurring impact cost. While governme nt bonds, money market
+prevailing market prices or without incurring impact cost. While government bonds, money market
 instruments and shorter maturity instruments are generally easier to sell, corporate bonds and other
 instruments typically face higher liquidity risk. Further, higher rated securities normally are more liquid
 compared to lower rated securities. As a result, different portfolios will face different levels of liquidity risk
@@ -1673,34 +1673,34 @@ based on the underlying portfolio composition. Some of the strategies to reduce 
 
 36
 HDFC Mid Cap Fund-SID
-portfolios that are diversified across maturities, rating s, types of securities, etc. in line with the fund
+portfolios that are diversified across maturities, ratings, types of securities, etc. in line with the fund
 objectives, regulations and investment strategy.
 Credit Risk: Lower rated securities have a higher credit risk compared to higher rated securities. Hence,
-credit risk faced by different schemes will be d ifferent based on the underlying portfolio / investment
+credit risk faced by different schemes will be different based on the underlying portfolio / investment
 strategy. To reduce the credit risk, a comprehensive and in-depth credit evaluation of each issuer will be
-undertaken, using both quantitative (leverage, profitability, solvency ratios etc.) and quali tative factors
+undertaken, using both quantitative (leverage, profitability, solvency ratios etc.) and qualitative factors
 (parentage, track record etc.). Each of the scheme/portfolio will endeavour to maintain adequate
 diversification across issuers / sectors in line with scheme objectives, regulations and investment
-strategy. Unrated investments, if any, woul d require specific approval from a committee constituted for
+strategy. Unrated investments, if any, would require specific approval from a committee constituted for
 the purpose.
 Debt Derivatives Risk: The AMC has provision for using derivative instruments for portfolio balancing
-and hedging purposes. Interest Rate Swaps will be done with approved counter p arties under pre
+and hedging purposes. Interest Rate Swaps will be done with approved counter parties under pre
 approved ISDA agreements. Mark to Market of swaps, netting off of cash flow and default provision
 clauses will be provided as per standard practice on a reciprocal basis. Interest Rate Swaps and other
 derivative instruments will be used as per local (RBI and SEBI) regulatory guidelines.
 Interest Rate Risk: Interest rate risk is the risk of change in the NAVs due to change in overall market
-yields. The change in value of a security, for a given change in yield, is higher for a security wit h higher
+yields. The change in value of a security, for a given change in yield, is higher for a security with higher
 duration and vice versa. Hence portfolios with higher duration will have higher volatility. The AMC shall
 strive to actively manage the duration of the respective funds based on the prevailing market conditions
 / outlook of interest rates, keeping in mind the scheme objectives, investment strategy and applicable
 regulations.
 Concentration Risk: The AMC will attempt to mitigate this risk by maintaining adequate diversification
-across issuers/ sectors / instrument type in line with the scheme obje ctives, investment strategy and
+across issuers/ sectors / instrument type in line with the scheme objectives, investment strategy and
 applicable regulations. This will also be managed by keeping prudent investment limits on any particular
 industry or issuer or issuer group based on the size, credit profile, etc. to reduce issuer or industry specific
 risk.
 Risk Mitigation measures for investments in Non-Convertible Preference Shares:
-Credit Risk - To reduce the credit risk, a comprehensive and in -depth credit evaluation of each issuer
+Credit Risk - To reduce the credit risk, a comprehensive and in-depth credit evaluation of each issuer
 will be undertaken, using both quantitative (leverage, profitability, solvency ratios etc.) and qualitative
 factors (parentage, track record etc.).
 Liquidity Risk - The Fund endeavours to invest in preference shares of those companies which have
@@ -1712,7 +1712,7 @@ Risk Mitigation factors relating to investment in Perpetual Debt Instruments (PD
 • Risk on coupon servicing and Risk of write-down or conversion into equity
 Banks: The risks on coupon servicing or principal write down/ conversion to equity are mitigated, to a certain
 extent, if the investee bank has strong financial position and meets the required regulatory guidelines. Hence,
-an in -depth credit evaluation of each ba nk is undertaken, keeping in mind both quantitative (leverage,
+an in-depth credit evaluation of each bank is undertaken, keeping in mind both quantitative (leverage,
 profitability, solvency ratios, capital adequacy, etc.) and qualitative factors (parentage, track record etc.).
 Given the regulatory guidelines, special focus is on capital cushion, track record of profitability, distributable
 surplus and/or strong parentage which has the capacity and willingness to infuse capital, in case it is needed.
@@ -1721,7 +1721,7 @@ surplus and/or strong parentage which has the capacity and willingness to infuse
 
 37
 HDFC Mid Cap Fund-SID
-Investment is done only in the AT -1 bonds of banks with strong credit worthiness, in our assessment. This,
+Investment is done only in the AT-1 bonds of banks with strong credit worthiness, in our assessment. This,
 in turn, reduces the risk of its capital position falling below regulatory requirements and / or reaching PONV.
 Risk of write-down or conversion into equity is not applicable in case of NBFCs and Corporates.
 • Risk on coupon servicing
@@ -1733,8 +1733,8 @@ mind both quantitative (leverage, profitability, solvency ratios, capital adequa
 record of profitability, distributable surplus and/or strong parentage which has the capacity and willingness to
 infuse capital, in case it is needed.
 Corporates
-To mitigate this risk, an in -depth credit evaluation of each corporate is undertaken, keeping in mind both
-quantitative (leverage, profitability, industry position, market share e tc.) and qualitative factors (parentage,
+To mitigate this risk, an in-depth credit evaluation of each corporate is undertaken, keeping in mind both
+quantitative (leverage, profitability, industry position, market share etc.) and qualitative factors (parentage,
 track record etc.). Additionally, given that the coupon is usually cumulative in nature and the corporate is
 restricted from paying any dividends till all previous dues are paid to the perpetual bond investor, the company
 has adequate incentive to not defer coupon on PDIs.
@@ -1753,7 +1753,7 @@ have done in the past. Finally, in case the issuer is unable to call the perpetu
 (say due to market disruption), the annual call on these instruments would enable the bank to call the bond
 on any of the subsequent annual call options dates.
 NBFCs and Corporates
-While the issuer is not obligated to exercise the call option on first call date, the coupon step -up usually
+While the issuer is not obligated to exercise the call option on first call date, the coupon step-up usually
 provides financial incentive to the Issuer to exercise the call option. Further, as we invest in issuer with sound
 credit worthiness, we expect them to be cognizant of the investor sensitivities with regards to exercising the
 call as the part of their long term resource raising strategy. Any instance of skipping of first call option exercise
@@ -1818,7 +1818,7 @@ investments in unrated debt instruments. The AMC Board and the Trustee shall app
 parameters for such investments. The details of such investments would be communicated by the AMC to
 the Trustee in their periodical reports. It would also be clearly mentioned in the reports, how the parameters
 have been complied with. However, in case any unrated debt security does not fall under the parameters,
-the prior app roval of Board of AMC and Trustee shall be sought. Investment in debt instruments shall
+the prior approval of Board of AMC and Trustee shall be sought. Investment in debt instruments shall
 generally have a low risk profile and those in money market instruments shall have an even lower risk profile.
 The maturity profile of debt instruments will be selected in accordance with the AMC's view regarding current
 market conditions, interest rate outlook and the stability of ratings.
@@ -1836,14 +1836,14 @@ with the framework relating to short selling and/or securities lending and borro
 time to time.
 • The Scheme may invest in other schemes managed by the AMC or in the schemes of any other mutual
 funds, provided it is in conformity with the investment objectives of the Scheme and in terms of the
-prevailing SEBI (MF) Regulations. As per the SEBI (MF) Regulations, no investment manageme nt fees
+prevailing SEBI (MF) Regulations. As per the SEBI (MF) Regulations, no investment management fees
 will be charged for such investments and the aggregate inter scheme investment made by all the schemes
 of HDFC Mutual Fund or in the schemes of other mutual funds shall not exceed 5% of the net asset value
 of the HDFC Mutual Fund.
 Investment in Foreign Securities
 The Scheme may also invest in suitable investment avenues in overseas financial markets for the purpose
 of diversification, yield enhancement and to benefit from potential foreign currency appreciation,
-commensurate with the Scheme obj ectives and subject clause 12.19 of Master Circular as may be
+commensurate with the Scheme objectives and subject clause 12.19 of Master Circular as may be
 amended from time to time and any other requirements as may be stipulated by SEBI/RBI from time to
 time. Towards this end, the Mutual Fund may also appoint overseas investment advisors and other
 service providers, as and when permissible under the regulations. The Scheme may, in terms of its
@@ -1860,26 +1860,26 @@ agencies
 
 40
 HDFC Mid Cap Fund-SID
-• Repos in the form of investment, where the counterparty is rated not below investme nt grade;
+• Repos in the form of investment, where the counterparty is rated not below investment grade;
 repos should not however, involve any borrowing of funds by mutual funds
 • Government securities where the countries are rated not below investment grade
 • Derivatives traded on recognized stock exchanges overseas only for hedging and portfolio
 balancing with underlying as securities
 • Short term deposits with banks overseas where the issuer is rated not below investment grade
 • Units/securities issued by overseas mutual funds or unit trusts registered with overseas regulators
-and investing in (a) aforesa id securities, (b) Real Estate Investment Trusts (REITs) listed in
+and investing in (a) aforesaid securities, (b) Real Estate Investment Trusts (REITs) listed in
 recognized stock exchanges overseas (c) permitted unlisted overseas securities (not exceeding
 10% of their net assets) or d) Indian Securities not exceeding 25% of their net assets or such other
 limits and subject to such conditions in respect of the same, as specified by SEBI circular No.
 SEBI/HO/IMD/IMD-PoD-1/P/CIR/149 dated November 04, 2024 as amended from time to time.
 1. As per clause 12.19.1.1 to 12.19.1.3 of Master Circular:
-1.1. Mutual Funds can make overseas investments subject to a maximum of US $ 1 b illion per
+1.1. Mutual Funds can make overseas investments subject to a maximum of US $ 1 billion per
 Mutual Fund, within the overall industry limit of US $ 7 billion.
 1.2. Mutual Funds can make investments in overseas Exchange Traded Fund (ETF(s)) subject
 to a maximum of US $ 300 million per Mutual Fund, within the overall industry limit of US $
 1 billion.
 2. The allocation methodology of the aforementioned limits shall be as follows:
-2.1. In case of overseas investments specified at Para 1.1 above, US $ 50 million wou ld be
+2.1. In case of overseas investments specified at Para 1.1 above, US $ 50 million would be
 reserved for each Mutual Fund individually, within the overall industry limit of US $ 7 billion.
 Further, as per extant norms, 20% of the average AUM in Overseas securities / Overseas ETFs of the
 previous three calendar months would be available to the Mutual Fund for investment that month to invest
@@ -1889,16 +1889,16 @@ permitted by SEBI from time to time.
 The Scheme shall not have an exposure of more than 35% of its net assets in foreign securities, subject
 to regulatory limits specified from time to time.
 Subject to the approval of the RBI / SEBI and conditions as may be prescribed by them, the Mutual Fund
-may open one or more foreign currency accounts abroad either directly, or through th e custodian/sub-
+may open one or more foreign currency accounts abroad either directly, or through the custodian/sub-
 custodian, to facilitate investments and to enter into/deal in forward currency contracts, currency futures,
 index options, index futures, interest rate futures/swaps, currency options for the purpose of hedging the
 risks of assets of a portfolio or for its efficient management.
-The Mutual Fund may, where necessary appoint intermediaries as sub -managers, sub-custodians, etc.
+The Mutual Fund may, where necessary appoint intermediaries as sub-managers, sub-custodians, etc.
 for managing and administering such investments. The appointment of such intermediaries shall be in
 accordance with the applicable requirements of SEBI and within the permissible ceilings of expenses as
 stated under Regulation 52 of SEBI (MF) Regulations.
 • Investment in Securitised Debt
-A securitisation transaction involves sale of receivables by the originator (a bank, non -banking finance
+A securitisation transaction involves sale of receivables by the originator (a bank, non-banking finance
 company, housing finance company, or a manufacturing/service company) to a Special Purpose Vehicle
 (SPV), typically set up in the form of a trust. Investors are issued rated Pass Through Certificates (PTCs),
 the proceeds of which are paid as consideration to the originator. In this manner, the originator, by selling
@@ -1945,7 +1945,7 @@ portfolio & characteristics of the pool vis-a-vis of the portfolio, nature of th
 ● Ability to pay
 The quality of the origination impacts the performance of the underlying asset & thus originators with
 strong systems and processes in place can eliminate poor quality assets. A robust risk management
-system of the originator and availability of MIS reports on timely basis, resu lts in creation of strong
+system of the originator and availability of MIS reports on timely basis, results in creation of strong
 asset portfolio.
 ● Business Risk Assessment
 The business risk assessment of originator / underlying borrower also includes detailed credit
@@ -1963,7 +1963,7 @@ regarding the originator / underlying issuer as mentioned below:
 
 42
 HDFC Mid Cap Fund-SID
-● High leverage ratios of the ultimate borrower (for single -sell downs) - both on a standalone basis
+● High leverage ratios of the ultimate borrower (for single-sell downs) - both on a standalone basis
 as well on a consolidated level/ group level
 ● Higher proportion of reschedulement of underlying assets of the pool or loan, as the case may be
 ● Higher proportion of overdue assets of the pool or the underlying loan, as the case may be
@@ -1986,7 +1986,7 @@ i. Pool Characteristics - seasoning, Loan-to-value ratios, geographic diversity 
 less diversified investments
 Diversification of underlying assets is achieved through a) prudent mix of asset categories - i.e. cars (new,
 used), commercial vehicles, construction equipment, unsecured loans to individuals or small & medium
-enterprises b) to tal number of contracts in a pool c) average ticket size of loans and d) geographical
+enterprises b) total number of contracts in a pool c) average ticket size of loans and d) geographical
 distribution.
 Risk mitigation measures for less diversified investments in pools is accomplished through the size of
 credit enhancement, seasoning or loan to value ratios.
@@ -2068,7 +2068,7 @@ the pool)
 The illustrative average seasoning of the debt by originator prior to securitisation is given above in table
 (Refer Point 4).
 Minimum retention period of the debt by originator prior to securitisation in the case of asset pools is in
-the form of seasoning of loans to various asset classes (cars, commer cial vehicles, etc.) and generally
+the form of seasoning of loans to various asset classes (cars, commercial vehicles, etc.) and generally
 varies from one month to six months depending on the nature of asset.
 6. Minimum retention percentage by originator of debts to be securitised
 While minimum retention percentage by originator is not prescribed, any amount retained by the originator
@@ -2077,7 +2077,7 @@ to 10%.
 7. The mechanism to tackle conflict of interest when the mutual fund invests in securitised debt of
 an originator and the originator in turn makes investments in that particular scheme of the fund
 All proposals for investment in securitised debt are evaluated by the credit analyst based on several
-parameters such as nature of underlying asset category, pool char acteristics, asset quality, credit rating
+parameters such as nature of underlying asset category, pool characteristics, asset quality, credit rating
 of the securitisation transaction, and credit cum liquidity enhancement available. Investment in securitised
 debt in any scheme is made by the respective fund manager in line with the investment objective of that
 scheme.
@@ -2089,7 +2089,7 @@ HDFC Mid Cap Fund-SID
 8. The resources and mechanism of individual risk assessment with the AMC for monitoring
 investment in securitised debt (in general)
 Investment in securitised debt is monitored regularly with regards to its performance on various
-parameters suc h as collection efficiency, delinquencies, prepayments and utilization of credit
+parameters such as collection efficiency, delinquencies, prepayments and utilization of credit
 enhancement. Information on these parameters is available through monthly reports from Pool Trustees
 and through information disseminated by the rating agencies. Monthly performance report is released by
 the credit analyst to the fund management team and the fund management team periodically reviews the
@@ -2126,7 +2126,7 @@ position limits shall be computed on a gross basis at the level of MF and on a n
 of schemes of MF.
 Formulation of Open Interest (OI)
 i. OI in derivatives shall be measured at portfolio level by computing the net Delta adjusted open
-positions across futu res and options for an underlying at a given point in time. Delta denotes
+positions across futures and options for an underlying at a given point in time. Delta denotes
 sensitivity of price movement of derivative position with respect to that of the underlying.
 Accordingly, long futures have a delta of +1 times notional. For options, delta will range between
 
@@ -2145,11 +2145,11 @@ index derivatives subject to the following limits:
 exceed (FutEq terms for Index options and gross notional terms for Index futures) the Mutual
 Fund’s holding of stocks.
 2. Aggregate long positions in index derivatives (long futures, long calls and short puts) shall not
-exceed (FutEq terms for Index options and gross noti onal terms for Index futures) the Mutual
-Fund’s holding of cash and cash equivalent, government securities, T -Bills and similar
+exceed (FutEq terms for Index options and gross notional terms for Index futures) the Mutual
+Fund’s holding of cash and cash equivalent, government securities, T-Bills and similar
 instruments.
 iv. Position limit for Mutual Funds for stock based derivative contracts
-The Mutual Fund position limit in a derivativ e contract on a particular underlying stock, i.e. stock
+The Mutual Fund position limit in a derivative contract on a particular underlying stock, i.e. stock
 option contracts and stock futures contracts will be as follows:
 The combined futures and options position limit shall be 30% of the applicable Market Wide Position
 Limit (MWPL).
@@ -2174,7 +2174,7 @@ derivatives), repo transactions in corporate debt securities, credit default swa
 Investment Trusts (REITs), Infrastructure Investment Trusts (InvITs), other permitted securities/assets
 and such other securities/assets as may be permitted by SEBI from time to time shall not exceed 100%
 of the net assets of the scheme. Security wise hedge positions using derivatives such as Interest Rate
-Swaps, call options written unde r the covered call Strategy and any other positions specifically
+Swaps, call options written under the covered call Strategy and any other positions specifically
 exempted under SEBI guidelines from time to time, will not be considered in calculating above
 exposure.
 
@@ -2187,7 +2187,7 @@ for exposure on account of call option written under the covered call strategy, 
 Scheme).
 3. The total exposure related to option premium paid must not exceed 20% of the net assets of the
 scheme.
-4. Cash or cash equivalents i.e. Government Securities, T -Bills and Repo on Government Securities
+4. Cash or cash equivalents i.e. Government Securities, T-Bills and Repo on Government Securities
 having residual maturity of less than 91 days may be treated as not creating any exposure.
 5. Exposure due to hedging positions may not be included in the above mentioned limits subject to the
 following:
@@ -2195,11 +2195,11 @@ a) Hedging positions are the derivative positions that reduce possible losses on
 position in securities and till the existing position remains.
 b) Hedging positions cannot be taken for existing derivative positions. Exposure due to such
 positions shall have to be added and treated under limits mentioned in Point 1.
-c) Any derivative instrument used to hedge has the same underlying security as the exist ing
+c) Any derivative instrument used to hedge has the same underlying security as the existing
 position being hedged.
 d) The quantity of underlying associated with the derivative position taken for hedging purposes
 does not exceed the quantity of the existing position against which hedge has been taken.
-6. (a) Mutual Funds may enter into plain vanil la Interest Rate Swaps (IRS) for hedging purposes. The
+6. (a) Mutual Funds may enter into plain vanilla Interest Rate Swaps (IRS) for hedging purposes. The
 value of the notional principal in such cases must not exceed the value of respective existing assets
 being hedged by the scheme.
 (b) In case of participation in IRS is through over the counter transactions, the counter party has to be
@@ -2214,7 +2214,7 @@ against which the hedging position has been taken, shall be treated under the li
 8. Definition of Exposure in case of Derivative Positions
 Each position taken in derivatives shall have an associated exposure as defined under. Exposure is
 the maximum possible loss that may occur on a position. However, certain derivative positions may
-theoretically have unlimited possible loss. Exposure in derivative positi ons shall be computed as
+theoretically have unlimited possible loss. Exposure in derivative positions shall be computed as
 follows:
 Position Exposure
 Long Future Futures Price * Lot Size * Number of Contracts
@@ -2247,16 +2247,16 @@ modified duration of the bond portfolio or part of the portfolio.
 b) Mutual Funds are permitted to resort to imperfect hedging, without it being considered under the
 gross exposure limits, if and only if, the correlation between the portfolio or part of the portfolio
 (excluding the hedged portions, if any) and the IRF is atleast 0.9 at the time of initiation of hedge.
-In case of any subsequent deviation from the correla tion criteria, the same may be rebalanced
+In case of any subsequent deviation from the correlation criteria, the same may be rebalanced
 within 5 working days and if not rebalanced within the timeline, the derivative positions created for
 hedging shall be considered under the gross exposure computed in terms of clause 12.24.1 of
 Master Circular. The correlation should be calculated for a period of last 90 days.
 Explanation: If the fund manager intends to do imperfect hedging upto 15% of the portfolio using
-IRFs on weighted average modified duration basis, either of the following conditions need to b e
+IRFs on weighted average modified duration basis, either of the following conditions need to be
 complied with:
 i. The correlation for past 90 days between the portfolio and the IRF is at least 0.9 or
 ii. The correlation for past 90 days between the part of the portfolio (excluding the hedged
-portions, if any) i.e. at least 15% of the net asset o f the scheme (including one or more
+portions, if any) i.e. at least 15% of the net asset of the scheme (including one or more
 securities) and the IRF is at least 0.9.
 c) At no point of time, the net modified duration of part of the portfolio being hedged should be
 negative.
@@ -2306,9 +2306,9 @@ Floating Rate Debentures
 Zero Coupon Debentures
 Pass Through Securities
 Activity in the Primary and Secondary Market is dominated by Central Government Securities including
-Treasury Bills. These instruments comprise close to 60% of all outstanding d ebt and more than 75% of the
+Treasury Bills. These instruments comprise close to 60% of all outstanding debt and more than 75% of the
 daily trading volume on the Wholesale Debt Market Segment of the National Stock Exchange of India Limited.
-In the money market, activity levels of the Government and Non - Government Debt vary from time to time.
+In the money market, activity levels of the Government and Non- Government Debt vary from time to time.
 Instruments that comprise a major portion of money market activity include,
 Overnight Call
 Repo/Reverse Repo Agreements
@@ -2344,9 +2344,9 @@ Source: Bloomberg
 These yields are indicative and do not indicate yields that may be obtained in future as interest rates keep
 changing consequent to changes in macro economic conditions and RBI policy. The price and yield on various
 debt instruments fluctuate from time to time depending upon the macro economic situation, inflation rate,
-overall liquidity position, foreign exchange scenario etc. Also, the price and yield vary a ccording to maturity
+overall liquidity position, foreign exchange scenario etc. Also, the price and yield vary according to maturity
 profile, credit risk etc.
-Generally, for instruments issued by a non -Government entity (corporate / PSU bonds), the yield is higher
+Generally, for instruments issued by a non-Government entity (corporate / PSU bonds), the yield is higher
 than the yield on a Government Security with corresponding maturity. The difference, known as credit spread,
 depends on the credit rating of the entity.
 • Overseas Debt Market
@@ -2354,13 +2354,13 @@ The nature and number of debt instruments available in international debt market
 diverse instruments as well as liquidity, overseas debt markets offer great depth and are extremely well
 developed.
 Investment in international debt greatly expands the universe of top quality debt, which is no longer restricted
-to the limited papers available in the domestic debt market. The higher rated overseas sovereign, quasi -
+to the limited papers available in the domestic debt market. The higher rated overseas sovereign, quasi-
 government and corporate debt offer lower default risk in addition to offering a high degree of liquidity since
 these are traded across major international markets. Investments in rated international debt offer multiple
 benefits of risk reduction, a much wider universe of top quality debt and also potential gains from currency
 movements.
 Investments in international markets are most often in U.S. dollars, though the Euro, Pound Sterling and the
-Yen are also major currencies. Though this market is geographi cally well spread across global financial
+Yen are also major currencies. Though this market is geographically well spread across global financial
 
 ## Page 50
 
@@ -2368,7 +2368,7 @@ Yen are also major currencies. Though this market is geographi cally well spread
 HDFC Mid Cap Fund-SID
 centres, the markets in the U.S., European Union and London offer the most liquidity and depth of
 instruments.
-Besides factors specific to the country / issuer, international bond prices are influenced to a large e xtent by
+Besides factors specific to the country / issuer, international bond prices are influenced to a large extent by
 a number of other factors; chief among these are the international economic outlook, changes in interest
 rates in major economies, trading volumes in overseas markets, cross currency movements among major
 currencies, rating changes of countries / corporations and major political changes globally.
@@ -2415,7 +2415,7 @@ any loans for any purpose.
 ● The Mutual Fund shall get the securities purchased/ transferred in the name of the Mutual Fund on
 account of the respective Scheme, wherever the investments are intended to be of a long term nature.
 ● The Scheme shall not invest more than 10% of its NAV in debt instruments comprising money market
-instruments and non -money market instruments issued by a single is suer which are rated not below
+instruments and non-money market instruments issued by a single issuer which are rated not below
 investment grade by a credit rating agency authorised to carry out such activity under the Act subject to
 the below limits at rating level. Such investment limit may be extended to 12% of the NAV of the scheme
 with the prior approval of the Board of Trustees and the Board of directors of the asset management
@@ -2436,7 +2436,7 @@ funds or such other funds as may be specified by SEBI from time to time.
 ● As per clause 12.2 of Master Circular, as amended from time to time, no Mutual Fund under all its
 schemes shall own more than 10% of instruments issued by a single issuer in debt instruments with
 special features such as subordination to equity (absorbs losses before equity capital) and /or convertible
-to equity upon trigger of a pre -specified event for loss absorption (“hereinafter referred to as “perpetual
+to equity upon trigger of a pre-specified event for loss absorption (“hereinafter referred to as “perpetual
 debt instruments”).
 Further, a Mutual Fund scheme shall not invest -
 a) more than 10% of its NAV of the debt portfolio of the scheme in perpetual debt instruments; and
@@ -2470,7 +2470,7 @@ are currently as under:
 The investment of the Scheme in the following instruments shall not exceed 10% of the debt portfolio of
 the Scheme and the group exposure in such instruments shall not exceed 5% of the debt portfolio of the
 Scheme:
-a. Unsupported rating of debt instruments (i.e. without factoring -in credit enhancements) is below
+a. Unsupported rating of debt instruments (i.e. without factoring-in credit enhancements) is below
 investment grade; and
 b. Supported rating of debt instruments (i.e. after factoring-in credit enhancement) is above investment
 grade.
@@ -2481,7 +2481,7 @@ instruments, as defined in SEBI (Public Offer and Listing of Securitized Debt In
 2008.
 Investment in debt instruments, having credit enhancements backed by equity shares directly or indirectly,
 shall have a minimum cover of 4 times considering the market value of such shares.
-• As per AMFI Best Practices Guidelines Circular No.115/2024 -25 as amended from time to time,
+• As per AMFI Best Practices Guidelines Circular No.115/2024-25 as amended from time to time,
 investment in Partly Paid Debentures, if undertaken, will be subject to a cap on maximum investment of
 Mutual Fund Scheme at 5% of the AUM of the scheme. However, once the Partly Paid Debentures are
 fully paid up, the cap on maximum investment of Mutual Fund scheme at 5% of the AUM of the scheme
@@ -2497,9 +2497,9 @@ company of the Fund, through the Scheme(s) of the Fund or otherwise, individuall
 
 53
 HDFC Mid Cap Fund-SID
-or indirectly, shall not have 10% or more of the share -holding or voting rights in the asset management
+or indirectly, shall not have 10% or more of the share-holding or voting rights in the asset management
 company or the trustee company of any other mutual fund.
-Provided that in the event of a merger, acquisition, sc heme of arrangement or any other arrangement
+Provided that in the event of a merger, acquisition, scheme of arrangement or any other arrangement
 involving the sponsors of the mutual funds, shareholders of the asset management companies or trustee
 companies, their associates or group companies which results in the incidental acquisition of shares,
 voting rights or representation on the board of the asset management companies or trustee companies
@@ -2518,11 +2518,11 @@ which such transfer has been made.
 (c) Inter Scheme Transfers are effected in accordance with the guidelines specified by clause 12.30 of
 Master Circular as amended from time to time.
 ● The Scheme may invest in another scheme(s) under the same AMC or any other mutual fund without
-charging any fees, provided that aggregate inter -scheme investment made by all schemes under the
+charging any fees, provided that aggregate inter-scheme investment made by all schemes under the
 same AMC or in schemes under the management of any other asset management shall not exceed 5%
 of the net asset value of the Mutual Fund.
 Provided that the Scheme shall not invest in any fund of funds scheme.
-• Pending deployment of funds of the Scheme in securities in terms of the investme nt objectives of the
+• Pending deployment of funds of the Scheme in securities in terms of the investment objectives of the
 Scheme, the Fund may park the funds of the Scheme in short term deposits of scheduled commercial
 banks subject to the following guidelines as specified by clause 12.16 of Master Circular, as amended
 from time to time.
@@ -2536,7 +2536,7 @@ Trustees.
 together shall not exceed 20% of total deployment by the Mutual Fund in short term deposits.
 ● The Scheme shall not park more than 10% of the net assets in short term deposit(s) of any one
 scheduled commercial bank including its subsidiaries.
-● The Scheme shall not park in short term deposit of a bank wh ich has invested in the Scheme.
+● The Scheme shall not park in short term deposit of a bank which has invested in the Scheme.
 Trustees/ AMC shall also take steps to ensure that a bank in which the Scheme has short term deposit
 does not invest in the Scheme until the Scheme has short term deposit with such bank.
 ● No investment management and advisory fees will be charged for such investments in the Scheme.
@@ -2564,10 +2564,10 @@ issuer of REIT and InvIT; and
 ● The Scheme shall not invest more than 10% of its NAV in case of the equity shares or equity related
 instruments of any company.
 ● The Scheme shall only invest in equity shares or equity related instruments which are listed or to be listed.
-The AMC / Trustee may alter these above stated restrictions from tim e to time to the extent the SEBI (MF)
+The AMC / Trustee may alter these above stated restrictions from time to time to the extent the SEBI (MF)
 Regulations change, so as to permit the Scheme to make its investments in the full spectrum of permitted
 investments for mutual funds to achieve its respective investment objective. The AMC/Trustee may from time
-to tim e alter these restrictions in conformity with the SEBI (MF) Regulations. Further, apart from the
+to time alter these restrictions in conformity with the SEBI (MF) Regulations. Further, apart from the
 investment restrictions prescribed under SEBI (MF) Regulations, the Fund may follow any internal norms vis-
 à-vis restricting/ limiting exposure to a particular scrip or sector, etc.
 All investment restrictions shall be applicable at the time of making investment.
@@ -2580,7 +2580,7 @@ with Regulation 18 (15A) of the SEBI (MF) Regulations:
 (ii) Investment objective
 ● Main Objective - Please refer to section ‘Investment Objective’ under Section I, Part I –
 Highlights/Summary Of The Scheme
-● Investment pattern - Please refer to section ‘ How will the Scheme Allocate its Assets?’ under
+● Investment pattern - Please refer to section ‘How will the Scheme Allocate its Assets?’ under
 Section I, Part II, Clause A
 (iii) Terms of Issue
 
@@ -2623,7 +2623,7 @@ statement of account form, the AMC shall, upon receipt of valid and complete
 request for transfer together with the relevant documents, register the transfer
 within 30 days. Provided that the transferor(s) and the transferee(s) will have
 to comply with the procedure for transfer as may be laid down by the AMC or
-as required under the prevailing law from t ime to time including payment of
+as required under the prevailing law from time to time including payment of
 stamp duty for transfer of Units, etc.
 Units held in Demat form are transferable in accordance with the provisions
 of Depositories Act, 1996 and the Securities and Exchange Board of India
@@ -2638,11 +2638,11 @@ For more details, refer SAI.
 Dematerialization of
 units
 The Unit holders would have an option to hold the Units in demat form or
-account statement (non -demat) form. Units held in Demat Form are freely
+account statement (non-demat) form. Units held in Demat Form are freely
 transferable. The Applicant intending to hold Units in demat form will be
 required to have a beneficiary account with a Depository Participant (DP) of
 the NSDL/CDSL and will be required to mention in the application form DP's
-Name, DP ID N o. and Beneficiary Account No. with the DP at the time of
+Name, DP ID No. and Beneficiary Account No. with the DP at the time of
 purchasing Units.
 Dividend Policy (IDCW) The Trustee may decide to declare distributions under the IDCW Option of
 the Scheme subject to availability of distributable surplus. For IDCW Options
@@ -2672,7 +2672,7 @@ distributable surplus.
 notice to the public communicating the decision about the IDCW
 including the record date, in one English daily newspaper having
 nationwide circulation as well as in a newspaper published in the
-language of the region where the head office of the Mutu al Fund is
+language of the region where the head office of the Mutual Fund is
 situated.
 3. The Record Date will be 2 working days from the date of publication in at
 least one English newspaper or in a newspaper published in the
@@ -2698,7 +2698,7 @@ issued by Mutual Fund.
 The requirement of giving notice shall not be applicable for IDCW Options
 having frequency upto one month.
 Allotment All Applicants whose monies towards purchase of Units have been realised
-by the Fund will be allotted units wit hin 5 working days, provided the
+by the Fund will be allotted units within 5 working days, provided the
 applications are complete in all respects and are found to be in order. Units
 will be allotted in dematerialized form if so requested by the unit holder in the
 application form. In all other cases, statement of account showing the number
@@ -2742,11 +2742,11 @@ the Co-Operative Societies Act, 1912, One Person Company;
 58
 HDFC Mid Cap Fund-SID
 7. Mutual Funds/Alternative Investment Funds registered with SEBI;
-8. Religious and Charitable Trusts, Wakfs or endowments of private tr usts
+8. Religious and Charitable Trusts, Wakfs or endowments of private trusts
 (subject to receipt of necessary approvals as required) and Private trusts
 authorised to invest in mutual fund schemes under their trust deeds;
 9. Non-resident Indians (NRIs)/Persons of Indian Origin residing abroad
-(PIO)/Overseas Citizen of India (OC I) on repatriation basis or on non -
+(PIO)/Overseas Citizen of India (OCI) on repatriation basis or on non-
 repatriation basis;
 10. Foreign Portfolio Investors (FPI) registered with SEBI in accordance with
 applicable laws;
@@ -2773,7 +2773,7 @@ for investing in/redeeming units of the mutual funds subject to conditions
 set out in the aforesaid regulations.
 2. In case of application(s) made by Individual Investors under a Power of
 Attorney, the original Power of Attorney or a duly notarized copy should
-be submitted. In case of applicat ions made by Non -Individual Investors,
+be submitted. In case of applications made by Non-Individual Investors,
 the authorized signatories/officials of such Non-Individual investors
 should sign the application under their official designation and as per the
 authority granted to them under their Constitutive Documents/Board
@@ -2796,7 +2796,7 @@ non-individuals copy of the Memorandum and Articles of Association/bye-
 laws/trust deed/partnership deed/Certificate of Registration along with the
 proof of authorization to invest, as applicable, to the KYC Registration
 Agency (KRA) registered with SEBI. The Fund/AMC/Trustees/other
-intermediaries will rely on t he declarations/affirmations provided by the
+intermediaries will rely on the declarations/affirmations provided by the
 Investor(s) in the Application/Transaction Form(s) and the documents
 furnished to the KRA that the Investor(s) is permitted/authorised by the
 Constitution document/their Board of Directors etc. to make the
@@ -2807,7 +2807,7 @@ applicant who has applied on behalf of the Investors. The
 Fund/AMC/Trustee reserves the right to call for such other information
 and documents as may be required by it in connection with the
 investments made by the investor. Where the Units are held by a Unit
-holder in breach of any Regulations , AMC/the Fund may effect
+holder in breach of any Regulations, AMC/the Fund may effect
 compulsory redemption of such units.
 4. Returned cheques may not be presented again for collection, and the
 accompanying application forms are liable to be rejected by the AMC. In
@@ -2816,9 +2816,9 @@ are liable to be debited to the investor.
 5. The Trustee reserves the right to recover from an investor any loss
 caused to the Scheme on account of dishonour of cheques issued by the
 investor for purchase of Units of this Scheme.
-6. Subject to the SEBI (MF) Regulations, the Trustee may inter -alia reject
+6. Subject to the SEBI (MF) Regulations, the Trustee may inter-alia reject
 any application for the purchase of Units if the application is invalid or
-incomplete or non -permissible under law or if the AMC/Trustee for any
+incomplete or non-permissible under law or if the AMC/Trustee for any
 other reason to believe that it would not be in the best interest of the
 Scheme or its Unitholders to accept such an application.
 Who cannot invest The persons/entities as specified under section “Who Can Invest?” shall not
@@ -2848,15 +2848,15 @@ received from such U.S. person on hold/reject the transaction
 request/redeem the units, if allotted, as the case may be, as and when
 identified by the AMC that the same is not in compliance with the
 applicable laws and/or the terms and conditions stipulated by
-Trustee/AMC from time to t ime. Such redemptions will be subject to
+Trustee/AMC from time to time. Such redemptions will be subject to
 applicable taxes and exit load, if any.
-The physical application form(s) for transactions (in non -demat mode)
+The physical application form(s) for transactions (in non-demat mode)
 from such U.S. person will be accepted ONLY at the Investor Service
-Centres (ISCs) of HDFC Asset Manageme nt Company Limited (HDFC
+Centres (ISCs) of HDFC Asset Management Company Limited (HDFC
 AMC). Additionally, such transactions in physical application form(s) will
 also be accepted through Distributors and other platforms subject to
 receipt of such additional documents/undertakings, etc., as may be
-stipulated by AMC/Tr ustee from time to time from the
+stipulated by AMC/Trustee from time to time from the
 Distributors/Investors.
 2. Residents of Canada;
 3. Investor residing in any Financial Action Task Force (FATF) designated
@@ -2913,11 +2913,11 @@ The Fund at its sole discretion reserves the right to restrict Redemption
 the Fund upon occurrence of the below mentioned events for a period not
 exceeding ten (10) working days in any ninety (90) days period subject to
 approval of the Board of Directors of the AMC and the Trustee. The restriction
-on Redemption (including switch -out) shall be applicable where the
+on Redemption (including switch-out) shall be applicable where the
 Redemption (including switch-out) request is for a value above Rs. 2,00,000/-
 (Rupees Two Lakhs). Further, no restriction shall be applicable to the
 Redemption / switch-out request upto Rs. 2,00,000/- (Rupees Two Lakhs). It
-is further clarified that, in case of redemption request beyond Rs. 2,00,000/ -
+is further clarified that, in case of redemption request beyond Rs. 2,00,000/-
 (Rupees Two Lakhs), no restriction shall be applicable on first Rs. 2,00,000/-
 (Rupees Two Lakhs).
 The Trustee / AMC reserves the right to restrict Redemption or suspend
@@ -2925,7 +2925,7 @@ Redemption of the Units in the Scheme of the Fund on account of
 circumstances leading to a systemic crisis or event(s) that severely constrict
 market liquidity or the efficient functioning of the markets. A list of such
 circumstances under which the restriction on Redemption or suspension of
-Redemption of the Units in the Scheme of the Fund may be imposed are a s
+Redemption of the Units in the Scheme of the Fund may be imposed are as
 follows:
 1. Liquidity issues- when market at large becomes illiquid affecting almost
 all securities rather than any issuer specific security; or
@@ -2959,7 +2959,7 @@ application (complete in all
 respects) should reach the
 official points of
 acceptance.
-The below cut -off timings and applicability of NAV shall be applicable in
+The below cut-off timings and applicability of NAV shall be applicable in
 respect of valid applications received at the Official Point(s) of Acceptance
 on a Business Day:
 A] For Purchase (including switch-in) of any amount:
@@ -2974,7 +2974,7 @@ of the next Business Day i.e. available for utilization before the cut-off
 time of the next Business Day - the closing NAV of the next Business
 Day shall be applicable.
 ● Irrespective of the time of receipt of application, where the funds for
-the entire amount are credited to the b ank account of the Scheme
+the entire amount are credited to the bank account of the Scheme
 before the cut-off time on any subsequent Business Day i.e. available
 for utilization before the cut-off time on any subsequent Business Day
 - the closing NAV of such subsequent Business Day shall be
@@ -2997,10 +2997,10 @@ in will be processed at the Applicable NAV (on a Business Day) based
 
 63
 HDFC Mid Cap Fund-SID
-on realization of funds as per the redemption pay -out cycle for the
+on realization of funds as per the redemption pay-out cycle for the
 switch-out scheme.
 For investments through systematic investment routes such as Systematic
-Investment Plans (SIP), Flex SIP, Systematic Transfer Plans (STP), Flex -
+Investment Plans (SIP), Flex SIP, Systematic Transfer Plans (STP), Flex-
 STP, Swing STP, Transfer of Income Distribution cum Capital Withdrawal
 (IDCW) Plan facility (TIP), etc. the units will be allotted as per the closing
 NAV of the day on which the funds are available for utilization by the Target
@@ -3013,9 +3013,9 @@ of factors beyond its control such as clearing / settlement cycles of the banks.
 Since different payment modes have different settlement cycles including
 electronic transactions (as per arrangements with Payment Aggregators /
 Banks / Exchanges etc), it may happen that the investor's account is debited,
-but the money is not credited within cut -off time on the same date to the
+but the money is not credited within cut-off time on the same date to the
 Scheme's bank account, leading to a gap / delay in Unit allotment. Investors
-are therefore urged to use the most efficient elec tronic payment modes to
+are therefore urged to use the most efficient electronic payment modes to
 avoid delays in realization of funds and consequently in Unit allotment.
 C] For Redemption (including switch-out) applications
 ● In respect of valid applications received upto 3 p.m. on a Business
@@ -3035,15 +3035,15 @@ purchase/redemption/sw
 itches
 Minimum amount for Purchase/Redemption (including Switch-in/out):
 For details refer section 'Highlights / Summary of the Scheme'.
-The request for minimum amount /units for redemption / switch -out of Units
+The request for minimum amount /units for redemption / switch-out of Units
 under each plan / option would be Rs. 100 and multiples of Re. 1/- thereafter.
 Note: Provisions for minimum amount of purchase / redemptions are not
 applicable in case of mandatory investments by the Designated Employees
 of the AMC in accordance with clause 6.10 of Master Circular.
 There will be no minimum redemption criterion for Unit based redemption.
-The Redemption / Switch -out would be permitted to the extent of credit
+The Redemption / Switch-out would be permitted to the extent of credit
 balance in the Unit holder’s account of the Plan(s) / Option(s) of the Scheme
-(subject to completion of Lock -in period or release of pledge / lien o r other
+(subject to completion of Lock-in period or release of pledge / lien or other
 encumbrances).
 
 ## Page 64
@@ -3052,7 +3052,7 @@ encumbrances).
 HDFC Mid Cap Fund-SID
 The Redemption / Switch-out request can be made by specifying the rupee
 amount or by specifying the number of Units of the respective Plan(s) /
-Option(s) to be redeemed. In case a Redemption / Switch -out request
+Option(s) to be redeemed. In case a Redemption / Switch-out request
 received is for both, a specified rupee amount and a specified number of Units
 of the respective Plan(s)/ Option(s), the specified number of Units will be
 considered the definitive request.
@@ -3064,19 +3064,19 @@ of available Units in the folio / account of the Unit holder under the stated Pl
 / Option of the Scheme shall be redeemed.
 Accounts Statements The AMC shall send an allotment confirmation specifying the units allotted by
 way of email and/or SMS within 5 working days of receipt of valid
-application/transaction to the Unit holders registered e -mail address and/ or
+application/transaction to the Unit holders registered e-mail address and/ or
 mobile number (whether units are held in demat mode or in account
 statement form).
 A Consolidated Account Statement (CAS) detailing all the transactions
 across all mutual funds and holdings at the end of the month shall be sent to
 the Unit holders in whose folio(s) transaction(s) have taken place during the
 month on registered email address on or before 12th of the succeeding month
-and by 15th of the succeeding month for those who h ave opted for physical
+and by 15th of the succeeding month for those who have opted for physical
 copy.
 Half-yearly CAS shall be issued to all investors providing the prescribed
 details across all schemes of mutual funds and securities held in
 dematerialized form across demat accounts, if applicable, at the end of every
-six month s (i.e. September/ March) on or before 18th day of succeeding
+six months (i.e. September/ March) on or before 18th day of succeeding
 month on registered email address and 21st day of succeeding month
 through physical copy for those who do not have registered email addresses.
 For further details, refer SAI.
@@ -3123,7 +3123,7 @@ redemption /repurchase
 proceeds/dividend
 The AMC shall be liable to pay interest to the Unit holders at 15% or such
 other rate as may be prescribed by SEBI from time to time, in case the
-redemption/ repurchase / IDCW proceeds are not transferred within the
+redemption/ repurchase/ IDCW proceeds are not transferred within the
 prescribed timeline. However, the AMC will not be liable to pay any interest
 or compensation or any amount otherwise, in case the AMC / Trustee is
 required to obtain from the investor / unit holders verification of identity or
@@ -3141,7 +3141,7 @@ money market instruments or in a separate plan specifically launched under
 Overnight/Liquid/ Money Market Mutual Fund schemes to deploy unclaimed
 Redemption and IDCW amounts. Investors who claim the unclaimed
 amounts during a period of three years from the due date shall be paid initial
-unclaimed amount along -with the income earned on its deployment.
+unclaimed amount along-with the income earned on its deployment.
 Investors, who claim these amounts after 3 years, shall be paid initial
 unclaimed amount along-with the income earned on its deployment till the
 end of the third year. After the third year, the income earned on such
@@ -3150,7 +3150,7 @@ AMC will make a continuous effort to remind the investors through letters to
 take their unclaimed amounts. The details of such unclaimed
 redemption/IDCW amounts are made available to investors upon them
 providing proper credentials, on website of the Mutual Fund and AMFI along
-with the information on the process of clai ming the unclaimed amount and
+with the information on the process of claiming the unclaimed amount and
 the necessary forms/documents required for the same.
 
 ## Page 66
@@ -3174,7 +3174,7 @@ Withdrawal (IDCW) proceeds for investments held in the name of Minor shall
 continue to be transferred to the verified bank account of the minor (i.e. of the
 minor or joint account of minor with parent/ legal guardian) only. Therefore,
 investors must ensure to update the folios with minor’s bank account details
-as the ‘Pay -out Bank account’ by providing necessary documents before
+as the ‘Pay-out Bank account’ by providing necessary documents before
 tendering redemption requests / for receiving IDCW distributions.
 MINOR ATTAINING MAJOR STATUS
 The Mutual Fund/AMC will register SIP/STP/SWAP/or any other systematic
@@ -3353,7 +3353,7 @@ Stamp Duty On
 Allotment/Transfer Of
 Units
 Mutual fund units issued against Purchase transactions (whether through lump-
-sum investments or SIP or STP or switch -ins or reinvestment under IDCW
+sum investments or SIP or STP or switch-ins or reinvestment under IDCW
 Option) would be subject to levy of stamp duty @ 0.005% of the amount
 invested.
 Transfer of mutual fund units (such as transfers between demat accounts) are
@@ -3416,7 +3416,7 @@ companies.
 *The levy of tax on distributed income payable by Mutual Funds has been abolished w.e.f. April 1, 2020,
 and instead tax on income from mutual fund units in the hands of the unit holders at their applicable rates
 has been adopted.
-1Tax rate to be increased by applicable surcharge and health and education cess at 4% on aggregat e of
+1Tax rate to be increased by applicable surcharge and health and education cess at 4% on aggregate of
 base tax and surcharge.
 2Subject to conditions as per the provisions of the Income-tax Act, 1961.
 
@@ -3424,11 +3424,11 @@ base tax and surcharge.
 
 70
 HDFC Mid Cap Fund-SID
-^^ The information set out is neither a complete disclosure of every material fact of the Income -
-tax Act, 1961 nor does it constitute tax or legal advice . Investors should be aware that the fiscal
+^^ The information set out is neither a complete disclosure of every material fact of the Income-
+tax Act, 1961 nor does it constitute tax or legal advice. Investors should be aware that the fiscal
 rules/ tax laws may change and there can be no guarantee that the current tax position may
 continue indefinitely. The information/ data herein alone is not sufficient and shouldn’t be used or
-should not be const rued as any advice. In view of the individual nature of tax implications,
+should not be construed as any advice. In view of the individual nature of tax implications,
 investors should make his/her/their own investigation and/or are advised to consult their
 professional tax advisor. For further details on taxation, please refer to the Section on Taxation on
 investing in Mutual Funds in Statement of Additional Information {SAI}.
@@ -3468,28 +3468,28 @@ as may be made available from time to time by NSE and/or BSE. Accordingly, inves
 
 71
 HDFC Mid Cap Fund-SID
-stock brokers / registered investment advis ers / mutual fund distributors /Depository Participant #, etc. for
-their transactions through the applicable platforms . The eligible AMFI certified stock exchange Brokers/
+stock brokers / registered investment advisers / mutual fund distributors /Depository Participant#, etc. for
+their transactions through the applicable platforms. The eligible AMFI certified stock exchange Brokers/
 Clearing Members/ Depository Participants who have complied with the conditions stipulated in clause
 16.2.4.8 of Master Circular for stock brokers viz. AMFI/ NISM certification, code of conduct prescribed by
 SEBI for Intermediaries of Mutual Fund or the stock exchange platform (for transactions from RIAs, MFDs
-who are not stock broker s and Investors directly accessing stock exchange platform) will be eligible to be
+who are not stock brokers and Investors directly accessing stock exchange platform) will be eligible to be
 considered as Official Points of Acceptance (OPA).
 # For Processing only Redemption Request of Units Held in Demat Form.
 FOR TRANSACTIONS THROUGH MF UTILITIES INDIA PRIVATE LIMITED ('MFU')
-Both financial and non -financial transactions pertaining to scheme(s) of HDFC Mutual Fund can be done
+Both financial and non-financial transactions pertaining to scheme(s) of HDFC Mutual Fund can be done
 through MFU at the authorized Points of Service ("POS") of MFU. The details of POS published on MFU
 website at www.mfuindia.com will be considered as Official Point of Acceptance (OPA) for transactions in
 the Scheme.
 FOR TRANSACTIONS THROUGH MF CENTRAL
-As per clause 16.6 of Master Circular, Kfin Technologies Private Limited (“KFintech ”) and Computer Age
+As per clause 16.6 of Master Circular, Kfin Technologies Private Limited (“KFintech”) and Computer Age
 Management Services Limited (“CAMS”) have jointly developed MFCentral - A digital platform for
 transactions/ service requests by Mutual Fund investors. Accordingly, MF Central will be considered as an
 Official Point of Acceptance (OPA) for transactions in the Scheme.
 TRANSACTIONS THROUGH "CHANNEL PARTNERS"
 Investors may enter into an agreement with certain distributors/ Registered Investment Advisers (RIAs) /
 Portfolio Managers / Execution Only Platforms (EOPs) (with whom AMC also has a tie up) singly and
-collectively referred to as "Channel Partners" who pr ovide the facility to investors to transact in units of
+collectively referred to as "Channel Partners" who provide the facility to investors to transact in units of
 mutual funds through various modes such as their website / other electronic means or through Power of
 Attorney/agreement/ any such arrangement in favour of the Channel Partners, as the case may be.
 Under such arrangement, the Channel Partners will forward the details of transactions (viz.
@@ -3498,19 +3498,19 @@ basis as per the cut-off timings applicable to the relevant schemes and in accor
 / AMFI circulars issued from time to time.
 FOR TRANSACTIONS IN ELECTRONIC FORM
 Eligible investors can undertake any transaction, including purchase / redemption / switch and avail of any
-services as may be p rovided by HDFC Asset Management Company Limited (AMC) from time to time
+services as may be provided by HDFC Asset Management Company Limited (AMC) from time to time
 through the online/electronic modes (including email) via various sources like its official website -
-www.hdfcfund.com, mobile handsets, designated email -id(s), etc. Additionally, thi s will also cover
+www.hdfcfund.com, mobile handsets, designated email-id(s), etc. Additionally, this will also cover
 transactions submitted in electronic mode by specified banks, financial institutions, distributors viz.
 Channel Partners, etc. on behalf of investors, with whom AMC has entered or may enter into specific
 arrangements or directly by investors through secured internet sites operated by CAMS or other electronic
 platforms. The servers including email servers (maintained at various locations) of AMC and CAMS or any
-other service provider/transaction platform with whom the AMC has tied up for th is purpose will be the
+other service provider/transaction platform with whom the AMC has tied up for this purpose will be the
 official point of acceptance for all such online / electronic transactions. For the purpose of determining the
 applicability of NAV, the time when the request for purchase / sale / switch of units is received in the
 servers of AMC/ RTA or such other service provider/ transaction platform, shall be considered.
 TRANSACTIONS ON CALL
-Transact On call (“ the Facility ”) enables Investors to undertake Eligible Transaction(s) on phone /
+Transact On call (“the Facility”) enables Investors to undertake Eligible Transaction(s) on phone /
 Interactive Voice Response (IVR) as may decided from time to time by the Fund, through its Authorized Call
 
 ## Page 72

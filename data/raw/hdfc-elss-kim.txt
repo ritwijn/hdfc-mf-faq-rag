@@ -8,7 +8,7 @@ An Open-ended Equity Linked Savings Scheme with a statutory lock in of 3 years a
 benefit
 This product is suitable for
 investors who are seeking*: Scheme Riskometer# Benchmark Riskometer#
-- to generate long -term capital
+- to generate long-term capital
 appreciation / income
 - investments predominantly of
 equity & equity related
@@ -49,7 +49,7 @@ Information Document (“SID”) and Statement of Additional Information (“SAI
 
 2
 HDFC ELSS Tax Saver - KIM
-free of cost at any of the Investor Service Centres or distr ibutors or from the website
+free of cost at any of the Investor Service Centres or distributors or from the website
 www.hdfcfund.com.
 The Scheme particulars have been prepared in accordance with Securities and Exchange
 Board of India (Mutual Funds) Regulations 1996 (“SEBI (MF) Regulations”), as amended till
@@ -97,7 +97,7 @@ single intermediary i.e.
 broker level
 Clause 12.11 of Master
 Circular
-2. Derivatives (For Hedging and Non -Hedging
+2. Derivatives (For Hedging and Non-Hedging
 purposes)
 Upto 50% of total assets Clause 12.25 of Master
 Circular
@@ -106,9 +106,9 @@ Circular
 per asset allocation table)
 As per regulatory limits Clause 12.3 of Master
 Circular
-5. Repo/ Reverse Repo / Tri - Party repos (TREPS) on
+5. Repo/ Reverse Repo / Tri- Party repos (TREPS) on
 Government Securities and
-Treasury Bills (G -Secs and
+Treasury Bills (G-Secs and
 T-Bills)
 To meet liquidity requirements
 or pending deployment as per
@@ -185,23 +185,23 @@ within 30 calendar days or such other timeline as may be prescribed by SEBI from
 Portfolio rebalancing (in case of passive breaches):
 As per clause 2.9 of Master Circular, as may be amended/ clarified from time to time, in the event
 of change in the asset allocation due to passive breaches (occurrence of instances not arising out
-of omission and commission of the AMC), the fund manager i s required to carry out portfolio
+of omission and commission of the AMC), the fund manager is required to carry out portfolio
 rebalancing within 30 Business Days.
 In case the portfolio is not rebalanced within the period of 30 Business days, justification in writing,
-including details of efforts taken to rebalance the portfolio shall be placed b efore the Investment
+including details of efforts taken to rebalance the portfolio shall be placed before the Investment
 Committee. The Investment Committee, if it so desires, can extend the timeline for rebalancing up
 to sixty (60) Business days from the date of completion of mandated rebalancing period. In case
-the portfolio of the scheme is not rebala nced within the aforementioned mandated plus extended
+the portfolio of the scheme is not rebalanced within the aforementioned mandated plus extended
 timelines, the AMC shall follow the requirements specified under the aforesaid circular including
 reporting the deviation to Trustees at each stage.
 7. Investment Strategy
 The investment objective of the scheme is to generate capital appreciation / income from a
 portfolio, predominantly of equity & equity related instruments.
 The aim of equity strategy will be to build a portfolio of companies diversified across major
-industries, economic sectors and mar ket capitalization that offer an acceptable risk reward
+industries, economic sectors and market capitalization that offer an acceptable risk reward
 balance.
 Investment in debt securities and money market instruments will be as per the limits in the asset
-allocation table of the scheme, subject to permissible limits laid under SEBI (MF) Regulatio ns.
+allocation table of the scheme, subject to permissible limits laid under SEBI (MF) Regulations.
 Investment in debt securities will be guided by credit quality, liquidity, interest rates and their
 outlook.
 
@@ -217,7 +217,7 @@ The ELSS (Equity Linked Savings Scheme) guidelines, as applicable, would be adhe
 management of this Scheme.
 As part of the Fund Management process, the Scheme may use derivative instruments such as
 futures and options, or any other derivative instruments that are permissible or may be permissible
-in future under applicable regulations. However, trading in deriva tives by the Scheme shall be for
+in future under applicable regulations. However, trading in derivatives by the Scheme shall be for
 restricted purposes as permitted by the regulations.
 For detailed derivative strategies, please refer to SAI. For exposure limits to derivatives, refer
 section ‘Where will the scheme invest’ under Section II, Part II, Clause A in the SID.
@@ -246,7 +246,7 @@ lead to the Scheme incurring losses till the security is finally sold.
 held in the debt segment, as per the investment pattern indicated under normal circumstances.
 (ii) Risk factors associated with investing in Fixed Income Securities
 • The Net Asset Value (NAV) of the Scheme, to the extent invested in Debt and Money
-Market instruments, will be affected by changes in the gener al level of interest rates. The
+Market instruments, will be affected by changes in the general level of interest rates. The
 
 ## Page 6
 
@@ -261,19 +261,19 @@ losses till the security is finally sold.
 rating of the issuers.
 • Investment in Debt instruments are subject to varying degree of credit risk or default (i.e.
 the risk of an issuer's inability to meet interest or principal payments on its obligations) or
-any other issues, which may have their credit ratings downgraded. C hanges in financial
+any other issues, which may have their credit ratings downgraded. Changes in financial
 conditions of an issuer, changes in economic and political conditions in general, or changes
 in economic or and political conditions specific to an issuer, all of which are factors that
-may have an adverse impact on an issuer's credit q uality and security values. This may
+may have an adverse impact on an issuer's credit quality and security values. This may
 increase the risk of the portfolio. The Investment Manager will endeavour to manage credit
 risk through in-house credit analysis.
-• Prepayment Risk: Certain fixed income securities give an issuer the right to call back it s
+• Prepayment Risk: Certain fixed income securities give an issuer the right to call back its
 securities before their maturity date, in periods of declining interest rates. The possibility of
 such prepayment may force the Scheme to reinvest the proceeds of such investments in
 securities offering lower yields, resulting in lower interest income for the Scheme.
 • Reinvestment Risk: This risk refers to the interest rate levels at which cash flows received
 from the securities in the Scheme are reinvested. The additional income from reinvestment
-is the "interest on interest" component. The risk is that t he rate at which interim cash flows
+is the "interest on interest" component. The risk is that the rate at which interim cash flows
 can be reinvested may be lower than that originally assumed.
 • Settlement risk: Different segments of Indian financial markets have different settlement
 periods and such periods may be extended significantly by unforeseen circumstances.
@@ -282,16 +282,16 @@ when the assets of the Scheme are uninvested and no return is earned thereon. Th
 inability of the Scheme to make intended securities purchases, due to settlement problems,
 could cause the Scheme to miss certain investment opportunities. Similarly, the inability to
 sell securities held in the Scheme's portfolio, due to the absence of a well developed and
-liquid secondary market for debt securities, may re sult at times in potential losses to the
+liquid secondary market for debt securities, may result at times in potential losses to the
 Scheme in the event of a subsequent decline in the value of securities held in the
 Scheme's portfolio.
-• Government securities where a fixed return is offered run price -risk like any other fixed
-income security. Gener ally, when interest rates rise, prices of fixed income securities fall
+• Government securities where a fixed return is offered run price-risk like any other fixed
+income security. Generally, when interest rates rise, prices of fixed income securities fall
 and when interest rates drop, the prices increase. The extent of fall or rise in the prices is a
-function of the existing coupon, days to maturity and the increase or decrease in the le vel
+function of the existing coupon, days to maturity and the increase or decrease in the level
 of interest rates. The new level of interest rate is determined by the rates at which
 government raises new money and/or the price levels at which the market is already
-dealing in existing securities. The price -risk is not unique to Government Securiti es. It
+dealing in existing securities. The price-risk is not unique to Government Securities. It
 exists for all fixed income securities. However, Government Securities are unique in the
 sense that their credit risk generally remains zero. Therefore, their prices are influenced
 only by movement in interest rates in the financial system.
@@ -309,16 +309,16 @@ HDFC ELSS Tax Saver - KIM
 • The AMC may, considering the overall level of risk of the portfolio, invest in lower rated /
 unrated securities offering higher yields as well as zero coupon securities that offer
 attractive yields. This may increase the absolute level of risk of the portfolio.
-• As zero coupon securities do not provide periodic interest payments to the hol der of the
+• As zero coupon securities do not provide periodic interest payments to the holder of the
 security, these securities are more sensitive to changes in interest rates and are subject to
 issuer default risk. Therefore, the interest rate risk of zero coupon securities is higher. The
 AMC may choose to invest in zero coupon securities that offer attractive yields. This may
 increase the risk of the portfolio. Zero coupon or deep discount bonds are debt obligations
 that do not entitle the holder to any periodic payment of interest prior to maturity or a
-specified date when the securities begi n paying current interest and therefore, are
+specified date when the securities begin paying current interest and therefore, are
 generally issued and traded at a discount to their face values. The discount depends on the
 time remaining until maturity or the date when securities begin paying current interest. It
-also varies depending on th e prevailing interest rates, liquidity of the security and the
+also varies depending on the prevailing interest rates, liquidity of the security and the
 perceived credit risk of the Issuer. The market prices of zero coupon securities are
 generally more volatile than the market prices of securities that pay interest periodically.
 (iii) Risks associated with investment in unlisted securities:
@@ -328,8 +328,8 @@ are subject to greater price fluctuations, less liquidity and greater risk than 
 traded in the open market. Unlisted debt securities may lack a liquid secondary market and
 there can be no assurance that the Scheme will realise their investments in unlisted
 securities at a fair value.
-• Investment in unrated instruments m ay involve a risk of default or decline in market value
-higher than rated instruments due to adverse economic and issuer -specific developments.
+• Investment in unrated instruments may involve a risk of default or decline in market value
+higher than rated instruments due to adverse economic and issuer-specific developments.
 Such investments display increased price sensitivity to changing interest rates and to a
 deteriorating economic environment. The market values for unrated investments tends to
 be more volatile and such securities tend to be less liquid than rated debt securities.
@@ -343,13 +343,13 @@ be in various forms and could include guarantee, shortfall undertaking, letter o
 etc. from another entity. This entity could be either related or non-related to the issuer like a
 bank, financial institution, etc. Credit enhancement could include additional security in form
 of pledge of shares listed on stock exchanges, etc. SO transactions are asset backed/
-mortgage backed securities, securitized paper backed by h ypothecation of car loan
+mortgage backed securities, securitized paper backed by hypothecation of car loan
 receivables, securities backed by trade receivables, credit card receivables etc. Hence, for
 CE rated instruments evaluation of the credit enhancement provider, as well as the issuer
 is undertaken to determine the issuer rating. In case of SO rated issuer, the underlying loan
 pools or securitization, etc. is assessed to arrive at rating for the issuer.
 • Liquidity Risk: SO rated securities are often complex structures, with a variety of credit
-enhancements. Debt securities lack a wel l-developed secondary market in India, and due
+enhancements. Debt securities lack a well-developed secondary market in India, and due
 to the credit enhanced nature of CE securities as well as structured nature of SO securities,
 the liquidity in the market for these instruments is adversely affected compared to similar
 
@@ -360,10 +360,10 @@ HDFC ELSS Tax Saver - KIM
 rated debt instruments. Hence, lower liquidity of such instruments, could lead to inability of
 the scheme to sell such debt instruments and generate liquidity for the scheme or higher
 impact cost when such instruments are sold.
-• Credit Risk: The credit risk of debt instruments w hich are CE rated is based on the
+• Credit Risk: The credit risk of debt instruments which are CE rated is based on the
 combined strength of the issuer as well as the structure. Hence, any weakness in either the
 issuer or the structure could have an adverse credit impact on the debt instrument. The
-weakness in structure could arise due to i nability of the investors to enforce the structure
+weakness in structure could arise due to inability of the investors to enforce the structure
 due to issues such as legal risk, inability to sell the underlying collateral or enforce
 guarantee, etc. In case of SO transactions, comingling risk and risk of servicer increases
 the overall risk for the securitized debt or assets backed transactions. Therefore, apart from
@@ -372,16 +372,16 @@ risk.
 (v) Risk factors associated with investment in Tri-Party Repo
 The mutual fund is a member of securities segment and Triparty Repo trade settlement of the
 Clearing Corporation of India (CCIL). All transactions of the mutual fund in government
-securities and in Tri -party Repo trades are settled centrally through the infrastructure and
+securities and in Tri-party Repo trades are settled centrally through the infrastructure and
 settlement systems provided by CCIL; Thus, reducing the settlement and counterparty risks
 considerably for transactions in the said segments. The members are required to contribute an
-amount as communicated by CCIL from time to time to the default fund maintai ned by CCIL as
+amount as communicated by CCIL from time to time to the default fund maintained by CCIL as
 a part of the default waterfall (a loss mitigating measure of CCIL in case of default by any
 member in settling transactions routed through CCIL).
 As per the waterfall mechanism, after the defaulter's margins and the defaulter's contribution to
 the default fund have been appropriated, CCIL's contribution is used to meet the losses. Post
 utilization of CCIL's contribution if there is a residual loss, it is appropriated from the default
-fund contributions of the non -defaulting members. Thus, t he scheme is subject to risk of the
+fund contributions of the non-defaulting members. Thus, the scheme is subject to risk of the
 initial margin and default fund contribution being invoked in the event of failure of any
 settlement obligations. In addition, the fund contribution is allowed to be used to meet the
 residual loss in case of default by the other clearing member (the defaulting member).
@@ -389,7 +389,7 @@ CCIL shall maintain two separate Default Funds in respect of its Securities Segm
 a view to meet losses arising out of any default by its members from outright and repo trades
 and the other for meeting losses arising out of any default by its members from Triparty Repo
 trades. The mutual fund is exposed to the extent of its contribution to the default fund of CCIL,
-in the event that the contribution of the mutual fund is called upon to absorb se ttlement/default
+in the event that the contribution of the mutual fund is called upon to absorb settlement/default
 losses of another member by CCIL, as a result the scheme may lose an amount equivalent to
 its contribution to the default fund.
 (vi) Risk factors associated with investing in Foreign Securities
@@ -404,8 +404,8 @@ by changes in the value of certain foreign currencies relative to the Indian Rup
 9
 HDFC ELSS Tax Saver - KIM
 ● Interest Rate Risk:
-The pace and movement of interest rate cycles of various countries, though loosely co -related,
-can differ significantly. Hence by investing in securiti es of countries other than India, the
+The pace and movement of interest rate cycles of various countries, though loosely co-related,
+can differ significantly. Hence by investing in securities of countries other than India, the
 Scheme stand exposed to their interest rate cycles.
 ● Credit Risk:
 Investment in Foreign Debt Securities are subject to the risk of an issuer's inability to meet
@@ -415,34 +415,34 @@ investments only in debt instruments with rating not below investment grade by
 accredited/registered credit rating agency.
 ● Taxation Risk:
 In addition to the disclosure related to taxation mentioned in Statement of Additional
-Information (SAI) under section “ Special Consideration”, Investment in Foreign Securities
+Information (SAI) under section “Special Consideration”, Investment in Foreign Securities
 poses additional challenges based on the tax laws of each respective country or jurisdiction.
 The scheme may be subject to a higher level of taxes than originally anticipated and or dual
 taxation.
 The Scheme may be subject to withholding or other taxes on income and/or gains arising from
-its investment portfolio . Further, such investments are exposed to risks associated with the
+its investment portfolio. Further, such investments are exposed to risks associated with the
 changing / evolving tax / regulatory regimes of all the countries where the Scheme invests. All
 these may entail a higher outgo to the Scheme by way of taxes, transaction costs, fees etc.
 thus adversely impacting its NAV; resulting in lower returns to an Investor.
 ● Legal and Regulatory Risk:
 Legal and regulatory changes could occur during the term of the Scheme which may adversely
-affect it. If any of the laws and regulations currently i n effect should change or any new laws or
+affect it. If any of the laws and regulations currently in effect should change or any new laws or
 regulations should be enacted, the legal requirements to which the Scheme and the investors
 may be subject could differ materially from current requirements and may materially and
-adversely affect the Scheme and th e investors. Legislation/ Regulatory guidelines could also
+adversely affect the Scheme and the investors. Legislation/ Regulatory guidelines could also
 be imposed retrospectively.
 ● Country Risk:
 The Country risk arises from the inability of a country, to meet its financial obligations. It is the
-risk encompassing economic, social and political c onditions in a foreign country, which might
+risk encompassing economic, social and political conditions in a foreign country, which might
 adversely affect foreign investors' financial interests. In addition, country risks would include
-events such as introduction of extraordinary exchange controls, economic deterioration, bi -
+events such as introduction of extraordinary exchange controls, economic deterioration, bi-
 lateral conflict leading to immobilisation of the overseas financial assets and the prevalent tax
 laws of the respective jurisdiction for execution of trades or otherwise.
 ● To manage risks associated with foreign currency and interest rate exposure, the Mutual Fund
 may use derivatives for efficient portfolio management including hedging and in accordance
 with conditions as may be stipulated by SEBI/ RBI from time to time.
 • Exhaustion of Limit for investments in Overseas Securities:
-In case the permissible limits for investm ents in overseas Securities by the Scheme provided by
+In case the permissible limits for investments in overseas Securities by the Scheme provided by
 regulatory bodies is reached, then the scheme may not be able to make any further investments in
 permissible Overseas Securities. This could lead to loss of investment opportunity.
 
@@ -459,16 +459,16 @@ understanding not only of the underlying instrument but of the derivative itself
 include, the risk of mispricing or improper valuation and the inability of derivatives to correlate
 perfectly with underlying assets, rates and indices.
 ● Derivative products are leveraged instruments and can provide disproportionate gains as well
-as disproport ionate losses to the investor. Execution of such strategies depends upon the
+as disproportionate losses to the investor. Execution of such strategies depends upon the
 ability of the fund manager to identify such opportunities. Identification and execution of the
-strategies to be pursued by the fund manager involve uncertainty and decision of fu nd
+strategies to be pursued by the fund manager involve uncertainty and decision of fund
 manager may not always be profitable. No assurance can be given that the fund manager will
 be able to identify or execute such strategies.
 ● The risks associated with the use of derivatives are different from or possibly greater than, the
 risks associated with investing directly in securities and other traditional investments.
 ● Credit Risk:
 The credit risk in derivative transaction is the risk that the counter party will default on its
-obligations and is generally low, as there is no exchange of princi pal amounts in a derivative
+obligations and is generally low, as there is no exchange of principal amounts in a derivative
 transaction.
 ● Market Risk:
 Market movements may adversely affect the pricing and settlement of derivatives.
@@ -477,15 +477,15 @@ This is the risk that a derivative cannot be sold or purchased quickly enough at
 to lack of liquidity in the market.
 Additional Risk viz. Basis Risk associated with imperfect hedging using Interest Rate
 Futures (IRF): The imperfect correlation between the prices of securities in the portfolio and
-the IRF contract used to hedge pa rt of the portfolio leads to basis risk. Thus, the loss on the
+the IRF contract used to hedge part of the portfolio leads to basis risk. Thus, the loss on the
 portfolio may not exactly match the gain from the hedge position entered using the IRF.
 (viii) Risk factors associated with Securities Lending
 As with other modes of extensions of credit, there are risks inherent to securities lending,
 including the risk of failure of the other party, in this case the approved intermediary, to comply
 with the terms of the agreement entered into between the lender of securities i.e. the Scheme
-and the approved interm ediary. Such failure can result in the possible loss of rights to the
+and the approved intermediary. Such failure can result in the possible loss of rights to the
 collateral put up by the borrower of the securities, the inability of the approved intermediary to
-return the securities deposited by the lender and the possible loss of any corporate be nefits
+return the securities deposited by the lender and the possible loss of any corporate benefits
 accruing to the lender from the securities deposited with the approved intermediary. The
 scheme may not be able to sell lent out securities, which can lead to temporary illiquidity & loss
 of opportunity.
@@ -498,7 +498,7 @@ HDFC ELSS Tax Saver - KIM
 The Risks involved in Securitised Papers described below are the principal ones and does not
 represent that the statement of risks set out hereunder is exhaustive.
 ● Limited Liquidity & Price Risk
-There is no assurance that a deep second ary market will develop for the Certificates. This
+There is no assurance that a deep secondary market will develop for the Certificates. This
 could limit the ability of the investor to resell them.
 ● Limited Recourse, Delinquency and Credit Risk
 The Credit Enhancement stipulated represents a limited loss cover to the Investors. These
@@ -507,10 +507,10 @@ represent an obligation of either the Issuer or the Seller or the originator, or
 affiliate of the Seller, Issuer and Originator. No financial recourse is available to the Certificate
 Holders against the Investors' Representative. Delinquencies and credit losses may cause
 depletion of the amount available under the Credit Enhancement and thereby the Investor
-Payouts to the Certificate Holders may get affe cted if the amount available in the Credit
+Payouts to the Certificate Holders may get affected if the amount available in the Credit
 Enhancement facility is not enough to cover the shortfall. On persistent default of an Obligor to
 repay his obligation, the Servicer may repossess and sell the Asset. However, many factors
-may affect, delay or pre vent the repossession of such Asset or the length of time required to
+may affect, delay or prevent the repossession of such Asset or the length of time required to
 realise the sale proceeds on such sales. In addition, the price at which such Asset may be sold
 may be lower than the amount due from that Obligor.
 ● Risks due to possible prepayments and Charge Offs
@@ -524,7 +524,7 @@ could experience losses or delays in the payments.
 With respect to the Certificates, the Servicer will deposit all payments received from the
 Obligors into the Collection Account. However, there could be a time gap between collection by
 a Servicer and depositing the same into the Collection account especially considering that
-some of the collections may be in the form of cash. In this interim p eriod, collections from the
+some of the collections may be in the form of cash. In this interim period, collections from the
 Loan Agreements may not be segregated from other funds of originator. If originator in its
 capacity as Servicer fails to remit such funds due to Investors, the Investors may be exposed to
 a potential loss.
@@ -533,7 +533,7 @@ Perpetual Debt instruments are issued by Banks, NBFCs and corporates to improve 
 capital profile. Some of the PDIs issued by Banks which are governed by the RBI guidelines for
 Basel III Capital Regulations are referred to as Additional Tier I (AT1 bonds). While there are
 no regulatory guidelines for issuance of PDIs by corporate bodies, NBFCs issue these bonds
-as per guidelines issued by RBI. The instruments are treated as perpetual in na ture as there is
+as per guidelines issued by RBI. The instruments are treated as perpetual in nature as there is
 no fixed maturity date. The key risks associated with these instruments are highlighted below:
 Key Risk Factors:
 - Risk on coupon servicing
@@ -548,22 +548,22 @@ distributions/ payment of coupons. In the event of non-availability of adequate 
 reserves and surpluses or inadequacy in terms of capital requirements, RBI may not allow
 banks to make payment of coupons.
 NBFCs
-While NBFCs may have discreti on at all times to cancel payment of coupon, coupon can
+While NBFCs may have discretion at all times to cancel payment of coupon, coupon can
 also be deferred (instead of being cancelled), in case paying the coupon leads to breach of
 capital ratios.
 Corporates
-Corporates usually have discretion to defer the payment of coupon. However, t he coupon
+Corporates usually have discretion to defer the payment of coupon. However, the coupon
 is usually cumulative and any deferred coupon shall accrue interest at the original coupon
 rate of the PDI.
 - Risk of write-down or conversion into equity
 Banks
-As per the regulatory requirements, Banks have to maintain a minimum Common Equi ty
-Tier-1 (CET-1) ratio of Risk Weighted Assets (RWAs), failing which the AT -1 bonds can get
-written down. Further, AT -1 Bonds are liable to be written down or converted to common
-equity, at the discretion of RBI, in the event of Point of Non Viability Tri gger (PONV). PONV
-is a point, determined by RBI, when a bank is deemed to have become non -viable unless
-there is a write off/ conversion to equity of AT -1 Bonds or a public sector capital injection
-happens. The write off/conversion has to occur prior to pu blic sector injection of capital.
+As per the regulatory requirements, Banks have to maintain a minimum Common Equity
+Tier-1 (CET-1) ratio of Risk Weighted Assets (RWAs), failing which the AT-1 bonds can get
+written down. Further, AT-1 Bonds are liable to be written down or converted to common
+equity, at the discretion of RBI, in the event of Point of Non Viability Trigger (PONV). PONV
+is a point, determined by RBI, when a bank is deemed to have become non-viable unless
+there is a write off/ conversion to equity of AT-1 Bonds or a public sector capital injection
+happens. The write off/conversion has to occur prior to public sector injection of capital.
 This risk is not applicable in case of NBFCs and Corporates.
 - Risk of instrument not being called by the Issuer
 Banks
@@ -590,7 +590,7 @@ Short-selling is the sale of shares which are not owned by the seller at the tim
 Instead, he borrows it from someone who already owns it. Later, the short seller buys back the
 stock he shorted and returns the stock to close out the loan. If the price of the stock corrects,
 Short seller can buy the stock back for less than he received for selling it and earn profit (the
-difference between higher short sale price and the lower pur chase price).If the price of stock
+difference between higher short sale price and the lower purchase price).If the price of stock
 appreciates, short selling results in loss. Thus, Short positions carry the risk of losing money
 and these losses may grow theoretically unlimited if the price increases without limit and shall
 result into major losses in the portfolio.
@@ -614,17 +614,17 @@ This refers to the ease with which securities/instruments of REITs/InvITs can be
 no assurance that an active secondary market will develop or be maintained. Hence there
 would be time when trading in the units could be infrequent. The subsequent valuation of
 illiquid units may reflect a discount from the market price of comparable securities/instruments
-for which a liquid m arket exists. As these products are new to the market they are likely to be
+for which a liquid market exists. As these products are new to the market they are likely to be
 exposed to liquidity risk.
 ● Reinvestment Risk:
 Investments in securities/instruments of REITs and InvITs may carry reinvestment risk as there
-could be repatriation of funds by th e Trusts in form of buyback of units or Dividend pay -outs,
+could be repatriation of funds by the Trusts in form of buyback of units or Dividend pay-outs,
 etc. Consequently, the proceeds may get invested in assets providing lower returns.
 ● Legal and Regulatory Risk
-The regulatory framework governing investments in securities/instruments of REITs an d InvITs
+The regulatory framework governing investments in securities/instruments of REITs and InvITs
 comprises a relatively new set of regulations and is therefore untested, interpretation and
 enforcement by regulators and courts involves uncertainties. Presently, it is difficult to forecast
-as to how any new laws, regulations or standards or fut ure amendments will affect the issuers
+as to how any new laws, regulations or standards or future amendments will affect the issuers
 of REITs/InvITs and the sector as a whole. Furthermore, no assurance can be given that the
 regulatory system will not change in a way that will impair the ability of the Issuers to comply
 with the regulations, conduct the business, compete effectively or make distributions.
@@ -642,27 +642,27 @@ affect the performance of the Scheme to the extent of investment in such schemes
 In repo transactions, also known as a repo or sale repurchase agreement, securities are sold
 with the seller agreeing to buy them back at later date. The repurchase price should be
 greater than the original sale price, the difference effectively representing interest. A repo in
-corporate debt securities is economically similar to a secured loan, with the buyer re ceiving
+corporate debt securities is economically similar to a secured loan, with the buyer receiving
 corporate debt securities as collateral to protect against default. Some of the risks
 associated with repo in corporate debt are given below:
-Counterparty Risk : Counterparty risk refers to the inability of the seller to meet the
-obligation to buy b ack securities at the contracted price on the contracted date. In case of
+Counterparty Risk: Counterparty risk refers to the inability of the seller to meet the
+obligation to buy back securities at the contracted price on the contracted date. In case of
 over the counter (OTC) repo trades, the investment manager will endeavour to manage
 counterparty risk by dealing only with counterparties having strong credit profiles. Also, the
 counter-party risk is to an extent mitigated by taking collateral equivalent in value to the
 transaction after knocking off a minimum haircut on the intrinsic value of the collateral. In the
-event of default by the repo counterparty, the scheme shall have rec ourse to the corporate
+event of default by the repo counterparty, the scheme shall have recourse to the corporate
 debt securities. In case the repo transaction is executed on exchange platform approved by
 RBI/SEBI, the exchange may also provide settlement guarantee.
 Collateral Risk: Collateral risk arises when the market value of the securities is inadequate
 to meet the repo obligations. This risk can be partly mitigated by restricting participation in
-repo transactions only in corporate debt securities which are approved by credit r isk team.
+repo transactions only in corporate debt securities which are approved by credit risk team.
 Additionally, to address the risk related to reduction in market value of corporate debt
 security held as collateral due to credit rating downgrade, the repo contract can incorporate
-either an early termination of the repo agreement or call for f resh margin to meet the
+either an early termination of the repo agreement or call for fresh margin to meet the
 minimum haircut requirement or call for replacement of security with eligible security.
 Moreover, the investment manager may apply a higher haircut on the underlying security
-than required as per RBI/SEBI regulation to adjust for th e illiquidity and interest rate risk on
+than required as per RBI/SEBI regulation to adjust for the illiquidity and interest rate risk on
 the underlying instrument. To mitigate the risk of price reduction due to interest rate
 changes, the adequacy of the collateral can be monitored on a daily basis by considering the
 daily market value & applying the prescribed haircut. The fund manager or the exchange can
@@ -675,7 +675,7 @@ sale of collateral.
 investments made by the Scheme. Different segments of the Indian financial markets have
 different settlement periods and such periods may be extended significantly by unforeseen
 circumstances leading to delays in receipt of proceeds from sale of securities. The NAV of the
-Units of the Sc heme can go up or down because of various factors that affect the capital
+Units of the Scheme can go up or down because of various factors that affect the capital
 markets in general.
 
 ## Page 15
@@ -686,22 +686,22 @@ HDFC ELSS Tax Saver - KIM
 volumes and settlement periods, the time taken by the Mutual Fund for redemption of Units
 may be significant in the event of an inordinately large number of redemption requests or
 restructuring of the Scheme. In view of the above, the Trustee has the right, in its sole
-discretion, to limit redemptions (including suspend ing redemptions) under certain
+discretion, to limit redemptions (including suspending redemptions) under certain
 circumstances, as described under section Right to Restrict Redemption and / or Suspend
 Redemption of the units.
 • At times, due to the forces and factors affecting the capital market, the Scheme may not be
 able to invest in securities falling within its investment objective resulting in holding the monies
 collected by it in cash or cash equivalent or invest the same in other permissible securities /
 investments amounting to substantial reduction in the earning capability of the Scheme. The
-Scheme may retain certain investments in cash or cash equivalents for its day -to-day liquidity
+Scheme may retain certain investments in cash or cash equivalents for its day-to-day liquidity
 requirements.
 • Investment strategy to be adopted by the Scheme may carry the risk of significant variance
-between the portfolio allocation of the Sch eme and the Benchmark particularly over a short to
+between the portfolio allocation of the Scheme and the Benchmark particularly over a short to
 medium term period.
 • Performance of the Scheme may be affected by political, social, and economic developments,
 which may include changes in government policies, diplomatic conditions, and taxation
 policies.
-• The Scheme at times may receive large number of redemption requests, leading to an asset -
+• The Scheme at times may receive large number of redemption requests, leading to an asset-
 liability mismatch and therefore, requiring the investment manager to make a distress sale of
 the securities leading to realignment of the portfolio and consequently resulting in investment in
 lower yield instruments.
@@ -720,12 +720,12 @@ accumulated realized gains), which is part of sale price paid by them.
 Default Option- Growth
 For detailed disclosure on default plans and options, kindly refer SAI.
 10. Applicable NAV (after the scheme opens for subscriptions and redemptions)
-The below cut -off timings and applicability of NAV shall be applicable in respect of valid
+The below cut-off timings and applicability of NAV shall be applicable in respect of valid
 applications received at the Official Point(s) of Acceptance on a Business Day (During Continuous
 Offer Period):
 A] For Purchase (including switch-in) of any amount:
 ● In respect of valid applications received upto 3.00 p.m. and where the funds for the entire
-amount are available fo r utilization before the cut -off time i.e. credited to the bank account
+amount are available for utilization before the cut-off time i.e. credited to the bank account
 of the Scheme before the cut-off time - the closing NAV of the day shall be applicable.
 
 ## Page 16
@@ -734,45 +734,45 @@ of the Scheme before the cut-off time - the closing NAV of the day shall be appl
 HDFC ELSS Tax Saver - KIM
 ● In respect of valid applications received after 3.00 p.m. and where the funds for the entire
 amount are credited to the bank account of the Scheme either at any time on the same day
-or before the cut -off time of the next Business Day i.e. available for utilization before the
-cut-off time of the next Business Day - the closing NAV of the next Busine ss Day shall be
+or before the cut-off time of the next Business Day i.e. available for utilization before the
+cut-off time of the next Business Day - the closing NAV of the next Business Day shall be
 applicable.
 ● Irrespective of the time of receipt of application, where the funds for the entire amount are
-credited to the bank account of the Scheme before the cut -off time on any subsequent
-Business Day i.e. available for utilization bef ore the cut -off time on any subsequent
+credited to the bank account of the Scheme before the cut-off time on any subsequent
+Business Day i.e. available for utilization before the cut-off time on any subsequent
 Business Day - the closing NAV of such subsequent Business Day shall be applicable.
 B] For Switch-ins of any amount:
 For determining the applicable NAV, the following shall be ensured:
 ● Application for switch-in is received before the applicable cut-off time.
-● Funds for the entire amount of subscription/purchase as per the switch -in request are
+● Funds for the entire amount of subscription/purchase as per the switch-in request are
 credited to the bank account of the Scheme before the cut-off time.
 ● The funds are available for utilization before the cut-off time.
 ● In case of ‘switch’ transactions from one scheme to another, the allocation shall be in line
 with redemption payouts.
 In case of switches, the request should be received on a day which is a Business Day for
-the Switch -out scheme. Redemptio n for switch -out shall be processed at the applicable
+the Switch-out scheme. Redemption for switch-out shall be processed at the applicable
 NAV as per cut-off timing. Switch-in will be processed at the Applicable NAV (on a Business
-Day) based on realization of funds as per the redemption pay -out cycle for the switch -out
+Day) based on realization of funds as per the redemption pay-out cycle for the switch-out
 scheme.
 For investments through systematic investment routes such as Systematic Investment Plans
-(SIP), Flex SIP, Systematic Transfer Plans (STP), Flex -STP, Swing STP, Transfer of Income
-Distribution cum Capital Withdrawal (IDCW) Plan facility (TIP), etc. the unit s will be allotted as
+(SIP), Flex SIP, Systematic Transfer Plans (STP), Flex-STP, Swing STP, Transfer of Income
+Distribution cum Capital Withdrawal (IDCW) Plan facility (TIP), etc. the units will be allotted as
 per the closing NAV of the day on which the funds are available for utilization by the Target
 Scheme irrespective of the installment date of the SIP, STP or record date of IDCW etc.
-While the AMC will endeavour to deposit the paymen t instruments accompanying investment
+While the AMC will endeavour to deposit the payment instruments accompanying investment
 application submitted to it with its bank expeditiously, it shall not be liable for delay in realization
 of funds on account of factors beyond its control such as clearing / settlement cycles of the
 banks.
-Since diffe rent payment modes have different settlement cycles including electronic
+Since different payment modes have different settlement cycles including electronic
 transactions (as per arrangements with Payment Aggregators / Banks / Exchanges etc), it may
-happen that the investor's account is debited, but the money is not credited within cut -off time
+happen that the investor's account is debited, but the money is not credited within cut-off time
 on the same date to the Scheme's bank account, leading to a gap / delay in Unit allotment.
 Investors are therefore urged to use the most efficient electronic payment modes to avoid
 delays in realization of funds and consequently in Unit allotment.
 C] For Redemption (including switch-out) applications
 ● In respect of valid applications received upto 3 p.m. on a Business Day by the Fund, same
 day's closing NAV shall be applicable.
-● In respect of valid applications received after 3 p.m. on a Busines s Day by the Fund, the
+● In respect of valid applications received after 3 p.m. on a Business Day by the Fund, the
 closing NAV of the next Business Day shall be applicable.
 
 ## Page 17
@@ -786,20 +786,20 @@ for purchase / sale / switch of units is received in the servers of AMC/RTA.
 The AMC has the right to amend cut off timings subject to SEBI (MF) Regulations for the smooth
 and efficient functioning of the Scheme.
 11. Minimum Application Amount / Number of Units
-Purchase (including switch -
+Purchase (including switch-
 in)
 Additional Purchase
 (including switch-in)
 Redemption (including
 switch-out)
-Rs. 500/ - and in multiples of
+Rs. 500/- and in multiples of
 Rs. 500
 thereafter.
 Note: Allotment of units will be
 done after deduction of
 applicable stamp duty and
 other charges, if any.
-Rs. 500/ - and in multiples of
+Rs. 500/- and in multiples of
 Rs. 500 thereafter.
 Note: Allotment of units will be
 done after deduction of
@@ -822,7 +822,7 @@ accordance with SEBI (Mutual Funds) Regulations, 1996.
 IDCW, if declared, will be paid (subject of deduction of tax at source, if any) to those Unitholders /
 Beneficial Owners whose names appear in the Register of Unit holders maintained by the Mutual
 Fund/ statement of beneficial ownership maintained by the Depositories, as applicable, under the
-IDCW option as on the Record Date. The IDCW payment shall be transferred to the U nitholders
+IDCW option as on the Record Date. The IDCW payment shall be transferred to the Unitholders
 within 7 working days of the record date of such declaration of IDCW or such other timeline as may
 be specified by SEBI from time to time. In the event of failure to transfer IDCW within the stipulated
 period, the AMC shall be liable to pay interest @ 15% per annum to the Unitholders for the delay in
@@ -914,10 +914,10 @@ However, exit load will be applicable if the units are switched-out / redeemed f
 Scheme within the exit load period from the initial date of purchase.
 (ii) No Exit load will be levied on Bonus Units and on units allotted on Re-investment of Income
 Distribution cum Capital Withdrawal.
-(iii) No Exit load will be lev ied on Units allotted in the Target Scheme under the Transfer of
+(iii) No Exit load will be levied on Units allotted in the Target Scheme under the Transfer of
 Income Distribution cum Capital Withdrawal (IDCW) Plan Facility (TIP Facility).
 (iv) In case of Systematic Transactions such as Systematic Investment Plan (SIP), Flex
-Systematic Investment Plan (F lex SIP), Systematic Transfer Plan (STP), HDFC Flex
+Systematic Investment Plan (Flex SIP), Systematic Transfer Plan (STP), HDFC Flex
 Systematic Transfer Plan (Flex STP), HDFC Swing Systematic Transfer Plan (Swing STP),
 HDFC Flexindex Plan (Flexindex) etc., Exit Load, if any, prevailing on the date of
 registration / enrolment shall be levied.
@@ -947,11 +947,11 @@ fees and expenses charged in a Direct Plan (in percentage terms) under various h
 the investment and advisory fee shall not exceed the fees and expenses charged under such
 heads in a Regular Plan.
 For the actual current expenses being charged, the investor should refer to the website of the
-mutual fund. Click h ere for Total Expense Ratio (TER) - https://www.hdfcfund.com/statutory-
+mutual fund. Click here for Total Expense Ratio (TER) - https://www.hdfcfund.com/statutory-
 disclosure/total-expense-ratio-of-mutual-fund-schemes/reports
 Click here for factsheet – https://www.hdfcfund.com/investor-services/factsheets
 The maximum limit of recurring expenses that can be charged to the Scheme would be as per
-Regulation 52 of the S EBI (MF) Regulation, 1996. Investors are requested to read “ Section-
+Regulation 52 of the SEBI (MF) Regulation, 1996. Investors are requested to read “Section-
 Annual Scheme Recurring Expenses” in the SID.
 20. Tax Treatment for the Investors (Unit Holders)
 Investors are advised to refer to the details in the Statement of Additional Information and also
@@ -981,10 +981,10 @@ HDFC ELSS Tax Saver - KIM
 23. Unit Holder’s Information
 Email ID for communication:
 First / Sole Holders should register their own email address and mobile number in their folio for
-speed and ease of communication in a convenient and cost -effective manner, and to help prevent
+speed and ease of communication in a convenient and cost-effective manner, and to help prevent
 fraudulent transactions.
 Account Statements:
-1. The AMC shall send an allotment confir mation specifying the units allotted by way of email
+1. The AMC shall send an allotment confirmation specifying the units allotted by way of email
 and/or SMS within 5 working days of receipt of valid application/transaction to the Unit holders
 registered e-mail address and/ or mobile number (whether units are held in demat mode or in
 account statement form).

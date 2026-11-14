@@ -2,9 +2,9 @@
   "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
   "normalized": true,
   "dimension": 384,
-  "count": 2045,
-  "created_at": "2026-11-13T02:02:15Z",
-  "chunks_sha256": "027548003dc40f554a9605ceeb2a8a413ebc3a4a161018abead7eb94e3ef1508",
+  "count": 2044,
+  "created_at": "2026-11-14T01:35:12Z",
+  "chunks_sha256": "329636d1912ea573c28387b1eff5f0513178aec396e9ecaeb3aeafbe02c6e28b",
   "chunk_ids": [
     "hdfc-amc::000",
     "hdfc-amc::001",
@@ -1432,7 +1432,6 @@
     "hdfc-mid-cap-kim::098",
     "hdfc-mid-cap-kim::099",
     "hdfc-mid-cap-kim::100",
-    "hdfc-mid-cap-kim::101",
     "hdfc-mid-cap-sid::000",
     "hdfc-mid-cap-sid::001",
     "hdfc-mid-cap-sid::002",
@@ -1740,6 +1739,7 @@
     "hdfc-mid-cap-sid::304",
     "hdfc-mid-cap-sid::305",
     "hdfc-mid-cap-sid::306",
+    "hdfc-mid-cap-sid::307",
     "hdfc-factsheet-jun-2026::000",
     "hdfc-factsheet-jun-2026::001",
     "hdfc-factsheet-jun-2026::002",
@@ -2049,7 +2049,6 @@
     "sebi-financial-education-booklet::207",
     "sebi-financial-education-booklet::208",
     "sebi-financial-education-booklet::209",
-    "sebi-financial-education-booklet::210",
-    "sebi-financial-education-booklet::211"
+    "sebi-financial-education-booklet::210"
   ]
 }

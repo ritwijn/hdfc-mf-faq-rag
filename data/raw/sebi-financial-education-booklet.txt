@@ -24,23 +24,23 @@ November 2020
 ## Page 3
 
 Table of Contents
-CHAPTER 1 – INTRODUCTION ................................ ................................ ................................ ....................... 4
-CHAPTER 2 - KEY CONCEPTS IN PERSONAL FINANCE ................................ ................................ ........... 5
-CHAPTER 3 - FINANCIAL PLANNING ................................ ................................ ................................ ........... 10
-CHAPTER 4 - SAVINGS RELATED PRODUCTS ................................ ................................ .......................... 17
-CHAPTER 5 - INVESTMENT IN SECURITIES MARKET ................................ ................................ .............. 23
-CHAPTER 6 - INSURANCE RELATED PRODUCTS ................................ ................................ ..................... 38
-CHAPTER 7 - PENSION, RETIREMENT AND ESTATE PLANNING ................................ ........................... 40
-CHAPTER 8 – BORROWING-RELATED PRODUCTS ................................ ................................ .................. 45
+CHAPTER 1 – INTRODUCTION ....................................................................................................................... 4
+CHAPTER 2 - KEY CONCEPTS IN PERSONAL FINANCE ........................................................................... 5
+CHAPTER 3 - FINANCIAL PLANNING ........................................................................................................... 10
+CHAPTER 4 - SAVINGS RELATED PRODUCTS .......................................................................................... 17
+CHAPTER 5 - INVESTMENT IN SECURITIES MARKET .............................................................................. 23
+CHAPTER 6 - INSURANCE RELATED PRODUCTS ..................................................................................... 38
+CHAPTER 7 - PENSION, RETIREMENT AND ESTATE PLANNING ........................................................... 40
+CHAPTER 8 – BORROWING-RELATED PRODUCTS .................................................................................. 45
 CHAPTER 9 - GOVERNMENT SCHEMES FOR VARIOUS SAVINGS & INVESTMENT OPTIONS ........... 48
-CHAPTER 10 – TAX SAVING OPTIONS ................................ ................................ ................................ ........ 53
+CHAPTER 10 – TAX SAVING OPTIONS ........................................................................................................ 53
 CHAPTER 11 - CAUTION AGAINST PONZI SCHEMES AND UNREGISTERED INVESTMENT
-ADVISERS ................................ ................................ ................................ ................................ ........................ 55
-CHAPTER 12 - GRIEVANCE REDRESSAL MECHANISM ................................ ................................ ........... 60
-CHAPTER 13 - GRIEVANCE REDRESSAL AGENCIES ................................ ................................ ............... 65
-CHAPTER 14 - ABOUT SEBI ................................ ................................ ................................ .......................... 66
+ADVISERS ........................................................................................................................................................ 55
+CHAPTER 12 - GRIEVANCE REDRESSAL MECHANISM ........................................................................... 60
+CHAPTER 13 - GRIEVANCE REDRESSAL AGENCIES ............................................................................... 65
+CHAPTER 14 - ABOUT SEBI .......................................................................................................................... 66
 CHAPTER 15 - CONTACT DETAILS OF SEBI OFFICES, EXCHANGES AND DEPOSITORIES IN INDIA
-................................ ................................ ................................ ................................ ................................ ........... 67
+........................................................................................................................................................................... 67
 
 ## Page 4
 
@@ -53,18 +53,18 @@ People face various issues like complexity of financial products, prevalence of 
 and Ponzi schemes, need for funds to get a better quality of life after retirement, etc. These
 issues have generated need for a better management of personal finances with proper
 management of income and expenditure.
-Financial education helps people in being financially literate and develop a p ositive
+Financial education helps people in being financially literate and develop a positive
 attitude towards managing their income, expenditure, assets and liabilities properly, which
 would lead them to a situation of better financial well-being.
 Financial planning is must for every household. Financial planning goes beyond savings.
 It is an investment with a purpose. It is a plan to save and spend future income and should
 be carefully budgeted.
 This literature provides a fair understanding of the personal finance world, explaining the
-concept of financial planning, key concepts in finan cial literacy, various investment
+concept of financial planning, key concepts in financial literacy, various investment
 options, savings and investment products, insurance and pension products, retirement
 planning, caution against Ponzi schemes, tax saving options, investor protection
 measures, do’s and don’ts of investing, etc.
-This boo klet is meant for the general
+This booklet is meant for the general
 investors and at the end of completion
 of this module, it is expected that the
 target participants will get better
@@ -82,7 +82,7 @@ managing their personal finances are mentioned as below:
 What are Savings?
 Savings are the surplus of income over expenditure.
 a. Income- Money earned from various sources like Salary, Wages, etc.
-b. Expenditure- Money spent on various items which include essential and non -
+b. Expenditure- Money spent on various items which include essential and non-
 essential items.
 People usually meet their short term goals with savings. Money in savings account of a
 bank earns a small amount of interest and it is easy to withdraw it whenever needed.
@@ -93,8 +93,8 @@ into financial or non-financial products with the expectation of
 earning higher returns over a period of time. The various
 products in which investments may be done are financial
 products viz. fixed deposit in bank, buying shares in stock
-market, investing in Mutual fu nds, etc. and non -financial
-products viz. purchase of land, gold, silver , etc. The
+market, investing in Mutual funds, etc. and non-financial
+products viz. purchase of land, gold, silver, etc. The
 investments may be done for short term, medium term or long-
 term. While investing one should always remember that return on investments may rise
 or fall over time and it is quite normal for that to happen.
@@ -114,7 +114,7 @@ liquidity to meet short term or
 urgent requirements.
 Investments are made to make the
 money grow by creating assets that
-can generate income i n the
+can generate income in the
 future/increase value of assets.
 Risk Low or negligible Depends upon the asset in which
 investment is done.
@@ -146,7 +146,7 @@ of money, then today you could afford to get only a portion
 of the lunch in that amount of money. This means that the
 value of a five-hundred-rupee note would be higher today
 than after five years. Although the note is the same, you
-can do much more with the money if you ha ve it now
+can do much more with the money if you have it now
 because over a period, you can make the money grow by earning interest on the money.
 By receiving ₹500/- today, you can increase the future amount of your money by investing
 the money and gaining interest or capital appreciation over a period of time.
@@ -154,7 +154,7 @@ At the most basic level, the time value of money shows that time literally is mo
 value of the money you have now is not the same as it will be in the future and vice versa.
 What is Inflation and its effect on Investments?
 Inflation refers to rise in prices of goods and services. Over a period of time, as the cost
-of goods and services incre ases, the ability of a unit of money, say one rupee, to buy
+of goods and services increases, the ability of a unit of money, say one rupee, to buy
 goods and services keeps declining. In other words, the Purchasing Power of money, i.e.
 ability of money to buy anything, decreases. It is important to take into account the effects
 of inflation on your investments during financial planning. Investors greatly fear inflation
@@ -213,7 +213,7 @@ take to grow to ₹400/-/?
 72 / 6% interest = 12 years
 So in 12 years, your money will have doubled to ₹400/-.
 Rupee Cost Averaging
-Rupee cost av eraging is the process in which you invest a fixed amount of money at
+Rupee cost averaging is the process in which you invest a fixed amount of money at
 regular intervals irrespective of market fluctuations. For example, you buy more units when
 unit prices are low and less units when unit prices are high. By investing according to a
 schedule, you avoid the complex or even impossible duty of trying to figure out the exact
@@ -259,7 +259,7 @@ marriage, meeting emergency situations like an illness, to meet the impact of an
 death, or natural calamities like flood, etc.
 B. Financial Planning Process
 Determine Your Current Financial Situation
-If you want to plan for the future, you need to understand your current financial p osition.
+If you want to plan for the future, you need to understand your current financial position.
 You need to understand what your incomes, expenses, assets and liabilities/debts are?
 Your net worth is simply assets you own minus liabilities you owe.
 The net worth is calculated as under: -
@@ -302,13 +302,13 @@ left after spending; spend what is left after saving.”
 Therefore, the basic concept that everyone should focus upon while utilising his income
 is as follows:
 Income – Savings = Expenditure
-Wealth is not built ove rnight. One needs to set specific financial goals. A good financial
-goal should be SMART i.e. Specific, Measurable, Achievable, Realistic and Time -
+Wealth is not built overnight. One needs to set specific financial goals. A good financial
+goal should be SMART i.e. Specific, Measurable, Achievable, Realistic and Time-
 bound.
 Description Incorrect Approach Right Approach
 Specific You need to know
 exactly what you
-want to ac hieve
+want to achieve
 and when you want
 it.
 I need to set aside
@@ -381,7 +381,7 @@ goal. To adopt this strategy while investing, one must plan as per one's age, ri
 Five-Step Approach to Achieve Financial Goals
 STEP 1: Identify specific financial goals
 It is important to prepare a proper plan to fix each investment with a specific goal. It is very
-important to identify one ’s financial goals and aspirations and estimate the amount of
+important to identify one’s financial goals and aspirations and estimate the amount of
 money it would be needed to fulfil them.
 STEP 2: Classify goals into Short-term, Medium term or Long term
 • Short-term goals are typically financial requirements that are expected to arise in
@@ -404,17 +404,17 @@ Asset Allocation refers to an investment strategy that aims to balance risk and 
 the form of returns - by dividing the assets of an individual’s portfolio according to his/her
 financial goals, risk tolerance and investment horizon.
 Asset Allocation
-Allocate assets depending on your age, lifestyle, family commitments an d your financial
+Allocate assets depending on your age, lifestyle, family commitments and your financial
 goals. While allocating your funds, distribute your investments across various asset
 classes such as equity, bonds, real estate, etc., to benefit from diversification, which helps
-reduce risk and increases the possibility of earning modera te to high returns on your
+reduce risk and increases the possibility of earning moderate to high returns on your
 investments.
-For example: An individual’s portfolio when he/she invest s in
+For example: An individual’s portfolio when he/she invests in
 various asset classes (depending upon his financial goals, risk
 appetite, investment horizon, etc.) may look like any of the
 following:
 STEP 4: Choose the right investments with diversification (within asset classes)
-Arriving at the right risk -return combination and choosing the right asset allocation can
+Arriving at the right risk-return combination and choosing the right asset allocation can
 seem difficult. For a longer term goal, it is advisable to focus on maximizing returns with
 diversified asset allocation.
 Diversification
@@ -455,12 +455,12 @@ TIP:
 basket (asset class).
  Diversification is doing investment in various
 financial instruments or asset classes.
- Goal is to find an appropriate b alance between
+ Goal is to find an appropriate balance between
 risk and return.
 STEP 5: Review and revise financial plans
 To stay on track, regularly review the progress towards your goals and investments.
 Review your investments like stocks and mutual funds in your portfolio. Certain products
-may seem tailor -made for specific needs, but they may not be actually useful for one's
+may seem tailor-made for specific needs, but they may not be actually useful for one's
 portfolio. Be aware of such investment options.
 C. Choosing Investment Options & Understanding Risk
 The investment products available for an investor are fixed income securities, equity
@@ -480,7 +480,7 @@ safe? Safety means your money invested is
 protected and there is every possibility that on
 the agreed date, or maybe even before, it
 would be returned whenever needed.
-ii. Liquidity: This pillar of investment is the degree of ease with which you can en -
+ii. Liquidity: This pillar of investment is the degree of ease with which you can en-
 cash or liquidate your investment at fair value. In the above example, it will be
 about how soon will you get your money back if you need it immediately?
 iii. Return: What is the return you will get on your investments? It could be in the form
@@ -501,18 +501,18 @@ D. Returns from Investment
 Returns from Investment can be described as money made by an investor on his/ her
 investment. The returns can be in two ways as explained below:
 Regular Income
-• Equity Investment: You get dividend when you b uy and hold equity shares of a
+• Equity Investment: You get dividend when you buy and hold equity shares of a
 company and units of equity mutual fund.
 • Fixed Income Investment: In debt securities, you receive fixed interest on interest
 bearing Investments
 Capital Appreciation
-• When the value of initial investment increases over a per iod of time and the investor
+• When the value of initial investment increases over a period of time and the investor
 benefits by selling part or whole of the investment at the increased value, it is called
 Capital Appreciation.
 Example of Capital Appreciation: An investor bought 100 shares of company XYZ Ltd.
 at ₹50/- per share by paying ₹5,000/- in total. When the value of XYZ share increases to
 ₹65/- per share, and the investor sells 100 shares in the market, he or she will get 6,500
-(100 Shares at ₹65/- per share). The investor stands to gain ₹1500/- from the i nitial
+(100 Shares at ₹65/- per share). The investor stands to gain ₹1500/- from the initial
 investment that he has made. This is called capital appreciation/capital gain.
 E. What are Risks and Returns?
 Risk can be defined as the probability or likelihood of a loss occurring in relation to your
@@ -539,7 +539,7 @@ Financial Education Booklet
 17 | P a g e
 Chapter 4 - Savings Related Products
 In this chapter, we will discuss about the various savings related products available to the
-public. These include deposit schemes offered by banks, government d eposit schemes,
+public. These include deposit schemes offered by banks, government deposit schemes,
 public deposits issued by companies, etc.
 A. Why to keep money in banks?
 Drawbacks of keeping cash at home are mentioned as below:
@@ -549,12 +549,12 @@ Drawbacks of keeping cash at home are mentioned as below:
 Therefore, it is beneficial to keep money in banks rather than at home in cash.
 B. Banking
 Commercial banks are regulated financial institutions as
-they deal with pub lic money and trust. Commercial
+they deal with public money and trust. Commercial
 banks in India are regulated by Reserve Bank of India.
 Banks are required to go through mandatory inspection
 and audits at various intervals and are also audited by
 the Reserve Bank of India every year.
-Bank deposits are c omparatively lower risk investments. Banks offer various types of
+Bank deposits are comparatively lower risk investments. Banks offer various types of
 deposits, depending on the needs of the customers. Bank deposits are preferred more for
 their liquidity and safety than for the returns. It is also possible to get loans from banks
 against fixed deposits up to 75 to 90 % of the deposit amount.
@@ -571,7 +571,7 @@ KYC is to enable banks to know and understand their
 customers better and help them manage their risks
 prudently. The KYC documents generally accepted by
 banks are: Photograph, Document for proof of identity
-(copy of PAN Card, Aadhaar Card, etc. ) and Document for proof of address (copy of
+(copy of PAN Card, Aadhaar Card, etc.) and Document for proof of address (copy of
 electricity bill, driving license, passport, Aadhaar card, etc).
 
 ## Page 18
@@ -622,7 +622,7 @@ Financial Education Booklet
 19 | P a g e
 E. Digital Banking
 In the modern era, transactions including payments, fund transfers and
-buying goods, all take plac e on digital platforms , such as mobile
+buying goods, all take place on digital platforms, such as mobile
 phones. Customers can perform transactions from any place.
 The various digital modes of transferring funds are as follows:
 Mode of Transfer and Key Features
@@ -635,7 +635,7 @@ System Code, a unique code assigned to each bank branch)
 - Transfer of funds can be initiated any time during the day and it takes few hours to get
 credited in the beneficiary account.
 RTGS (Real Time Gross Settlement)
-- Transfer of funds from one Bank account to a different acc ount of another bank on a
+- Transfer of funds from one Bank account to a different account of another bank on a
 real time basis.
 - Used to make high value transactions.
 - Transfer is done using beneficiary's account number and IFSC Code (Indian Financial
@@ -675,7 +675,7 @@ deposit.
 channels.
 Small Finance
 Bank
-- Provides features li ke taking small deposits and
+- Provides features like taking small deposits and
 disbursing small amount loans.
 - Instrument to save funds primarily to unserved and
 underserved sections of population.
@@ -687,7 +687,7 @@ Correspondent
 - Representative of a bank who goes to customers
 (usually in remote locations/ villages) to help them with
 their banking needs/ transactions.
-- Can provide services like opening of bank accounts ,
+- Can provide services like opening of bank accounts,
 deposits, transfer of funds, collection of loan deposits,
 disbursal of small value credit, collection of payment/
 fees, etc.
@@ -705,12 +705,12 @@ somewhere else that is safe and not
 accessible to anyone.
  Always visit your bank's secure Internet
 Banking website directly. Avoid using
-Internet Banking on unsecured WI -FI
+Internet Banking on unsecured WI-FI
 networks such as railway stations,
 airports, cybercafés, etc.
  Never leave your handset unattended
 and logged into a mobile banking app
-or int ernet banking account or while
+or internet banking account or while
 carrying out any financial transaction.
  Log out of your Internet Banking/ Mobile
 Banking application immediately after
@@ -774,11 +774,11 @@ Things to keep in mind while transacting through ATM card:
  Don't write down your PIN number anywhere. Memorize it. Don't disclose your PIN
 number to any third person.
  Preferably use an ATM within bank premises or premises which are manned 24*7 by
-a security guard. Use it pers onally. Bank has no liability in case the ATM card has
+a security guard. Use it personally. Bank has no liability in case the ATM card has
 been handed over for transaction to any other person except the account holder.
  While using the online transaction, use the virtual keyboard.
- Register yourself with bank for getting SMS alerts on trans actions. However, banks
-may charge customers for providing SMS or e -mail alerts related to their bank
+ Register yourself with bank for getting SMS alerts on transactions. However, banks
+may charge customers for providing SMS or e-mail alerts related to their bank
 accounts.
 
 ## Page 22
@@ -791,7 +791,7 @@ Financial Education Booklet
 H. Customer Liability for unauthorized banking transactions
 RBI has specified that a customer has no liability when an unauthorized transaction
 happens on account of fraud, contributory negligence or deficiency on part of the bank.
-Similarly, even when ne ither the customer nor the bank is at fault, but the problem lies
+Similarly, even when neither the customer nor the bank is at fault, but the problem lies
 elsewhere in the system, the customer does not have any liability, provided he/she notifies
 the bank about the unauthorized or illegal operation within three days of receiving an alert
 from the bank. And the bank shall credit the amount involved in such transaction to the
@@ -809,7 +809,7 @@ create financial stability in India, and it is charged with regulating the count
 and credit systems. The main purpose of RBI is to conduct consolidated supervision of
 the financial sector in India, which is made up of commercial banks, financial institutions
 and nonbanking finance companies. It formulates, implements and monitors India's
-monetary policy. The central bank's management objective is to maintain price s tability
+monetary policy. The central bank's management objective is to maintain price stability
 and ensure that credit is flowing to productive economic sectors. RBI acts as a regulator
 and supervisor of the overall banking system and it is also the banker to the Government
 of India. RBI is also the lender of last resort for all commercial banks.
@@ -817,7 +817,7 @@ J. Grievance Redressal
 For redressal of any grievance regarding banking industry products/ schemes, please
 refer to Chapter 12 of this booklet.
 K. Government Schemes in Banking Industry
-For information on various government schemes in banking industry, p lease refer to
+For information on various government schemes in banking industry, please refer to
 Chapter 9 of this booklet.
 
 ## Page 23
@@ -828,17 +828,17 @@ Chapter 5 - Investment in Securities Market
 Before investing in securities, it is better to
 understand the market and be fully aware of the
 risks involved. Be aware of your capacity to handle
-risk and inves t accordingly. Generally, you can
+risk and invest accordingly. Generally, you can
 evaluate a potential investment by analysing seven
 key risks as mentioned below:
 Types of Risks
 i. Market risk or Systematic Risk
 An investor may experience losses due to factors affecting the overall performance
-of financ ial markets and macroeconomic factors. Stock market bubbles and
+of financial markets and macroeconomic factors. Stock market bubbles and
 crashes are good examples of heightened market risk.
 ii. Unsystematic Risk
 Unsystematic risk can be described as the uncertainty inherent in a particular
-company or industry. Examples of unsystem atic risk include a new competitor in
+company or industry. Examples of unsystematic risk include a new competitor in
 the marketplace with the potential to take significant market share from the
 company an investor is invested in, a regulatory change, such as one that could
 drive down company sales, a shift in management, a product recall, etc.
@@ -872,7 +872,7 @@ v. Business Risk
 It refers to the risk that a business might stop its operations due to any unfavourable
 market or financial situation.
 vi. Volatility Risk
-It refers to the risk when the stock prices of a company may fluctuate, e ven when
+It refers to the risk when the stock prices of a company may fluctuate, even when
 those companies aren't in danger of failing.
 vii. Currency Risk
 Currency risk arises when there is a possibility of losing money due to unfavourable
@@ -892,7 +892,7 @@ Investments in securities market are done through primary market as well as seco
 market. The difference between primary market and secondary market is that in the
 primary market, investors are allotted securities directly by the company, while in the
 secondary market investors buy securities from the existing investors through their stock
-brokers. Investments in securities market are subject to taxation , which includes short
+brokers. Investments in securities market are subject to taxation, which includes short
 term and long term tax on capital gains as well as dividend pay-outs.
 What are the pre-requisites to invest in securities?
 In order to invest in equity shares, an investor should have three accounts:
@@ -914,7 +914,7 @@ SEBI’s official website (www.sebi.gov.in) or from the websites of the respecti
 exchanges & depositories.
 Primary Market
 When a company publicly issues new stocks and bonds for the first time, it does so in the
-primary market. In many cases, this take s the fo rm of an initial public offer (IPO). SEBI
+primary market. In many cases, this takes the form of an initial public offer (IPO). SEBI
 examines the prospectus issued to the public for subscription of shares to see that it meets
 with the requirements of the SEBI Regulations. Companies issuing securities via the
 primary market hire merchant bankers who, on behalf of the company, prepare the
@@ -923,20 +923,20 @@ allotment process, listing of shares in the stock exchanges, etc.
 Application Supported by Blocked Amount (ASBA) for Shares
 An investor can now apply for shares in the primary market through ASBA. In public issues
 w.e.f. May 01, 2010 all the investors can apply through ASBA. ASBA is an application by
-an investor containing an authorization to the bank to block the applica tion money in his/
+an investor containing an authorization to the bank to block the application money in his/
 her bank account, for subscribing to an issue. Blocked amount continues to earn interest.
 If an investor is applying through ASBA, his application money shall be debited from the
-bank account only if his/her application is selected for a llotment, after the basis of
+bank account only if his/her application is selected for allotment, after the basis of
 allotment is finalized. The investor need not have to bother about refunds as money to the
 extent required for allotment of securities, is deducted from the bank account and in case
-the securities are not allotted to the invest or, then the blocked amount in his/ her bank
+the securities are not allotted to the investor, then the blocked amount in his/ her bank
 account is released and made available to use.
 Unified Payment Interface (UPI) in ASBA
 A new feature of utilizing Unified Payment Interface (UPI) while making payment in ASBA,
 has also been introduced recently. This feature may be used for the purpose of blocking
 of funds and making payments in the public issue process. This requires the investors to
 create a UPI ID and PIN using any of the UPI enabled mobile application. Usage of UPI
-in public issue process bri ngs in comfort, ease of use and reduces the listing time for
+in public issue process brings in comfort, ease of use and reduces the listing time for
 public issues.
 
 ## Page 26
@@ -955,7 +955,7 @@ should be done after carrying out research on the background of the company, fut
 prospects and financial strength of the company.
 Know Your Client (KYC)
 For the purpose of opening of Demat and trading
-account with a D epository Participant (DP)/Stock
+account with a Depository Participant (DP)/Stock
 broker, the investor has to complete Know Your
 Client (KYC) process with the respective DP/Stock
 Broker. KYC is mandatory under the Prevention of
@@ -963,7 +963,7 @@ Money Laundering Act, 2002 and Rules framed
 there under. Investor has to submit Officially Valid
 Documents (OVDs) as proof of identity and proof
 of address such as PAN card / Unique Identification (UID) (Aadhaar)/ Passport/ Voter ID
-card/ Driving license, etc. KYC process may be done online through Aadhaar based E -
+card/ Driving license, etc. KYC process may be done online through Aadhaar based E-
 KYC mechanism or offline by visiting or sending the documents to the registered address
 of the intermediary.
 
@@ -989,10 +989,10 @@ Trading days and Trading & Settlement Cycle
 Trading on the stock exchange takes place on all days of the week (except Saturdays and
 Sundays and holidays declared by the Stock Exchange in advance).
 In case of purchase of shares, investors are required to make payment to the bank
-account of you r stock broker prior to the pay -in day for the relevant settlement. Once
+account of your stock broker prior to the pay-in day for the relevant settlement. Once
 payment is made by the investor, the broker would credit the shares in the Demat account
 of investor after pay-out day.
-Similarly, in case of sale of shares, investors are required t o deliver the shares to Demat
+Similarly, in case of sale of shares, investors are required to deliver the shares to Demat
 account of broker prior to the pay-in day for the relevant settlement. Once the shares are
 delivered by the investor, the broker would credit the funds in the bank account of investor
 after pay-out day.
@@ -1002,10 +1002,10 @@ of shares) or delivery of securities (in case of sale of shares) to the stock ex
 out day is the day when the stock exchange makes payment of funds (in case of sale of
 shares) or delivery of securities (in case of purchase of shares) to the broker. Settlement
 cycle is on T+2 rolling settlement basis w.e.f. April 01, 2003 (where T stands for the trade
-day). For example, trades executed on a Mo nday are typically settled on the following
+day). For example, trades executed on a Monday are typically settled on the following
 Wednesday (considering 2 working days from the trade day). The funds and securities
 pay-in and pay-out are carried out on T+2 day.
-The exchanges have to ensure that the pay -out of funds and securities to the cli ents is
+The exchanges have to ensure that the pay-out of funds and securities to the clients is
 done by the broker within 24 hours of the pay-out.
 Margin and Pledging / Re-pledging of securities
 When an investor buys a stock, he has two options, i.e.
@@ -1016,7 +1016,7 @@ called margin. The payment of the remaining amount can be made by the designated
 pay-out time.
 Similarly, when an investor desires to sell his stocks he has the option to either pay in the
 shares to be sold or can give a margin upfront. Margin can be provided in the form of cash
-or instruments like fixed deposits, bank guarantee, securities, units of mutual fu nds,
+or instruments like fixed deposits, bank guarantee, securities, units of mutual funds,
 government securities and treasury bills in demat form.
 Margin is provided in the form of securities, in favour of the broker only in the form of
 pledge. A pledge is a deposit of some personal property as collateral for a debt. Stock
@@ -1039,9 +1039,9 @@ investor. Such electronic contract notes shall be digitally signed and encrypted
 would make them difficult to be tampered.
 Basic Services Demat Account (BSDA)
 SEBI with a view to achieve wider financial inclusion,
-encourage holding of demat accounts . In order to
+encourage holding of demat accounts. In order to
 reduce the cost of maintaining securities in demat
-accounts for retail individual investors , SEBI has
+accounts for retail individual investors, SEBI has
 made available a Basic Services Demat Account"
 (BSDA) to investors.
 Benefits of BSDA
@@ -1070,7 +1070,7 @@ of Demat accounts of the beneficiary owners (Account Holders), depending upon th
 of holdings in the Demat account.
 Mutual Fund
 A mutual fund pools in money from many investors and invests the money in stocks,
-bonds, short -term money -market instruments, other securities or assets, or some
+bonds, short-term money-market instruments, other securities or assets, or some
 
 ## Page 30
 
@@ -1097,7 +1097,7 @@ it.
 Mutual funds are segregated in different categories
 based on the objectives of the mutual fund scheme.
 The schemes are designed to keep in mind the needs
-of various types of investors, risk averse in vestors
+of various types of investors, risk averse investors
 (basically a conservative Investor who does not want
 to take high risk), moderate investors (investors who
 can take some amount of risk) and aggressive
@@ -1117,7 +1117,7 @@ o-meter are mentioned as below:
 Risk-o-meter
 What is Systematic Investment Plan (SIP)?
 An SIP or a Systematic Investment Plan allows an investor to invest a fixed amount of
-money regularly in a mut ual fund scheme. It lets you set aside a fixed sum of money at
+money regularly in a mutual fund scheme. It lets you set aside a fixed sum of money at
 regular intervals (weekly, monthly or quarterly) with an objective to gain capital
 appreciation in the longer run. SIP investment inculcates the habit of savings. Instead of
 trying to time the market, by investing on a regular basis, the investor benefits from the
@@ -1175,8 +1175,8 @@ An investor can invest a pre-determined fixed amount as low as ₹500/- in a sch
 month or quarter, depending on his/her convenience through post-dated cheques, through
 Standing instruction (SI) facility or through ECS (Electronic Clearing Service) facility.
 Investors need to fill up an application form and SIP mandate form on which they need to
-indicate their choice for the SIP date (basically when the pre -determined amount will be
-invested). Subsequent SIP s may be auto -debited through a standing instruction ,
+indicate their choice for the SIP date (basically when the pre-determined amount will be
+invested). Subsequent SIPs may be auto-debited through a standing instruction,
 electronic clearing service or post-dated cheques.
 Advantages of SIP
 In order to further ease out the investment procedure for the investors, Mutual Funds also
@@ -1184,7 +1184,7 @@ offer the following options:
 Commodity Derivatives Market
 What are commodities?
 Commodities are goods with economic value. They are earth's natural products which are
-produced and traded. They are usually raw material s for further processing. The br oad
+produced and traded. They are usually raw materials for further processing. The broad
 types of commodities are as under:
  Agricultural commodities: Food & non-food crops.
  Non-Agricultural commodities: Metals, Energy, Polymers, etc.
@@ -1239,7 +1239,7 @@ Various stakeholders face many risks in commodity trading, especially farmers, s
  Opaque/manipulated prices at Mandis
 How to protect against price risk in commodities?
 A producer of a commodity is at risk of prices moving lower. Conversely, a consumer of a
-commodity is a t risk of prices moving higher. The producers and consumers of
+commodity is at risk of prices moving higher. The producers and consumers of
 commodities can participate in the commodity derivatives exchange to protect against
 adverse price movements. The process of protecting against financial loss or price risk is
 called "Hedging''. A hedge will guarantee a consumer the supply of a required commodity
@@ -1267,10 +1267,10 @@ Others
 
 Financial Education Booklet
 34 | P a g e
- Price discovery : Helps producers / sellers and consumers / buyers and also
+ Price discovery: Helps producers / sellers and consumers / buyers and also
 exporters & importers of a commodity to discover price for a future date and helps
 them take informed decision.
- Price risk management : Helps hedge price ris k or insure against adverse price
+ Price risk management: Helps hedge price risk or insure against adverse price
 movement and locks-in profit margin.
 Commodity Derivative Exchanges
 A commodity derivative exchange is an organized, regulated market that facilitates the
@@ -1285,14 +1285,14 @@ of crop /food processors) by helping them decide a price today (i.e. at the time
 or at the time of harvesting of the crop) for the crop to be delivered in the future. The
 transaction in the exchange is done through commodity brokers. The settlement of
 contract to buy and sell is guaranteed by the commodity derivatives exchange.
-The trading rules and procedures of recognized Commodity Derivatives Exchange s and
+The trading rules and procedures of recognized Commodity Derivatives Exchanges and
 Commodity Brokers are regulated by Securities and Exchange Board of India (SEBI) — a
 statutory body established under SEBI Act, 1992. In India, major commodity derivative
 exchanges are as follows:
  Multi Commodity Exchange of India Ltd (MCX) — predominantly non-agricultural
 products like gold, silver, aluminium, copper, nickel, lead, zinc and energy products like
 crude oil and natural gas are traded on this exchange.
- National Com modity and Derivative Exchange (NCDEX) — predominantly
+ National Commodity and Derivative Exchange (NCDEX) — predominantly
 agricultural products like pulses, cereals, sugar, etc. are traded on this exchange.
 There are three types of contracts in commodity derivatives market. These are Forward
 Contracts, Futures Contract and Options. Forward contract is an agreement between
@@ -1301,7 +1301,7 @@ hedges the risk for the buyer against price fluctuations and the seller can get 
 price for his product at a specified date.
 Forward contracts are traded over the counter, while futures contracts are traded on the
 commodity derivatives exchanges. Forward contracts can be privately negotiated. Futures
-contract have a standardized way o f execution and the transaction is guaranteed by the
+contract have a standardized way of execution and the transaction is guaranteed by the
 clearing house of a recognized commodity derivative exchange which minimizes the risk
 of defaults on the settlement of transaction.
 
@@ -1309,7 +1309,7 @@ of defaults on the settlement of transaction.
 
 Financial Education Booklet
 35 | P a g e
-For example, if A has the machinery that produces 10 bales of cotton, h e can secure an
+For example, if A has the machinery that produces 10 bales of cotton, he can secure an
 agreement with B to sell the bales at a certain price after a year irrespective of the price
 that is trending. This is called hedging the risk. "A" hedges the risk by securing the price
 and "B" transacts by pre-booking the price expecting that prices would go up in the near
@@ -1324,17 +1324,17 @@ predetermined price. Options contracts are of two types as explained below:
 Investors are charged a premium when they buy an options contract. On expiry of the
 contract, generally the transaction is cash settled instead of actually buying/selling the
 underlying security unlike in the cash market. Hence, many investors find Futures &
-Options (F&O) cheaper to trade, h owever, it is riskier than the cash segment because
+Options (F&O) cheaper to trade, however, it is riskier than the cash segment because
 F&O is time dependent and you cannot hold on to the contract till the desired time i.e.
 when the market is favourable to earn positive returns. On the expiry of the contract, even
-if you cash settle the c ontract instead of taking delivery, the change in value of the
+if you cash settle the contract instead of taking delivery, the change in value of the
 underlying will be either credited or debited to your account.
 How does a farmer do trading in Commodity Derivatives Market?
- To deal with the legal/ logistics/ quality requirements of Derivati ves Markets farmers
+ To deal with the legal/ logistics/ quality requirements of Derivatives Markets farmers
 would have to form a society/ trust/ Farmers Producing Organization (FPO), etc.
  Collectively they would have to deposit their produce in the warehouse of the
 Exchange.
- Quality of the produce for the purpose of standardization to be assa yed (checked /
+ Quality of the produce for the purpose of standardization to be assayed (checked /
 tested) by Exchange recognized assayers.
  Exchange would issue a warehouse receipt (Loans can be obtained from banks
 against these receipts). Exchanges assume responsibility for maintaining the quality
@@ -1352,7 +1352,7 @@ Financial Education Booklet
 36 | P a g e
 Do's and Don'ts for investing / trading in securities market
 Do's
- Always consult a SEBI registered Inve stment Advisor for your investment needs in
+ Always consult a SEBI registered Investment Advisor for your investment needs in
 securities market.
  Invest in a scheme/product depending upon your investment objective and risk
 appetite.
@@ -1368,7 +1368,7 @@ the same are possible to achieve.
  Always pay for your transactions using banking channel, i.e. no dealing in cash.
  Always keep your information updated. Inform your stock broker / DP whenever there
 is change in your address or bank details or email ID or mobile number. Since SIM
-cards now have the feature of getting ported to diff erent service providers, investors
+cards now have the feature of getting ported to different service providers, investors
 may keep same mobile numbers attached with their respective accounts. (Mobile
 number is the key to all important transactions.)
  Avail nomination facility for all your investments. Multiple nominations are allowed in
@@ -1418,10 +1418,10 @@ Financial Education Booklet
 38 | P a g e
 Chapter 6 - Insurance Related Products
 Insurance
-Insurance allows individuals , businesses and other entities to
+Insurance allows individuals, businesses and other entities to
 protect themselves against significant potential losses and financial
 hardship at a reasonably affordable cost. Insurance is a form of risk
-management, primarily used to manage the risk of an unce rtain
+management, primarily used to manage the risk of an uncertain
 future loss.
 Thus, insurance is a promise of compensation for specific potential
 future losses in exchange for a periodic payment called premium.
@@ -1445,7 +1445,7 @@ Life Insurance - Whole Life
 - Type of life insurance policy which stays active as long as you pay the premiums.
 Life Insurance – Unit Linked insurance
 - Combination of insurance and an investment vehicle.
-- A portion of the premium paid by the policyholder is utilized to provide insuranc e
+- A portion of the premium paid by the policyholder is utilized to provide insurance
 coverage to the policyholder and the remaining portion invested in equity and debt
 instruments.
 Personal Accidental cover policy
@@ -1477,7 +1477,7 @@ importantly, unexpected medical costs abroad.
 Property Insurance
 - Policy that provides financial reimbursement to the owner or renter of a structure and
 its contents in the event of damage or theft.
-- Property insurance can in clude homeowner’s insurance, renters insurance, flood
+- Property insurance can include homeowner’s insurance, renters insurance, flood
 insurance and earthquake insurance.
 Group Insurance
 - Insurance policy that covers a defined group of people, for example the members of a
@@ -1501,7 +1501,7 @@ Pension may be described as a regular payment which
 one aspires to receive regularly, once the person
 retires from his regular occupation/ job or attain a
 certain age from which he/ she does not want to work.
-Pension plans provide financial security and s tability
+Pension plans provide financial security and stability
 during old age when people don't have a regular
 source of income. Retirement planning ensures that
 people live with pride and without compromising on
@@ -1514,7 +1514,7 @@ Being a Pensioner
  Pension account can be transferred to another branch or different bank.
  Do remember to submit your ‘Life Certificate’ to your bank branch in November, every
 year
- “Jeevan Pramaa n'’ – Digital Life Certificate using Aadh aar and mobile at:
+ “Jeevan Pramaan'’ – Digital Life Certificate using Aadhaar and mobile at:
 www.jeevanpramaan.gov.in.
 Bank operations for Old/Sick/Incapacitated Persons
 1
@@ -1541,11 +1541,11 @@ amongst the citizens. With effect from 1st May, 2009, NPS has been provided for 
 citizens of the country including the unorganized sector workers on voluntary basis. The
 subscriber will be allotted a unique Permanent Retirement Account Number (PRAN). This
 unique account number will remain the same for the rest of the subscriber's life. This
-unique PRAN c an be used from any location in India. NPS is a government approved
+unique PRAN can be used from any location in India. NPS is a government approved
 pension scheme for Indian citizens in the 18-60 age groups.
-PRAN will provide access to two personal accounts - Tier I and Tier Il wi th features as
+PRAN will provide access to two personal accounts - Tier I and Tier Il with features as
 mentioned below:
-Particulars Tier I (Ma ndatory Retirement account) Tier Il (Voluntary Saving Account)
+Particulars Tier I (Mandatory Retirement account) Tier Il (Voluntary Saving Account)
 Eligibility All citizens of India Anyone with an active Tier I Account
 Bank Account Not mandatory Mandatory
 Liquidity
@@ -1560,16 +1560,16 @@ Tax Benefit Investments in this account are eligible for tax benefits Investment
 Investment Options under the NPS
 The subscribers to the NPS choose the investment options in which their contributions
 have to be invested. Following options are offered by the NPS:
-E (Equity) : High Return, High Risk option - Fund invests predominantly in equity -
+E (Equity): High Return, High Risk option- Fund invests predominantly in equity-
 oriented investments.
-C (Corporate Bonds ): Medium Return, Medium Risk option - Fund invests
+C (Corporate Bonds): Medium Return, Medium Risk option- Fund invests
 predominantly in fixed income bearing securities other than government securities.
-G (Government Securities) : Low Return, Low Risk option - Fund invests
+G (Government Securities): Low Return, Low Risk option- Fund invests
 predominantly in pure low risk government fixed income securities.
-A (Alternative Investments) : High risk and High return option - Fund invests in
-Alternative Investment Schemes in cluding instruments like CMBS (Commercial
-Mortgage-Backed Securities), MBS (Mortgage Backed Security), REIT s (Real Estate
-Investment Trust s), AlFs (Alternative Investment Funds), InvITs (Infrastructure
+A (Alternative Investments): High risk and High return option- Fund invests in
+Alternative Investment Schemes including instruments like CMBS (Commercial
+Mortgage-Backed Securities), MBS (Mortgage Backed Security), REITs (Real Estate
+Investment Trusts), AlFs (Alternative Investment Funds), InvITs (Infrastructure
 Investment Trusts), etc. This asset class is not available for investment of contribution
 made under Tier Il account.
 
@@ -1598,10 +1598,10 @@ a comfortable retirement life. Without adequate planning it probably won't happe
 Key Features of Retirement Planning
  Start early and retire with financial security: If you start saving for retirement at
 age 25, so that you wish to retire by 60, you can invest over 35 years.
- Plan wisely : Set aside some money for medical expenditure and emergency
+ Plan wisely: Set aside some money for medical expenditure and emergency
 needs after retirement. Allocate your savings towards important financial goals
 such as children's education and marriage.
- Track and review your plan: The financial plan ha s to be reviewed at regular
+ Track and review your plan: The financial plan has to be reviewed at regular
 intervals to make sure that the plan meets its objectives. Also, you need to
 
 ## Page 43
@@ -1610,17 +1610,17 @@ Financial Education Booklet
 43 | P a g e
 understand and get comfortable with the risks, costs and liquidity of your
 investments.
- Don't dip into your retirement savings: Don't touch this pool o f savings pre—
+ Don't dip into your retirement savings: Don't touch this pool of savings pre—
 retirement. If you spend money from your retirement kitty to fulfil your present
 needs, you will lose out big in the long run. The corpus for your retirement will be
 inadequate.
 Estate Planning
-Estate planning refers to planning during one' s lifetime,
+Estate planning refers to planning during one's lifetime,
 earmarking one's assets to beneficiaries, typically family
 members, loved ones and institutions, so that they can
 be used/ claimed after one's demise with ease, and
 without any significant cost. Making a "Will" is an
-essential part of estate pl anning. Following are the
+essential part of estate planning. Following are the
 constituents of estate planning:
 Will
 It is a written legal declaration of desires to distribute assets of the deceased after his or
@@ -1651,7 +1651,7 @@ of the account holder. A nominee is only a custodian of the asset owner's money 
 
 Financial Education Booklet
 44 | P a g e
-doesn't have any ownership rights. In th e absence of nomination, it could be expensive
+doesn't have any ownership rights. In the absence of nomination, it could be expensive
 and time consuming for the legal heirs of the deceased to get their money. Is nomination
 mandatory in case of a Demat account as well? It is not mandatory but advisable;
 nomination alleviates the problems faced by legal heirs in case of death of account holder.
@@ -1667,7 +1667,7 @@ deal with them yourself.
 If you aren't able to personally accomplish a task, you may grant someone else — the
 power to do it for you. This permission can include things like accessing your bank
 accounts, selling a vehicle, purchasing property or getting a home loan. In fact, your power
-of attorney can grant your agent the authority to conduct nearly any type of Trans action
+of attorney can grant your agent the authority to conduct nearly any type of Transaction
 you could conduct on your behalf.
 The person who grants power of attorney to an agent is called the principal, and the
 principal may use either a general power of attorney or special power of attorney to give
@@ -1681,7 +1681,7 @@ After the demise of an individual, his or her legal heirs have to approach vario
 (like banks, depositories, mutual fund companies and Insurance companies) with their
 claim on the deceased assets. They have to present the death certificate along with legal
 heir's certificate to these authorities to transfer the assets of the deceased in their name.
-If the decea sed has made a Will, the assets and the wealth of the deceased will be
+If the deceased has made a Will, the assets and the wealth of the deceased will be
 distributed as per his or her Will. In the absence of a Will, the transfer will be made only
 to legal heirs.
 Grievance Redressal
@@ -1695,11 +1695,11 @@ Financial Education Booklet
 Chapter 8 – Borrowing-Related Products
 Borrowing is an act of taking money and paying it back over a
 period. In meeting financial goals, in case the savings are
-inadequate, one resorts to borrowing. Borrowi ng provides the
+inadequate, one resorts to borrowing. Borrowing provides the
 flexibility of repaying in small instalments over a period of time.
 Equated Monthly Instalments (EMI) is a very popuar mode of
 repayment of loan.
-Collateral is a property or other asset that a borrower offers as a securit y to the lender in
+Collateral is a property or other asset that a borrower offers as a security to the lender in
 exchange of availing the loan. If the borrower stops making the promised loan repayments,
 the lender can seize the assets financed and the collateral to cover its losses. A lender's
 claim to a borrower's collateral is called a lien.
@@ -1711,15 +1711,15 @@ Personal Loan
 This loan can be utilized for any purpose, for example, paying debt, marriage expenses
 or vacation expenditure. No collateral security is required for this type of loan.
 Vehicle Loan
-This loan is issued for the purpose of purchasing new or second -hand vehicles for
+This loan is issued for the purpose of purchasing new or second-hand vehicles for
 personal and commercial uses.
 Education Loan
-Education loan is req uired for students and family to meet the financial goal of higher
+Education loan is required for students and family to meet the financial goal of higher
 education.
 Students should have an admission offer from an institution before they apply for
 education loan.
 List of Documents required for obtaining Loans:
- Proof of Identity: - Passport/ Aadhaar card/ Driving License / Voters ID /
+ Proof of Identity:- Passport/ Aadhaar card/ Driving License / Voters ID /
 PAN Card (any one)
  Proof of Residence: - Aadhaar Card/ Leave and License Agreement /
 Utility Bill (not more than 3 months old) / Passport (any one).
@@ -1736,11 +1736,11 @@ Gold Loan
 Gold loan is given only on providing gold as a security to a bank or any other lending
 institution.
 Housing Loan
-Housing Loans are taken by people for a variety of house -related purposes such as
+Housing Loans are taken by people for a variety of house-related purposes such as
 construction of a house, house renovation, extension of house, buying of property or
 land, etc.
 Agriculture Loan
-Agriculture Loan s are provided to farmers to fund agricultural operations or related
+Agriculture Loans are provided to farmers to fund agricultural operations or related
 activities like horticulture, sericulture, etc.
 Consumer Durable Loans
 Consumer Durable Loans are the loans which may be availed for purchasing of
@@ -1755,7 +1755,7 @@ Character: Lender will form a subjective opinion as to whether or not you are su
 trustworthy to repay the loan or generate a return on funds invested in your company.
 Capital: Capital is the money you personally have invested in the business and is an
 indication of how much you have at risk, should the business fail.
-Collateral: Bank s insist on taking a security in addition to that is created out of loan
+Collateral: Banks insist on taking a security in addition to that is created out of loan
 proceeds.
 Conditions: Banks analyse the intended purpose of availing the loan like will the money
 be used for working capital, additional equipment or inventory, among others.
@@ -1777,12 +1777,12 @@ credit report does not in any manner decide if the loan or credit card should be
 or not.
 Credit Information Bureau (India) Ltd (CIBIL) is India's first credit information company,
 also commonly referred as a credit bureau. CIBIL collects and maintains records of
-individuals' and non -individuals' (commercial entities) payments pertaining to loans and
+individuals' and non-individuals' (commercial entities) payments pertaining to loans and
 credit cards. These records are submitted to CIBIL by banks and other lenders on a
 monthly basis; using this information a Credit Information Report (CIR) and credit score is
 developed, enabling lenders to evaluate and approve loan applications. A credit bureau is
 licensed by the RBI and governed by the Credit Information Companies (Regulation) Act
-of 2005. The Reserve Bank of India requires all credit bureaus to give o ne free full credit
+of 2005. The Reserve Bank of India requires all credit bureaus to give one free full credit
 report, every year, to all consumers.
 Tips to Avoid ‘Debt Trap’
 Tip 01: Debt can be managed with the right mind set and discipline. Do not buy more
@@ -1810,9 +1810,9 @@ public and some of them are also tax saving
 instruments. National Savings Certificates, Kisan
 Vikas Patra, Post Office Savings Certificates,
 Sukanya Samrudhi Deposit, PPF, etc. are some
-of the examples of various sche mes run by
+of the examples of various schemes run by
 Government of India. These schemes have
-different durati ons for investments and carry
+different durations for investments and carry
 specific interest rates.
 The details of latest schemes are as follows:
 Schemes and Features
@@ -1823,18 +1823,18 @@ child's age is 10 or less.
 • Maximum number of accounts: Up to two girl children, or three in case of twin girls
 as second birth, or the first birth itself results in three girl children.
 • Tax deduction: As applicable under Section 80C of the Income Tax Act, 1961.
-• Premature Closure : Allowed in the event of death of the depositor or on
+• Premature Closure: Allowed in the event of death of the depositor or on
 compassionate grounds such as medical support in life threatening diseases and is
 authorized by an order of the Central Government of India.
 • Irregular payment/ Revival of account: By payment of penalty amount
 • Mode of Deposit: Cash/Cheque/Demand Draft/digital payment
 • Withdrawal: A certain portion of the balance lying in the account as at the end of
-previous financial year for the purpose of higher e ducation and marriage after
+previous financial year for the purpose of higher education and marriage after
 attaining the age of 18 years.
 Pradhan Mantri Jan Dhan Yojana (PMJDY)
 • Objective: Launched in August 2014 by Government of India to ensure financial
 inclusion of every individual who does not have a bank account in India.
-To pr ovide access to financial services, namely, banking, savings and deposit
+To provide access to financial services, namely, banking, savings and deposit
 accounts, remittance, credit, insurance and pension in an affordable manner to all.
 • Accounts can be opened with any bank branch or Business Correspondent (Bank
 Mitra).
@@ -1860,11 +1860,11 @@ auto—debit facility.
 2. Pradhan Mantri Jeevan Jyoti Bima Yojana
  Provides life insurance cover to bank account holders in the age group of 18 to 50
 years.
- A fixed annual premium is deducted from t he bank account of the insured through
+ A fixed annual premium is deducted from the bank account of the insured through
 auto—debit facility.
  Person would be eligible to join the scheme through one savings bank account only.
 3. Pradhan Mantri Jan Aarogya Yojana -Ayushman Bharat
- Provides healthcare facilities targeting poor, deprived r ural families and identified
+ Provides healthcare facilities targeting poor, deprived rural families and identified
 occupational category of urban workers' families.
  There is no restriction on family size, age or gender.
  All members of eligible families, as present in SECC (Socio-Economic Caste Census
@@ -1892,7 +1892,7 @@ Financial Education Booklet
 4. Pradhan Mantri Fasal Bima Yojana
  Crop insurance scheme aimed at shielding farmers from the crop failure through
 insurance.
- In the event of a crop loss, the farmer will be paid based on the dif ference between
+ In the event of a crop loss, the farmer will be paid based on the difference between
 the threshold yield and the actual yield. The threshold yield is calculated based on
 average yield for the last seven years and the extent of compensation is set
 according to the degree of risk for the notified crop.
@@ -1903,7 +1903,7 @@ hailstorms, cyclones, typhoons, tempests, hurricanes and tornadoes.
  Scheme covers post-harvest losses up to a period of 14 days.
 C. Other savings/ insurance schemes run by Government of India
 Kisan Vikas Patra
- Small saving certificate scheme from India Post designed to double the i nvestment
+ Small saving certificate scheme from India Post designed to double the investment
 after a predetermined time.
  Objective is to inculcate long term financial discipline in people.
  Minimum amount for opening is ₹1000/- and in multiples of ₹100/-, no maximum
@@ -1949,12 +1949,12 @@ no student leaves his or her education mid-way due to lack of funds.
  Common educational loan application form is available for students.
  There is a provision to apply to various banks for educational loans through a single
 form.
- The site is linked to the nat ional scholarship portal for information and to apply for
+ The site is linked to the national scholarship portal for information and to apply for
 government scholarship.
  The students can view the status of their loan application at any time and at any
 place with an easy access to the dashboard facility of the website.
 Prime Minister Awas Yojana
- Credit Linked Subsidy Scheme (CLSS) for Lower Income Group s/Economically
+ Credit Linked Subsidy Scheme (CLSS) for Lower Income Groups/Economically
 Weaker Sections (EWS/LIG) and Middle Income Groups.
  Individuals are eligible to avail subsidy through this scheme only when they are
 purchasing their first house or it is a new construction.
@@ -1965,7 +1965,7 @@ they will not be eligible to avail subsidy under this scheme.
  Property purchased needs to be in compliance with the guidelines as prescribed by
 the scheme from time to time.
 Pradhan Mantri Mudra Yojana (PMMY)
- Government of India scheme that o ffers business loans to proprietors or
+ Government of India scheme that offers business loans to proprietors or
 entrepreneurs of small & medium enterprises.
 
 ## Page 52
@@ -2000,18 +2000,18 @@ are levied based on the passing of a law, and the law that
 governs the provisions for our income tax is the Income Tax
 Act (IT Act), 1961 as amended by subsequent Finance Acts.
 Income tax has to be paid by every individual person, Hindu Undivided Family (HUF),
-Association of Persons (AOP), Body of Individuals (BOI), corpo rate firms, companies,
+Association of Persons (AOP), Body of Individuals (BOI), corporate firms, companies,
 local authorities and all other artificial juridical persons that generate income.
 Taxes are calculated on the annual income of a person, and an annual cycle (year) as per
-the Income Tax law starts on the 1st of April and ends on th e 31st of March of the next
-calendar year. The law recognizes and classifies the year s as "Previous Year" and
+the Income Tax law starts on the 1st of April and ends on the 31st of March of the next
+calendar year. The law recognizes and classifies the years as "Previous Year" and
 "Assessment Year". The year in which income is earned is called the previous year and
 the year in which it is charged to tax is called the assessment year.
 Deductions allowed under Income Tax Act
 Section Key features
 Section 80C  Deduction for money invested in life insurance, provident fund,
 ELSS schemes of mutual fund, Special Bank Deposits of 5 year
-term, contribution to NPS account (Tier 1 acco unt only),
+term, contribution to NPS account (Tier 1 account only),
 National Savings Certificate, principal repayment of housing
 loan, etc.
 Section
@@ -2023,7 +2023,7 @@ deduction under Section 80CCD (1B) of the IT Act.
 above the amount available for claiming deduction under
 Section 80C of IT Act.
 Section 80D  Individuals are eligible to claim deductions for medical insurance
-availed for self, spous e, dependent parents and dependent
+availed for self, spouse, dependent parents and dependent
 children.
 Section 80G  Donations to National Children Foundation, University or
 educational institutions of national importance, Prime Minister's
@@ -2039,7 +2039,7 @@ as a deduction under section 80TTA, subject to limits on the
 
 Financial Education Booklet
 54 | P a g e
-amount claimed as deduction and other cond itions specified
+amount claimed as deduction and other conditions specified
 from time to time.
  Available only to individual or HUF.
  Applicable for savings bank account, post office or cooperative
@@ -2049,7 +2049,7 @@ of property, construction of property or repair of property.
  Applicable on housing loans availed after April 1, 1999.
 * The last date to file Income Tax Returns for an Individual is 31st July of each financial
 year.
-* However, the relevant dates for filing income tax returns and other dedu ctions and
+* However, the relevant dates for filing income tax returns and other deductions and
 details related to Income Tax Act are subject to change; therefore, readers are
 advised to regularly check latest provisions and guidelines issued by Government
 from time to time.
@@ -2064,14 +2064,14 @@ Ponzi Schemes
 Ponzi Schemes are named after Charles Ponzi, who
 constructed one such scheme at the beginning of the 20th
 century. Of course the concept was well known prior to
-Ponzi’s rise to infamy. A Ponzi scheme is a f raudulent
-investment scheme promising high rates o f return to
+Ponzi’s rise to infamy. A Ponzi scheme is a fraudulent
+investment scheme promising high rates of return to
 investors. The scheme generates returns for earlier
 investors from their own money or money paid by subsequent investors, rather than any
 actual profit earned. The perpetuation of the returns that a Ponzi scheme advertises and
 pays requires an ever-increasing flow of money from investors to keep the scheme going.
 The Ponzi scheme usually attract new investors by offering returns that other investments
-cannot guarantee, in the form of short -term returns that are either abnormally high or
+cannot guarantee, in the form of short-term returns that are either abnormally high or
 unusually consistent. As more investors become involved, the likelihood of the scheme
 coming to the attention of authorities increases. It has been the typical experience that
 promoter then vanishes, taking all the remaining investors' money. Such schemes typically
@@ -2100,7 +2100,7 @@ products, services and finances.
 Financial Education Booklet
 56 | P a g e
 Unlicensed sellers
-Any investment scheme requires to be r egistered with concerned authority and state
+Any investment scheme requires to be registered with concerned authority and state
 securities laws require investment professionals and firms to be licensed or registered.
 Most Ponzi schemes involve unlicensed individuals or unregistered firms.
 Non-transparent disclosure
@@ -2134,7 +2134,7 @@ to investing in, purchasing, selling or otherwise dealing in securities or inves
 products, and advice on investment portfolio containing securities or investment products,
 whether written, verbal or through any other means of communication for the benefit of
 the client and shall include financial planning: Provided that investment advice given
-through newspaper, maga zines, any electronic or broadcasting or telecommunications
+through newspaper, magazines, any electronic or broadcasting or telecommunications
 
 ## Page 58
 
@@ -2145,7 +2145,7 @@ advice for the purpose of these regulations. Investment Advisers are supposed to
 registration from SEBI and follow the Code of Conduct.
 It is illegal to act as Investment Adviser without SEBI registration. SEBI is making
 concerted efforts to stop such illegal activity. Some unscrupulous and ignorant entities
-may not get themselves registered and, or, may n ot follow the Code of Conduct.
+may not get themselves registered and, or, may not follow the Code of Conduct.
 Investment Advisers have to limit themselves to giving advice and they should not handle
 cash or securities.
 Some of the malpractices in connection with the activities of registered and unregistered
@@ -2160,7 +2160,7 @@ risk products to clients with a promise that they will recover their losses.
 with the client profile and without the consent of the client.
  Poor service by the IA causing loss of money to the clients.
  Refund related issues.
-Investors therefore n eed to be aware and guard themselves against above mentioned
+Investors therefore need to be aware and guard themselves against above mentioned
 practices present in the market and deal with caution with entities claiming expertise in
 capital markets. Investors are advised to take advice for investment only from entities
 registered under SEBI (Investment Adviser) Regulations, 2013 [Last amended on July 03,
@@ -2196,16 +2196,16 @@ investment alternatives.
  Ask all relevant questions and clear your
 doubts with your Investment Adviser
 before acting on advice.
- Assess the risk —return profile of the
+ Assess the risk—return profile of the
 investment as well as the liquidity and
 safety aspects before making
 investments.
  Insist on getting the terms and
-conditions in w riting duly signed and
+conditions in writing duly signed and
 stamped. Read these terms and
 conditions carefully particularly
 regarding advisory fees, advisory plans
-category of recommendations , etc.
+category of recommendations, etc.
 before dealing with any Investment
 Adviser.
  Be vigilant in your transactions.
@@ -2224,7 +2224,7 @@ returns.
 investment decisions.
  Don't get carried away by luring
 advertisements or market rumours.
- Avoid doing transactio ns only on the
+ Avoid doing transactions only on the
 basis of phone calls or messages from
 any Investment Adviser or its
 representatives.
@@ -2232,7 +2232,7 @@ representatives.
 repeated messages and calls by
 Investment Advisers.
  Do not fall prey to limited period
-discount or other incentive s, gi fts, etc.
+discount or other incentives, gifts, etc.
 offered by Investment Advisers.
  Don't rush into making investments that
 do not match your risk taking appetite
@@ -2244,10 +2244,10 @@ Financial Education Booklet
 60 | P a g e
 Chapter 12 - Grievance Redressal Mechanism
 A. SCORES (SEBI COmplaints REdress System)
-SEBI launched a centrali zed web based complaints redressal system “ SCORES”. The
+SEBI launched a centralized web based complaints redressal system “SCORES”. The
 purposes of SCORES is to provide a platform for aggrieved investors whose grievances,
 pertaining to securities market, remain unresolved by the concerned listed company or
-registered intermediary afte r being approached directly. Whenever an individual entity
+registered intermediary after being approached directly. Whenever an individual entity
 faces an issue, he or she has to first contact his or her company, exchange or broker for
 filing his complaint. If he is not satisfied with the resolution provided to him or has not
 received any response from his concerned company, exchange or broker where he has
@@ -2258,12 +2258,12 @@ years from the date of cause of complaint. In case an investor fails to lodge a 
 within the stipulated time, he may take it up with the entity concerned or in the appropriate
 court of law. You have to first register on SCORES before lodging your complaint. If you
 already have a username and password, then click on the “Register/ login to lodge
-complaints”. If you are a first time user, then click on "Regis ter Here" under the title "Not
+complaints”. If you are a first time user, then click on "Register Here" under the title "Not
 Registered yet?" and enter your personal details such as name, address and mobile
 number. Then, you will have to select a category among the following options: Listed
-companies/registrar & transfer agents; Brokers /stock exch anges; Depository
+companies/registrar & transfer agents; Brokers /stock exchanges; Depository
 participants/depository; Mutual funds; other entities and Information to SEBI. Now you
-should enter specific details of the complaint in the specifi ed category. After the data is
+should enter specific details of the complaint in the specified category. After the data is
 entered in all the headings, you may file your complaint by confirming the same.
 The complaint is then examined by SEBI to see if the subject falls under its purview. If it
 does, SEBI forwards it to the concerned entity with an advice to send a written reply to the
@@ -2274,7 +2274,7 @@ be uploaded for each category is more than 2 MB, it can be sent by post to any S
 office.
 Registration number
 On filing the complaint, a unique registration number will be generated, which can be used
-for future communication. An e -mail with the complaint registration number will also be
+for future communication. An e-mail with the complaint registration number will also be
 sent to the e-mail ID added in the complaint registration form.
 View complaint status
 You can check your complaint status by logging in to your account. In case of physical
@@ -2292,11 +2292,11 @@ Matters that are not considered as complaints in SCORES
 SEBI SCORES Mobile Application
 SEBI has launched SCORES mobile app to facilitate the investors to lodge their
 grievances at the convenience of their smart phones. The App has all the features of
-SCORES which is presently available ele ctronically where investors have to lodge their
+SCORES which is presently available electronically where investors have to lodge their
 complaints by using internet. After mandatory registration on the App, for each grievance
-lodged, investors will get an acknowledgement via SMS and e -mail on their registered
-mobile numbers and e -mail ID resp ectively. Investors can, not only file their grievances
-but also track the status of their complaint s. Investors can also key in reminders for their
+lodged, investors will get an acknowledgement via SMS and e-mail on their registered
+mobile numbers and e-mail ID respectively. Investors can, not only file their grievances
+but also track the status of their complaints. Investors can also key in reminders for their
 pending grievances. Investors can access the FAQs on SCORES for better understanding
 of the complaint handling process. Connectivity to the SEBI Toll Free Helpline number has
 been provided from the App for any clarifications/help that investors may require.
@@ -2328,7 +2328,7 @@ with companies
 Financial Education Booklet
 62 | P a g e
 B. SEBI Help Line - Toll-free Helpline Service for Investors
-To facilitate replies to various queries of the general public , on matters relating to
+To facilitate replies to various queries of the general public, on matters relating to
 securities market, SEBI has undertaken a new initiative and launched toll free helpline
 service numbers, viz. 1800 266 7575 or 1800 22 7575.
 The toll free helpline service is available to investors from all over India in 8 languages.
@@ -2367,7 +2367,7 @@ The helpline service does not offer any legal opinion or investment advice to th
 
 Financial Education Booklet
 63 | P a g e
-For any queries/ feedback or assi stance, you may also contact 022 -26449188/
+For any queries/ feedback or assistance, you may also contact 022-26449188/
 26449199/40459188/40459199 or send e-mail to sebi@sebi.gov.in
 C. Grievance Redressal- Securities Market
 D. Grievance Redressal - Banking Industry
@@ -2406,7 +2406,7 @@ State Governments
 7. Multi-Level Marketing /Pyramid
 Marketing schemes
 State Governments
-8. Contract of Insurance Insurance Regul atory and
+8. Contract of Insurance Insurance Regulatory and
 Development Authority of India
 (IRDAI)
 9. Unit Linked Insurance Plan Insurance Regulatory and
@@ -2448,7 +2448,7 @@ Buying and selling of shares takes place in the stock exchanges through stock br
 These intermediaries in securities market can function only if they are registered with
 SEBI. They are also required to follow the rules, regulations and guidelines laid down by
 SEBI to protect the investors. Similarly, SEBI also regulates other participants in the
-capital market like stock exchanges, brokers, depositories, depository participant s,
+capital market like stock exchanges, brokers, depositories, depository participants,
 portfolio managers, merchant bankers, share transfer agents, etc.
 Mutual funds collect money from different investors and then invest that money in various
 schemes as per the choice of the investors. They are governed by rules formulated by
@@ -2547,7 +2547,7 @@ Tel: (022) 66406789
 Fax: (022) 66406899
 Email: askus@ncdex.com
 Website: www.ncdex.com
-* For contact details of Investor Service Cent res of Exchanges, please refer their
+* For contact details of Investor Service Centres of Exchanges, please refer their
 respective official websites.
 
 ## Page 69
@@ -2586,7 +2586,7 @@ Participants of the workshop may please fill up the form after completion of the
 Date
 1. Name of participant:
 2. Age:
-3. Has your knowledge about personal money management improved af ter reading
+3. Has your knowledge about personal money management improved after reading
 this booklet?
 Yes/ No/ May be
 4. Do you feel that after completion of this booklet, you will redefine your investment
@@ -2617,10 +2617,10 @@ a) Resource Persons Programs
 Financial education programs conducted by SEBI
 empanelled Resource Persons in tier II/ tier III cities/
 towns and in their local languages for various target
-groups like retired persons, home makers, self -help
+groups like retired persons, home makers, self-help
 groups, working executives, etc.
-b) Visit to / by SEBI Programs
-Investor awareness prog rams conducted for students
+b) Visit to/ by SEBI Programs
+Investor awareness programs conducted for students
 from college, schools and professional institutes who
 visit SEBI offices for these programs. SEBI officials
 also visit various educational institutions addressing
@@ -2635,7 +2635,7 @@ Investor Awareness
 Programs through
 Investors’
 Associations (IAs)
-Investor awareness programs in s ecurities market
+Investor awareness programs in securities market
 conducted by SEBI recognised Investors’ Associations
 (IAs) in tier II/ tier III cities/ towns.
 e)
@@ -2654,7 +2654,7 @@ Programs through
 Securities Market
 Trainers (SMARTs)
 Investor awareness programs in Securities Market
-conducted by SEBI recognised Securit ies Market
+conducted by SEBI recognised Securities Market
 Trainers (SMARTs) in tier II/ tier III cities/ towns.
 Details of these Investors awareness programs can be found at SEBI Investor website:
 http://investor.sebi.gov.in.

@@ -4,7 +4,7 @@ Scheme name: HDFC Mid Cap Fund Direct Growth
 Fund house: HDFC Mutual Fund
 Category: Equity
 Sub-category: Mid Cap
-Expense ratio: 0.74%
+Expense ratio: 0.73%
 Exit load: Exit load of 1% if redeemed within 1 year.
 Minimum SIP: ₹100
 Minimum lumpsum: ₹100
