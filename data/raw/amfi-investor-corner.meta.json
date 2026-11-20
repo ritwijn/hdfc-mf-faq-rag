@@ -2,11 +2,11 @@
   "source_id": "amfi-investor-corner",
   "title": "AMFI Investor Corner",
   "url": "https://www.amfiindia.com/investor",
-  "fetched_at": "2026-11-19T02:43:39Z",
+  "fetched_at": "2026-11-20T02:29:20Z",
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "fetch_method": "http",
-  "text_chars": 325,
-  "section_count": 4,
+  "text_chars": 3000,
+  "section_count": 11,
   "error": null
 }

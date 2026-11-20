@@ -1,6 +1,6 @@
 {
-  "last_ingest_at": "2026-11-19T02:45:13Z",
-  "sources_fetched_at": "2026-11-19T02:42:39Z",
+  "last_ingest_at": "2026-11-20T02:30:51Z",
+  "sources_fetched_at": "2026-11-20T02:28:30Z",
   "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
   "embedding_dimension": 384,
   "chroma_persist_dir": "data/chroma",
@@ -14,7 +14,7 @@
     "fact_chunks": true
   },
   "source_count": 24,
-  "chunk_count": 2044,
+  "chunk_count": 2055,
   "sources": [
     "amfi-investor-corner",
     "groww-expense-ratio",
